@@ -1,0 +1,41 @@
+.features {
+  padding: 5rem 0;
+  width: 100%;
+}
+
+.featuresHead { text-align: center; max-width: 680px; margin: 0 auto 3rem; padding: 0 1rem; }
+.kicker {
+  font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--tru-blue);
+}
+.featuresTitle { font-size: clamp(1.8rem, 3.5vw, 2.4rem); font-weight: 800; letter-spacing: -0.03em; margin-top: 0.6rem; }
+
+.card {
+  height: 100%;
+  padding: 2rem;
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 18px;
+  background: var(--ifm-background-color);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(46, 134, 255, 0.5);
+  box-shadow: 0 16px 40px rgba(46, 134, 255, 0.12);
+}
+
+.iconWrap {
+  width: 60px;
+  height: 60px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--tru-blue-soft);
+  color: var(--tru-blue);
+  margin-bottom: 1.4rem;
+}
+.iconWrap svg { width: 30px; height: 30px; }
+
+.cardTitle { font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem; }
+.cardDesc { color: var(--ifm-color-emphasis-700); line-height: 1.6; margin: 0; }
