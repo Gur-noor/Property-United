@@ -15,16 +15,16 @@
   --ifm-color-primary-lightest: #79b0f7;
 
   --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  --ifm-font-size-base: 17.5px;
+  --ifm-font-size-base: 15.5px;
   --ifm-line-height-base: 1.75;
   --ifm-heading-font-weight: 700;
   --ifm-heading-line-height: 1.2;
   --ifm-code-font-size: 90%;
   --ifm-navbar-height: 4rem;
   --ifm-navbar-shadow: none;
-  --ifm-h1-font-size: 2.6rem;
-  --ifm-h2-font-size: 1.9rem;
-  --ifm-h3-font-size: 1.4rem;
+  --ifm-h1-font-size: 2.2rem;
+  --ifm-h2-font-size: 1.65rem;
+  --ifm-h3-font-size: 1.25rem;
   --ifm-leading: 1.4rem;
 
   --tru-blue: #2E86FF;
@@ -52,10 +52,10 @@
 /* ---- Typography polish ---- */
 html { font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11'; }
 h1, h2, h3 { letter-spacing: -0.02em; }
-.markdown h1:first-child { font-size: 2.6rem; font-weight: 800; margin-bottom: 1.5rem; }
-.markdown > h2 { font-size: 1.9rem; border-top: 1px solid var(--ifm-toc-border-color); padding-top: 2rem; margin-top: 2.75rem; }
-.markdown > h3 { font-size: 1.4rem; margin-top: 2rem; }
-.markdown p, .markdown li { font-size: 1.06rem; line-height: 1.78; }
+.markdown h1:first-child { font-size: 2.2rem; font-weight: 800; margin-bottom: 1.5rem; }
+.markdown > h2 { font-size: 1.65rem; border-top: 1px solid var(--ifm-toc-border-color); padding-top: 2rem; margin-top: 2.75rem; }
+.markdown > h3 { font-size: 1.25rem; margin-top: 2rem; }
+.markdown p, .markdown li { font-size: 1rem; line-height: 1.78; }
 .markdown li { margin: 0.35rem 0; }
 
 /* Wider, more comfortable reading column for a long whitepaper */
