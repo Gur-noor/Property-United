@@ -40,6 +40,7 @@ const config = {
   // Enable Mermaid diagrams in Markdown code blocks.
   markdown: {
     mermaid: true,
+    format: 'detect', // .md = CommonMark (raw HTML allowed), .mdx = JSX
   },
 
   themes: [
