@@ -16,7 +16,7 @@ flowchart LR
     D --> E["💵 USDC yield<br/>distributed to holders"]
     E --> F["🔄 Secondary transfers<br/><i>future</i>"]
 
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
+    classDef step fill:#F8FAFC,stroke:#2E86FF,color:#0F172A,stroke-width:2px,font-weight:bold;
     class A,B,C,D,E,F step;
 ```
 
