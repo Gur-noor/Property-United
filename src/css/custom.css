@@ -169,43 +169,64 @@ article { font-size: 1.06rem; }
   color: #fff !important;
 }
 
-/* ── Docs tables — rounded, clean, no cell borders ──────────────────────── */
+/* ── Docs tables — rounded, clean, premium ───────────────────────────────── */
 .markdown table {
   display: table;
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
   border: 1px solid var(--ifm-toc-border-color);
-  border-radius: 12px;
+  border-radius: 14px;
   overflow: hidden;
-  font-size: 0.95rem;
-  margin: 1.4rem 0;
+  font-size: 0.94rem;
+  margin: 1.6rem 0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.1);
 }
 .markdown table thead {
   background: var(--tru-blue-soft);
 }
 .markdown table th {
-  font-weight: 700;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+  font-weight: 800;
+  font-size: 0.78rem;
+  letter-spacing: 0.07em;
   text-transform: uppercase;
   border: none;
-  padding: 0.85rem 1rem;
+  padding: 0.9rem 1.1rem;
   color: var(--tru-blue);
 }
 .markdown table td {
   border: none;
   border-top: 1px solid var(--ifm-toc-border-color);
-  padding: 0.75rem 1rem;
-  line-height: 1.6;
-  vertical-align: top;
+  padding: 0.85rem 1.1rem;
+  line-height: 1.65;
+  vertical-align: middle;
+}
+.markdown table tbody tr:nth-child(even) td {
+  background: rgba(255,255,255,0.012);
 }
 .markdown table tbody tr:hover td {
   background: var(--tru-blue-soft);
   transition: background 0.12s ease;
 }
-.markdown table tbody tr:last-child td:first-child { border-bottom-left-radius: 11px; }
-.markdown table tbody tr:last-child td:last-child { border-bottom-right-radius: 11px; }
+.markdown table tbody tr:last-child td:first-child { border-bottom-left-radius: 13px; }
+.markdown table tbody tr:last-child td:last-child  { border-bottom-right-radius: 13px; }
+
+/* ── Comparison table check/cross cell styling ───────────────────────────── */
+/* Cells containing only ✓ or ✔ */
+.markdown table td:has(> *:only-child):not(:first-child),
+.markdown table td {
+  text-align: left;
+}
+/* Fee rate cells — second column in fee tables */
+.markdown table tbody td:nth-child(2) code,
+.markdown table tbody td:nth-child(2) strong {
+  color: #00d264;
+  font-weight: 800;
+}
+
+/* ── Rate highlight — any cell with just a percentage ────────────────────── */
+[data-theme='dark'] .markdown table th { color: #5ba4ff; }
+[data-theme='dark'] .markdown table td code { color: #7dc4ff; }
 
 /* ── Admonitions ─────────────────────────────────────────────────────────── */
 .theme-admonition {
@@ -286,6 +307,39 @@ article { font-size: 1.06rem; }
   background: transparent !important;
   padding: 2px 6px !important;
 }
+
+/* ── Doc page hero strip ─────────────────────────────────────────────────── */
+.theme-doc-markdown > h1:first-child {
+  position: relative;
+  padding-bottom: 1.5rem;
+}
+.theme-doc-markdown > h1:first-child::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 48px; height: 3px;
+  background: var(--tru-blue);
+  border-radius: 999px;
+}
+
+/* ── Stat highlight boxes ─────────────────────────────────────────────────── */
+.stat-box {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.2rem 2rem;
+  border: 1px solid rgba(46,134,255,0.3);
+  border-radius: 14px;
+  background: rgba(46,134,255,0.07);
+  margin: 0.5rem;
+  min-width: 120px;
+  text-align: center;
+}
+.stat-box strong { font-size: 1.6rem; font-weight: 900; color: #5ba4ff; letter-spacing: -0.03em; }
+.stat-box span   { font-size: 0.78rem; color: var(--tru-text-muted); margin-top: 0.2rem; }
+
+/* ── Alternating row shade for readability ────────────────────────────────── */
+.markdown table thead th { color: var(--tru-blue) !important; font-weight: 800; }
 
 /* ── Pagination cards ─────────────────────────────────────────────────────── */
 .pagination-nav__link {

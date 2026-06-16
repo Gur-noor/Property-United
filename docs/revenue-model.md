@@ -12,11 +12,11 @@ Five transparent fee streams. Revenue scales with AUM, not headcount.
 
 | Fee Type | Rate | Description |
 |---|---|---|
-| **Origination** | 2% | On capital raised per property offering |
-| **Tokenization** | 0.5% | One-time fee on token issuance |
-| **Asset Management** | 1% p.a. | Annual fee on AUM per series |
-| **Disposition** | 1% | On gross sale proceeds at exit |
-| **Secondary Transfer** | 0.5% | Per compliant secondary trade |
+| **Origination** | <span style="color:#00d264;font-weight:800">2%</span> | On capital raised per property offering |
+| **Tokenization** | <span style="color:#00d264;font-weight:800">0.5%</span> | One-time fee on token issuance |
+| **Asset Management** | <span style="color:#00d264;font-weight:800">1% p.a.</span> | Annual fee on AUM per series |
+| **Disposition** | <span style="color:#00d264;font-weight:800">1%</span> | On gross sale proceeds at exit |
+| **Secondary Transfer** | <span style="color:#00d264;font-weight:800">0.5%</span> | Per compliant secondary trade |
 
 All fees are earned by **PlatformCo** and do not reduce rental income distributions to property token holders (except the Asset Management fee, which is deducted from gross rental income before distribution).
 
@@ -47,7 +47,7 @@ Exact fee rates are disclosed in the offering documents for each property series
 | Average gross rent yield | 6%/yr |
 | Annual gross rent | $180,000 |
 | Asset management fee (1% p.a.) | ~$18,000/yr |
-| Annual platform revenue (run-rate) | ~$80,000/yr |
+| Annual platform revenue (run-rate) | <span style="color:#00d264;font-weight:700">~$80,000/yr</span> |
 
 ### Scenario 2 — $30M AUM
 
@@ -59,15 +59,15 @@ Exact fee rates are disclosed in the offering documents for each property series
 | Asset management fee (1% p.a.) | ~$180,000/yr |
 | Secondary transfer volume (est.) | $2,000,000/yr |
 | Secondary transfer fees (0.5%) | ~$10,000/yr |
-| Total platform revenue (run-rate) | ~$800,000/yr |
+| Total platform revenue (run-rate) | <span style="color:#00d264;font-weight:700">~$800,000/yr</span> |
 
 ### One-Time Fees per Property
 
-| Property value | Origination (2%) | Tokenization (1%) | Total one-time |
+| Property value | Origination (2%) | Tokenization (0.5%) | Total one-time |
 |---|---|---|---|
-| $300,000 | $6,000 | $3,000 | $9,000 |
-| $500,000 | $10,000 | $5,000 | $15,000 |
-| $1,000,000 | $20,000 | $10,000 | $30,000 |
+| $300,000 | $6,000 | $1,500 | $7,500 |
+| $500,000 | $10,000 | $2,500 | $12,500 |
+| $1,000,000 | $20,000 | $5,000 | $25,000 |
 
 ## Phase 1 SAFT Investor Perk
 
