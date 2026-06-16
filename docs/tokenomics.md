@@ -34,7 +34,7 @@ The $TRU utility token is planned for **Phase 5** of the roadmap. Token economic
 
 ```mermaid
 pie showData
-    title $TRU Allocation (1,000,000,000 total)
+    title $TRU Token Allocation — 1,000,000,000 Fixed Supply
     "Treasury / Ecosystem" : 25
     "Community / Rewards" : 20
     "Founder / Team / Advisors" : 20

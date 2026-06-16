@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'United Properties TRU™',
   tagline: 'Compliant Tokenized Real Estate Ownership',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -81,17 +81,42 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.svg',
       colorMode: {
         defaultMode: 'dark',
         respectPrefersColorScheme: true,
       },
       mermaid: {
-        theme: {light: 'neutral', dark: 'dark'},
+        theme: {light: 'base', dark: 'base'},
         options: {
           fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, sans-serif',
-          flowchart: {htmlLabels: true, nodeSpacing: 55, rankSpacing: 60, padding: 12},
+          fontSize: 14,
+          flowchart: {
+            htmlLabels: true,
+            nodeSpacing: 65,
+            rankSpacing: 72,
+            padding: 16,
+            curve: 'basis',
+          },
+          themeVariables: {
+            fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, sans-serif',
+            fontSize: '14px',
+            primaryColor: '#2E86FF',
+            primaryTextColor: '#ffffff',
+            primaryBorderColor: '#1a6fdd',
+            lineColor: '#5ba4ff',
+            secondaryColor: '#0d1b3e',
+            tertiaryColor: '#070b14',
+            background: '#070b14',
+            mainBkg: '#0d1b3e',
+            nodeBorder: '#2E86FF',
+            clusterBkg: '#0a0e1a',
+            clusterBorder: '#2E86FF',
+            titleColor: '#ffffff',
+            edgeLabelBackground: '#0a0e1a',
+            attributeBackgroundColorEven: '#0d1b3e',
+            attributeBackgroundColorOdd: '#070b14',
+          },
         },
       },
       announcementBar: {

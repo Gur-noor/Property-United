@@ -1,0 +1,139 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g1" cx="75%" cy="0%" r="65%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2E86FF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#2E86FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="10%" cy="90%" r="55%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2E86FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#2E86FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="rgba(255,255,255,0.028)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E86FF"/>
+      <stop offset="55%" stop-color="#7ab8ff"/>
+      <stop offset="100%" stop-color="#c9defc"/>
+    </linearGradient>
+    <filter id="buildingGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="1200" height="630" fill="#05070E"/>
+  <!-- Grid overlay -->
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <!-- Glow gradients -->
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="5" height="630" fill="#2E86FF"/>
+
+  <!-- ── LEFT CONTENT ── -->
+
+  <!-- Logo mark (T-building) at top left -->
+  <g transform="translate(72, 72)">
+    <rect x="0" y="0" width="48" height="8" rx="4" fill="#2E86FF"/>
+    <rect x="20" y="8" width="8" height="22" rx="2" fill="#2E86FF"/>
+    <rect x="6" y="30" width="36" height="4" rx="2" fill="#2E86FF" opacity="0.35"/>
+    <circle cx="0" cy="4" r="4.5" fill="#5ba4ff"/>
+    <circle cx="48" cy="4" r="4.5" fill="#5ba4ff"/>
+    <circle cx="24" cy="-6" r="3.5" fill="#2E86FF" opacity="0.7"/>
+  </g>
+
+  <!-- Brand name next to logo -->
+  <text x="138" y="107" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="18" fill="#9cc4ff" letter-spacing="0.1em">UNITED PROPERTIES TRU™</text>
+
+  <!-- Main title -->
+  <text x="72" y="220" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="78" fill="#ffffff" letter-spacing="-3">Tokenized Real</text>
+  <text x="72" y="310" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="78" fill="url(#titleGrad)" letter-spacing="-3">Estate Ownership</text>
+
+  <!-- Subtitle -->
+  <text x="72" y="364" font-family="Inter, Arial, sans-serif" font-weight="400" font-size="24" fill="#7a8bab" letter-spacing="-0.3">Compliant · Fractional · On-chain · Regulated</text>
+
+  <!-- Version pill -->
+  <rect x="72" y="392" width="234" height="38" rx="19" fill="rgba(46,134,255,0.13)" stroke="#2E86FF" stroke-width="1" stroke-opacity="0.35"/>
+  <text x="189" y="416" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="14" fill="#5ba4ff" letter-spacing="0.06em">WHITEPAPER v1.0 · JUNE 2026</text>
+
+  <!-- Stats row -->
+  <!-- Stat 1 -->
+  <text x="72" y="490" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="34" fill="#ffffff" letter-spacing="-1">$300T</text>
+  <text x="72" y="516" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="13" fill="#4d5e7a" letter-spacing="0.07em">GLOBAL RE MARKET</text>
+  <rect x="180" y="464" width="1" height="62" fill="rgba(255,255,255,0.07)"/>
+
+  <!-- Stat 2 -->
+  <text x="200" y="490" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="34" fill="#ffffff" letter-spacing="-1">ERC-3643</text>
+  <text x="200" y="516" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="13" fill="#4d5e7a" letter-spacing="0.07em">PERMISSIONED TOKENS</text>
+  <rect x="378" y="464" width="1" height="62" fill="rgba(255,255,255,0.07)"/>
+
+  <!-- Stat 3 -->
+  <text x="398" y="490" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="34" fill="#ffffff" letter-spacing="-1">Reg D 506(c)</text>
+  <text x="398" y="516" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="13" fill="#4d5e7a" letter-spacing="0.07em">SEC COMPLIANT</text>
+  <rect x="634" y="464" width="1" height="62" fill="rgba(255,255,255,0.07)"/>
+
+  <!-- Stat 4 -->
+  <text x="654" y="490" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="34" fill="#ffffff" letter-spacing="-1">1B $TRU</text>
+  <text x="654" y="516" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="13" fill="#4d5e7a" letter-spacing="0.07em">FIXED TOKEN SUPPLY</text>
+
+  <!-- ── RIGHT — Building illustration ── -->
+  <g transform="translate(830, 80)" filter="url(#buildingGlow)">
+    <!-- Building shadow/glow -->
+    <rect x="40" y="80" width="260" height="360" rx="6" fill="#2E86FF" opacity="0.06"/>
+
+    <!-- Main building -->
+    <rect x="48" y="82" width="244" height="336" rx="4" fill="#0a0f1f"/>
+    <rect x="48" y="82" width="244" height="336" rx="4" fill="none" stroke="#2E86FF" stroke-width="1.5" opacity="0.4"/>
+
+    <!-- Window grid -->
+    <rect x="64"  y="102" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="118" y="102" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.3"/>
+    <rect x="172" y="102" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="234" y="102" width="42" height="30" rx="3" fill="#1a3660"/>
+
+    <rect x="64"  y="146" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.25"/>
+    <rect x="118" y="146" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="172" y="146" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.4"/>
+    <rect x="234" y="146" width="42" height="30" rx="3" fill="#1a3660"/>
+
+    <rect x="64"  y="190" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="118" y="190" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.2"/>
+    <rect x="172" y="190" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="234" y="190" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.35"/>
+
+    <rect x="64"  y="234" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.3"/>
+    <rect x="118" y="234" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="172" y="234" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="234" y="234" width="42" height="30" rx="3" fill="#1a3660"/>
+
+    <rect x="64"  y="278" width="42" height="30" rx="3" fill="#1a3660"/>
+    <rect x="118" y="278" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.2"/>
+    <rect x="172" y="278" width="42" height="30" rx="3" fill="#2E86FF" opacity="0.28"/>
+    <rect x="234" y="278" width="42" height="30" rx="3" fill="#1a3660"/>
+
+    <!-- Door -->
+    <rect x="138" y="354" width="64" height="64" rx="3" fill="#060a14"/>
+    <rect x="138" y="354" width="64" height="64" rx="3" fill="none" stroke="#2E86FF" stroke-width="1" opacity="0.3"/>
+
+    <!-- Blockchain nodes -->
+    <circle cx="28" cy="200" r="10" fill="#2E86FF" opacity="0.9"/>
+    <circle cx="28" cy="270" r="7"  fill="#5ba4ff" opacity="0.7"/>
+    <circle cx="310" cy="160" r="10" fill="#2E86FF" opacity="0.9"/>
+    <circle cx="310" cy="260" r="7"  fill="#5ba4ff" opacity="0.7"/>
+    <circle cx="170" cy="40"  r="12" fill="#2E86FF"/>
+    <circle cx="170" cy="40"  r="18" fill="none" stroke="#2E86FF" stroke-width="1.5" opacity="0.3"/>
+
+    <!-- Chain lines -->
+    <line x1="34"  y1="204" x2="68"  y2="217" stroke="#2E86FF" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.55"/>
+    <line x1="34"  y1="272" x2="68"  y2="285" stroke="#5ba4ff" stroke-width="1"   stroke-dasharray="4 3" opacity="0.4"/>
+    <line x1="305" y1="164" x2="272" y2="172" stroke="#2E86FF" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.55"/>
+    <line x1="305" y1="263" x2="272" y2="252" stroke="#5ba4ff" stroke-width="1"   stroke-dasharray="4 3" opacity="0.4"/>
+    <line x1="170" y1="52"  x2="170" y2="80"  stroke="#2E86FF" stroke-width="2"   opacity="0.6"/>
+  </g>
+
+  <!-- Bottom border line -->
+  <rect x="0" y="626" width="1200" height="4" fill="url(#titleGrad)" opacity="0.5"/>
+</svg>

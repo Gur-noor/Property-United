@@ -15,8 +15,8 @@ flowchart LR
     S6 --> S7["7 · Commitment"] --> S8["8 · SAFT Sign"] --> S9["9 · Wallet"]
     S9 --> S10["10 · Admin Review"] --> S11["11 · Approved ✅"]
 
-    classDef step fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
-    classDef done fill:#2E86FF,stroke:#1f78f0,color:#fff;
+    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
+    classDef done fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
     class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 step;
     class S11 done;
 ```

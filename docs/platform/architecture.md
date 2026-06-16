@@ -24,7 +24,7 @@ flowchart TB
     end
     APP --> PROTO --> COMP --> LEGAL
 
-    classDef layer fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
+    classDef layer fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
     class A1,A2,A3,A4 layer;
 ```
 

@@ -23,8 +23,8 @@ flowchart LR
     P3 --> P4["<b>Phase 4</b><br/>Liquidity<br/><i>Conditional</i>"]
     P4 --> P5["<b>Phase 5</b><br/>$TRU Token<br/><i>On-chain</i>"]
 
-    classDef now fill:#2E86FF,stroke:#1f78f0,color:#fff;
-    classDef later fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
+    classDef now fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
+    classDef later fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
     class P0,P1 now;
     class P2,P3,P4,P5 later;
 ```

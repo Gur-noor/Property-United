@@ -23,9 +23,9 @@ flowchart TD
     M --> S3
     P -. "licenses IP (Phase 5)" .-> F
 
-    classDef platform fill:#2E86FF,stroke:#1f78f0,color:#fff;
-    classDef series fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
-    classDef foundation fill:#0a0e1a,stroke:#2E86FF,color:#fff;
+    classDef platform fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
+    classDef series fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
+    classDef foundation fill:#07101f,stroke:#5ba4ff,color:#9cc4ff,font-weight:600;
     class P,M platform;
     class S1,S2,S3 series;
     class F foundation;

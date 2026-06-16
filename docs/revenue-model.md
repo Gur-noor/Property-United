@@ -8,25 +8,31 @@ United Properties TRU™ generates revenue through a diversified fee structure t
 
 ## Fee Structure
 
-| Fee | Rate | Trigger |
-|---|---|---|
-| Origination / Acquisition | 1–3% of property value | At each property close |
-| Tokenization / Listing | 0.5–2% of property value | At token mint |
-| Asset Management | 1–2% of rent / year | Ongoing, per Series |
-| Disposition | 1–2% of sale price | At property exit / sale |
-| Secondary Transfer | 0.25–1% | Per whitelisted token transfer |
+Five transparent fee streams. Revenue scales with AUM, not headcount.
 
-All fees are earned by **PlatformCo** and do not reduce rental income distributions to property token holders (except the asset management fee, which is deducted from gross rental income before distribution).
+| Fee Type | Rate | Description |
+|---|---|---|
+| **Origination** | 2% | On capital raised per property offering |
+| **Tokenization** | 0.5% | One-time fee on token issuance |
+| **Asset Management** | 1% p.a. | Annual fee on AUM per series |
+| **Disposition** | 1% | On gross sale proceeds at exit |
+| **Secondary Transfer** | 0.5% | Per compliant secondary trade |
+
+All fees are earned by **PlatformCo** and do not reduce rental income distributions to property token holders (except the Asset Management fee, which is deducted from gross rental income before distribution).
+
+:::note Fee disclosure
+Exact fee rates are disclosed in the offering documents for each property series prior to subscription. The rates above represent the current standard fee schedule.
+:::
 
 ## Who Pays What
 
-| Fee | Paid by | When |
-|---|---|---|
-| Origination | Property seller / issuer | At property acquisition |
-| Tokenization | Property issuer / Series | At token mint |
-| Asset management | Property token holders (from rent) | Monthly/quarterly |
-| Disposition | Property token holders (from sale) | At exit |
-| Secondary transfer | Transferring investor | Per transfer |
+| Fee | Rate | Paid by | When |
+|---|---|---|---|
+| Origination | 2% | Property issuer / Series | At capital raise close |
+| Tokenization | 0.5% | Property issuer / Series | At token issuance |
+| Asset Management | 1% p.a. | Property token holders (deducted from rent) | Ongoing, monthly/quarterly |
+| Disposition | 1% | Property token holders (deducted from sale proceeds) | At property exit |
+| Secondary Transfer | 0.5% | Transferring investor | Per compliant transfer |
 
 ## Illustrative Economics
 
@@ -40,7 +46,7 @@ All fees are earned by **PlatformCo** and do not reduce rental income distributi
 | Average occupancy | 90% |
 | Average gross rent yield | 6%/yr |
 | Annual gross rent | $180,000 |
-| Asset management fee (1.5%) | ~$27,000/yr |
+| Asset management fee (1% p.a.) | ~$18,000/yr |
 | Annual platform revenue (run-rate) | ~$80,000/yr |
 
 ### Scenario 2 — $30M AUM
@@ -50,7 +56,7 @@ All fees are earned by **PlatformCo** and do not reduce rental income distributi
 | Total AUM | $30,000,000 |
 | Annual gross rent yield | 6%/yr |
 | Annual gross rent | $1,800,000 |
-| Asset management fee (1.5%) | ~$270,000/yr |
+| Asset management fee (1% p.a.) | ~$180,000/yr |
 | Secondary transfer volume (est.) | $2,000,000/yr |
 | Secondary transfer fees (0.5%) | ~$10,000/yr |
 | Total platform revenue (run-rate) | ~$800,000/yr |
