@@ -1,4 +1,4 @@
----
+﻿---
 title: The Solution
 ---
 
@@ -29,6 +29,11 @@ flowchart LR
 5. **Yield distribution.** Rental income is collected and distributed pro-rata to token holders in USDC, monthly or quarterly, via a snapshot mechanism.
 6. **Managed secondary transfers.** In later phases, token holders can transfer positions to other verified wallets, with full compliance controls enforced on-chain by ERC-3643.
 
+
+<div style="margin:1.8rem 0;display:grid;grid-template-columns:1fr 1fr;gap:12px">
+<div style="background:#060a14;border:2px solid rgba(46,134,255,.4);border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">Property Token (ERC-3643)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#c0cfe8">✦ Represents fractional real estate ownership</div><div style="font-size:.8rem;color:#c0cfe8">✦ USDC rental yield distributions</div><div style="font-size:.8rem;color:#c0cfe8">✦ Permissioned — KYC/whitelist required</div><div style="font-size:.8rem;color:#c0cfe8">✦ Reg D 506(c) compliant</div></div></div>
+<div style="background:#060a14;border:2px solid rgba(130,80,255,.35);border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#a070ff;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">$TRU Token (ERC-20)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#c0cfe8">✦ Platform utility — fee discounts, tiers</div><div style="font-size:.8rem;color:#c0cfe8">✦ DAO governance rights (Phase 5+)</div><div style="font-size:.8rem;color:#c0cfe8">✦ 1B fixed supply · No rental rights</div><div style="font-size:.8rem;color:#c0cfe8">✦ Issued at TGE via SAFT warrants</div></div></div>
+</div>
 ## The Two-Token Model
 
 United Properties TRU™ operates two distinct token types:

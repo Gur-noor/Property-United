@@ -1,4 +1,4 @@
----
+﻿---
 title: Investor Onboarding
 ---
 
@@ -6,6 +6,33 @@ title: Investor Onboarding
 
 The United Properties TRU™ onboarding process is designed to be thorough, compliant, and as frictionless as possible for verified investors. Every step is required by applicable law or necessary for platform integrity.
 
+
+<div style="margin:1.8rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.4rem">
+<div style="font-size:.72rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">11-Step Investor Journey Overview</div>
+<div style="display:flex;flex-wrap:wrap;gap:6px">
+<span style="background:rgba(46,134,255,.15);border:1px solid rgba(46,134,255,.3);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">1. Landing</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.12);border:1px solid rgba(46,134,255,.25);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">2. Education</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.1);border:1px solid rgba(46,134,255,.22);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">3. Register</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.09);border:1px solid rgba(46,134,255,.2);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">4. KYC/KYB</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.08);border:1px solid rgba(46,134,255,.18);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">5. Accreditation</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.07);border:1px solid rgba(46,134,255,.16);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">6. Disclosure</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.06);border:1px solid rgba(46,134,255,.14);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">7. Commitment</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.06);border:1px solid rgba(46,134,255,.13);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">8. SAFT Sign</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.12);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">9. Wire</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.1);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">10. Confirm</span>
+<span style="color:#5ba4ff;align-self:center">→</span>
+<span style="background:rgba(46,134,255,.15);border:1px solid #2E86FF;border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#fff">11. Investor ✓</span>
+</div>
+</div>
 ## The 11-Step Journey
 
 ```mermaid

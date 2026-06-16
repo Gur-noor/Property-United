@@ -1,4 +1,4 @@
----
+﻿---
 title: The Problem
 ---
 
@@ -6,6 +6,15 @@ title: The Problem
 
 Real estate consistently outperforms other asset classes over long time horizons — yet it remains stubbornly inaccessible and inefficient for the vast majority of potential investors.
 
+
+<div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🏦</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">High Capital Required</div><div style="font-size:.78rem;color:#8895b3">$60k–$300k+ down payment needed to enter</div></div>
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🔒</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Limited Deal Access</div><div style="font-size:.78rem;color:#8895b3">Best deals locked in private networks</div></div>
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🌫️</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Opaque Processes</div><div style="font-size:.78rem;color:#8895b3">Chain of intermediaries, no single source of truth</div></div>
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🧊</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Total Illiquidity</div><div style="font-size:.78rem;color:#8895b3">Months to exit — capital locked in</div></div>
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">⚙️</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Admin Complexity</div><div style="font-size:.78rem;color:#8895b3">Leases, taxes, maintenance — full burden on owner</div></div>
+<div style="background:#0a0e1a;border:1px solid rgba(255,80,80,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🌍</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Geographic Limits</div><div style="font-size:.78rem;color:#8895b3">Local relationships required for every market</div></div>
+</div>
 ## 1. High Capital Requirements
 
 Buying investment property outright requires:

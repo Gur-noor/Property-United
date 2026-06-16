@@ -1,4 +1,4 @@
----
+﻿---
 title: Security & Compliance
 ---
 
@@ -6,6 +6,17 @@ title: Security & Compliance
 
 Security is foundational to United Properties TRU™ — both at the platform and smart-contract level.
 
+
+<div style="margin:1.8rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.5rem">
+<div style="font-size:.72rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">Layered Security Model</div>
+<div style="display:flex;flex-direction:column;gap:7px">
+<div style="background:rgba(46,134,255,.15);border:1px solid rgba(46,134,255,.35);border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Identity & Compliance Layer</span><span style="font-size:.75rem;color:#5ba4ff;font-weight:700">KYC · AML · Accredited Verification</span></div>
+<div style="background:rgba(46,134,255,.1);border:1px solid rgba(46,134,255,.25);border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Smart Contract Layer</span><span style="font-size:.75rem;color:#5ba4ff;font-weight:700">ERC-3643 · Audited · Upgradeable</span></div>
+<div style="background:rgba(46,134,255,.07);border:1px solid rgba(46,134,255,.18);border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Data & Access Layer</span><span style="font-size:.75rem;color:#5ba4ff;font-weight:700">MFA · Encryption · RBAC</span></div>
+<div style="background:rgba(46,134,255,.04);border:1px solid rgba(46,134,255,.12);border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Infrastructure Layer</span><span style="font-size:.75rem;color:#5ba4ff;font-weight:700">SOC 2 · ISO 27001 · Uptime SLA</span></div>
+<div style="background:rgba(46,134,255,.02);border:1px solid rgba(46,134,255,.08);border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Legal & Regulatory Layer</span><span style="font-size:.75rem;color:#5ba4ff;font-weight:700">Reg D · Delaware LLC · SEC Filings</span></div>
+</div>
+</div>
 ## Platform Security (Phase 1)
 
 | Control | Implementation |

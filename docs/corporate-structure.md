@@ -1,4 +1,4 @@
----
+﻿---
 title: Corporate Structure
 ---
 
@@ -72,6 +72,13 @@ Each property series is **bankruptcy-remote**: if one property fails, it cannot 
 
 Established in Phase 5 as the issuer of the $TRU utility token. Licenses the TRU™ brand and platform IP from PlatformCo. Structure and jurisdiction to be determined with legal counsel at token launch.
 
+
+<div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
+<div style="background:#060a14;border:1px solid rgba(46,134,255,.25);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PlatformCo</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Delaware C-Corp</div><div style="font-size:.72rem;color:#c0cfe8">Operational entity · Holds SAFE · Manages platform</div></div>
+<div style="background:#060a14;border:1px solid rgba(46,134,255,.25);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PropCo Master</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Delaware Series LLC</div><div style="font-size:.72rem;color:#c0cfe8">Parent of all property series · Bankruptcy-remote</div></div>
+<div style="background:#060a14;border:2px solid rgba(46,134,255,.4);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#fff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">Series 1, 2, 3…</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Individual Properties</div><div style="font-size:.72rem;color:#c0cfe8">Isolated per property · Holds title · Issues tokens</div></div>
+</div>
+<div style="margin:.5rem 0 1.5rem;background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.12);border-radius:8px;padding:.8rem 1rem;font-size:.78rem;color:#8895b3"><strong style="color:#5ba4ff">Risk Isolation:</strong> Each property series is a legally separate entity. A default on one property cannot affect other series or PlatformCo.</div>
 ## Risk Isolation
 
 The two-entity design means:

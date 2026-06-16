@@ -1,4 +1,4 @@
----
+﻿---
 title: Revenue Model
 ---
 
@@ -6,6 +6,17 @@ title: Revenue Model
 
 United Properties TRU™ generates revenue through a diversified fee structure tied directly to platform activity. Revenue scales with Assets Under Management (AUM) — not headcount.
 
+
+<div style="margin:1.8rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.5rem">
+<div style="font-size:.72rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1.1rem">Platform Revenue Streams</div>
+<div style="display:flex;flex-direction:column;gap:9px">
+<div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#c0cfe8;width:180px;flex-shrink:0;font-weight:600">Origination Fee</div><div style="height:22px;width:60%;background:linear-gradient(90deg,#0d2a6e,#1a4dbc);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#a8c8ff">1–2% of offering size</span></div></div>
+<div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#c0cfe8;width:180px;flex-shrink:0;font-weight:600">Tokenization Fee</div><div style="height:22px;width:45%;background:linear-gradient(90deg,#0d2a6e,#1a4dbc);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#a8c8ff">0.5–1% at mint</span></div></div>
+<div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#c0cfe8;width:180px;flex-shrink:0;font-weight:600">Management Fee</div><div style="height:22px;width:35%;background:linear-gradient(90deg,#0d2a6e,#1a4dbc);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#a8c8ff">0.5–1% p.a.</span></div></div>
+<div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#c0cfe8;width:180px;flex-shrink:0;font-weight:600">Transfer Fee</div><div style="height:22px;width:20%;background:linear-gradient(90deg,#0d2a6e,#1a4dbc);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#a8c8ff">0.5% P2P</span></div></div>
+<div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#c0cfe8;width:180px;flex-shrink:0;font-weight:600">Promotion Fees</div><div style="height:22px;width:25%;background:linear-gradient(90deg,#0d2a6e,#1a4dbc);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#a8c8ff">Originator listings</span></div></div>
+</div>
+</div>
 ## Fee Structure
 
 Five transparent fee streams. Revenue scales with AUM, not headcount.
