@@ -7,30 +7,30 @@ title: Investor Onboarding
 The United Properties TRU™ onboarding process is designed to be thorough, compliant, and as frictionless as possible for verified investors. Every step is required by applicable law or necessary for platform integrity.
 
 
-<div style="margin:1.8rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.4rem">
-<div style="font-size:.72rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">11-Step Investor Journey Overview</div>
-<div style="display:flex;flex-wrap:wrap;gap:6px">
-<span style="background:rgba(46,134,255,.15);border:1px solid rgba(46,134,255,.3);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">1. Landing</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.12);border:1px solid rgba(46,134,255,.25);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">2. Education</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.1);border:1px solid rgba(46,134,255,.22);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">3. Register</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.09);border:1px solid rgba(46,134,255,.2);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">4. KYC/KYB</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.08);border:1px solid rgba(46,134,255,.18);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">5. Accreditation</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.07);border:1px solid rgba(46,134,255,.16);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">6. Disclosure</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.06);border:1px solid rgba(46,134,255,.14);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">7. Commitment</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.06);border:1px solid rgba(46,134,255,.13);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">8. SAFT Sign</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.12);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">9. Wire</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.1);border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#a8c8ff">10. Confirm</span>
-<span style="color:#5ba4ff;align-self:center">→</span>
-<span style="background:rgba(46,134,255,.15);border:1px solid #2E86FF;border-radius:6px;padding:4px 10px;font-size:.76rem;font-weight:700;color:#fff">11. Investor ✓</span>
+<div style="margin:1.8rem 0;background:#07101e;border:1px solid #1e4080;border-radius:14px;padding:1.4rem">
+<div style="font-size:.7rem;font-weight:700;color:#60a5fa;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">11-Step Investor Journey Overview</div>
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center">
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">1. Landing</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">2. Education</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">3. Register</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">4. KYC/KYB</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">5. Accreditation</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">6. Disclosure</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">7. Commitment</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">8. SAFT Sign</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">9. Wire</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1a3a7a;border:1px solid #2d5fa8;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">10. Confirm</span>
+<span style="color:#60a5fa;font-weight:700">→</span>
+<span style="background:#1d4ed8;border:1px solid #3b82f6;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">11. Investor ✓</span>
 </div>
 </div>
 ## The 11-Step Journey
@@ -42,7 +42,7 @@ flowchart LR
     S6 --> S7["7 · Commitment"] --> S8["8 · SAFT Sign"] --> S9["9 · Wallet"]
     S9 --> S10["10 · Admin Review"] --> S11["11 · Approved ✅"]
 
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
+    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
     classDef done fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
     class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 step;
     class S11 done;

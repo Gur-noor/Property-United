@@ -1,4 +1,4 @@
----
+﻿---
 title: Property Tokens
 ---
 
@@ -62,23 +62,23 @@ The token denomination is set per-offering. Higher-value properties may use a la
 
 ## Property Token Lifecycle
 
-<div style="margin:1.5rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.5rem;overflow-x:auto">
+<div style="margin:1.5rem 0;background:#07101e;border:1px solid #1e4080;border-radius:14px;padding:1.5rem;overflow-x:auto">
 <div style="display:flex;align-items:center;gap:0;min-width:560px">
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#2E86FF;color:#fff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">1</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Source</div><div style="font-size:.68rem;color:#8895b3">Due diligence</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(46,134,255,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #2E86FF;color:#5ba4ff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">2</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">SPV Created</div><div style="font-size:.68rem;color:#8895b3">Series LLC</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(46,134,255,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #2E86FF;color:#5ba4ff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">3</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Offering Prep</div><div style="font-size:.68rem;color:#8895b3">Reg D 506(c)</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(46,134,255,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #2E86FF;color:#5ba4ff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">4</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">KYC / Whitelist</div><div style="font-size:.68rem;color:#8895b3">Wallet verified</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(46,134,255,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #2E86FF;color:#5ba4ff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">5</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Tokens Minted</div><div style="font-size:.68rem;color:#8895b3">ERC-3643</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(0,190,120,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #00be78;color:#00be78;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">6</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">USDC Yield</div><div style="font-size:.68rem;color:#8895b3">Monthly dist.</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(140,80,255,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid rgba(140,80,255,.7);color:#9d6fff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">7</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">P2P Transfer</div><div style="font-size:.68rem;color:#8895b3">Phase 3+</div></div>
-<div style="flex:0 0 24px;height:1px;background:rgba(255,185,50,.3)"></div>
-<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid rgba(255,185,50,.6);color:#ffb932;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">8</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Exit / Sale</div><div style="font-size:.68rem;color:#8895b3">Pro-rata payout</div></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#2E86FF;color:#fff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">1</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Source</div><div style="font-size:.68rem;color:#b8cfe8">Due diligence</div></div>
+<div style="flex:0 0 24px;height:1px;background:#1e3d6e"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #3b82f6;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">2</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">SPV Created</div><div style="font-size:.68rem;color:#b8cfe8">Series LLC</div></div>
+<div style="flex:0 0 24px;height:1px;background:#1e3d6e"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #3b82f6;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">3</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Offering Prep</div><div style="font-size:.68rem;color:#b8cfe8">Reg D 506(c)</div></div>
+<div style="flex:0 0 24px;height:1px;background:#1e3d6e"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #3b82f6;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">4</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">KYC / Whitelist</div><div style="font-size:.68rem;color:#b8cfe8">Wallet verified</div></div>
+<div style="flex:0 0 24px;height:1px;background:#1e3d6e"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0d1b3e;border:1.5px solid #3b82f6;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">5</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Tokens Minted</div><div style="font-size:.68rem;color:#b8cfe8">ERC-3643</div></div>
+<div style="flex:0 0 24px;height:1px;background:#0e5c38"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#0e5c38;border:1.5px solid #00be78;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">6</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">USDC Yield</div><div style="font-size:.68rem;color:#b8cfe8">Monthly dist.</div></div>
+<div style="flex:0 0 24px;height:1px;background:#4a1f8a"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#2d1060;border:1.5px solid #9d6fff;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">7</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">P2P Transfer</div><div style="font-size:.68rem;color:#b8cfe8">Phase 3+</div></div>
+<div style="flex:0 0 24px;height:1px;background:#6e4a00"></div>
+<div style="text-align:center;flex:1"><div style="width:32px;height:32px;border-radius:50%;background:#4a3000;border:1.5px solid #ffb932;color:#ffffff;font-size:.8rem;font-weight:800;display:inline-flex;align-items:center;justify-content:center;margin-bottom:6px">8</div><div style="font-size:.75rem;font-weight:700;color:#d4dff0">Exit / Sale</div><div style="font-size:.68rem;color:#b8cfe8">Pro-rata payout</div></div>
 </div>
 </div>
 

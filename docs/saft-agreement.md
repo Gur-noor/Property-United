@@ -1,4 +1,4 @@
----
+﻿---
 title: SAFT Agreement
 ---
 
@@ -9,21 +9,21 @@ Phase 1 of United Properties TRU™ raises early capital and investor commitment
 ## The Two Instruments
 
 <div style="margin:1.5rem 0;display:grid;grid-template-columns:1fr 1fr;gap:1rem">
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.35);border-radius:14px;overflow:hidden">
+<div style="background:#0d1f3c;border:1px solid #2d5fa8;border-radius:14px;overflow:hidden">
 <div style="height:3px;background:linear-gradient(90deg,#1a6fdd,#2E86FF,#5ba4ff)"></div>
 <div style="padding:1.3rem 1.5rem">
 <div style="font-size:.7rem;font-weight:800;color:#5ba4ff;letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px">Instrument 1</div>
 <div style="font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:4px">SAFE</div>
-<div style="font-size:.82rem;color:#8895b3;margin-bottom:1rem">Simple Agreement for Future Equity</div>
+<div style="font-size:.82rem;color:#a0b4cc;margin-bottom:1rem">Simple Agreement for Future Equity</div>
 <div style="font-size:.82rem;color:#d4dff0;line-height:1.7"><strong style="color:#fff">Issuer:</strong> PlatformCo (Delaware C-Corp)<br/><strong style="color:#fff">Template:</strong> YC Standard Post-Money SAFE<br/><strong style="color:#fff">Cap:</strong> $2–3M Valuation Cap<br/><strong style="color:#fff">Converts to:</strong> PlatformCo equity at next priced round</div>
 </div>
 </div>
-<div style="background:#0a0e1a;border:1px solid rgba(140,80,255,.35);border-radius:14px;overflow:hidden">
+<div style="background:#0d1f3c;border:1px solid rgba(140,80,255,.35);border-radius:14px;overflow:hidden">
 <div style="height:3px;background:linear-gradient(90deg,#6e3fd4,#9d6fff,#c4a8ff)"></div>
 <div style="padding:1.3rem 1.5rem">
 <div style="font-size:.7rem;font-weight:800;color:#9d6fff;letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px">Instrument 2</div>
 <div style="font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:4px">SAFT Token Warrant</div>
-<div style="font-size:.82rem;color:#8895b3;margin-bottom:1rem">Simple Agreement for Future Tokens</div>
+<div style="font-size:.82rem;color:#a0b4cc;margin-bottom:1rem">Simple Agreement for Future Tokens</div>
 <div style="font-size:.82rem;color:#d4dff0;line-height:1.7"><strong style="color:#fff">Token:</strong> $TRU Utility Token<br/><strong style="color:#fff">Pool:</strong> 15% of 1B supply (150M TRU)<br/><strong style="color:#fff">Trigger:</strong> Token Generation Event (Phase 5)<br/><strong style="color:#fff">Today:</strong> No tokens issued — contractual right only</div>
 </div>
 </div>

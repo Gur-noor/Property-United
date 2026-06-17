@@ -15,11 +15,11 @@ The platform operates under a **two-token model**:
 - **Utility Token ($TRU)** — A future platform-level token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. Issued in Phase 5 only.
 
 
-<div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.4rem">
-<div style="text-align:center;padding:.5rem"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">ERC-3643</div><div style="font-size:.72rem;color:#5ba4ff;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">Token Standard</div></div>
-<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">Reg D 506(c)</div><div style="font-size:.72rem;color:#5ba4ff;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">SEC Offering</div></div>
-<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">1,000,000,000</div><div style="font-size:.72rem;color:#5ba4ff;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">$TRU Fixed Supply</div></div>
-<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">Delaware LLC</div><div style="font-size:.72rem;color:#5ba4ff;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">Structure</div></div>
+<div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;background:#07101e;border:1px solid #1e4080;border-radius:14px;padding:1.4rem">
+<div style="text-align:center;padding:.5rem"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">ERC-3643</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">Token Standard</div></div>
+<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">Reg D 506(c)</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">SEC Offering</div></div>
+<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">1,000,000,000</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">$TRU Fixed Supply</div></div>
+<div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">Delaware LLC</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">Structure</div></div>
 </div>
 ## Phase 1 Scope
 

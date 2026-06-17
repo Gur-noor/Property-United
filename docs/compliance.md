@@ -1,4 +1,4 @@
----
+﻿---
 title: Compliance Framework
 ---
 
@@ -7,29 +7,29 @@ title: Compliance Framework
 Compliance is not a checkbox for United Properties TRU™ — it is the foundation of every product decision. Operating in regulated securities means getting compliance right from day one, not retrofitting it later.
 
 <div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
+<div style="background:#0d1f3c;border:1px solid rgba(46,134,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
 <div style="font-size:1.6rem;margin-bottom:8px">🛡️</div>
 <div style="font-size:.8rem;font-weight:800;color:#fff;margin-bottom:4px">Reg D 506(c)</div>
-<div style="font-size:.75rem;color:#5ba4ff">SEC-Exempt Offering</div>
-<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#00be78;background:rgba(0,190,120,.1);border-radius:6px;padding:3px 8px">✓ Active</div>
+<div style="font-size:.75rem;color:#60a5fa">SEC-Exempt Offering</div>
+<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#ffffff;background:#0e6640;border-radius:6px;padding:3px 8px">✓ Active</div>
 </div>
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
+<div style="background:#0d1f3c;border:1px solid rgba(46,134,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
 <div style="font-size:1.6rem;margin-bottom:8px">🔍</div>
 <div style="font-size:.8rem;font-weight:800;color:#fff;margin-bottom:4px">KYC / AML</div>
-<div style="font-size:.75rem;color:#5ba4ff">Identity Screening</div>
-<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#00be78;background:rgba(0,190,120,.1);border-radius:6px;padding:3px 8px">✓ Active — Phase 1</div>
+<div style="font-size:.75rem;color:#60a5fa">Identity Screening</div>
+<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#ffffff;background:#0e6640;border-radius:6px;padding:3px 8px">✓ Active — Phase 1</div>
 </div>
-<div style="background:#0a0e1a;border:1px solid rgba(140,80,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
+<div style="background:#0d1f3c;border:1px solid rgba(140,80,255,.3);border-radius:12px;padding:1.2rem;text-align:center">
 <div style="font-size:1.6rem;margin-bottom:8px">⛓️</div>
 <div style="font-size:.8rem;font-weight:800;color:#fff;margin-bottom:4px">ERC-3643</div>
-<div style="font-size:.75rem;color:#9d6fff">On-Chain Controls</div>
-<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#9d6fff;background:rgba(140,80,255,.1);border-radius:6px;padding:3px 8px">⚡ Phase 2+</div>
+<div style="font-size:.75rem;color:#c4b5fd">On-Chain Controls</div>
+<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#ffffff;background:#4a2080;border-radius:6px;padding:3px 8px">⚡ Phase 2+</div>
 </div>
-<div style="background:#0a0e1a;border:1px solid rgba(255,185,50,.25);border-radius:12px;padding:1.2rem;text-align:center">
+<div style="background:#0d1f3c;border:1px solid rgba(255,185,50,.25);border-radius:12px;padding:1.2rem;text-align:center">
 <div style="font-size:1.6rem;margin-bottom:8px">✅</div>
 <div style="font-size:.8rem;font-weight:800;color:#fff;margin-bottom:4px">Accredited Only</div>
 <div style="font-size:.75rem;color:#ffb932">Reg D Verified</div>
-<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#00be78;background:rgba(0,190,120,.1);border-radius:6px;padding:3px 8px">✓ Required</div>
+<div style="margin-top:10px;font-size:.7rem;font-weight:700;color:#ffffff;background:#0e6640;border-radius:6px;padding:3px 8px">✓ Required</div>
 </div>
 </div>
 

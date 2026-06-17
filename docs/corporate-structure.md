@@ -24,7 +24,7 @@ flowchart TD
     P -. "licenses IP (Phase 5)" .-> F
 
     classDef platform fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
-    classDef series fill:#0d1b3e,stroke:#2E86FF,color:#a8c8ff,font-weight:600;
+    classDef series fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
     classDef foundation fill:#07101f,stroke:#5ba4ff,color:#9cc4ff,font-weight:600;
     class P,M platform;
     class S1,S2,S3 series;
@@ -74,11 +74,11 @@ Established in Phase 5 as the issuer of the $TRU utility token. Licenses the TRU
 
 
 <div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
-<div style="background:#060a14;border:1px solid rgba(46,134,255,.25);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PlatformCo</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Delaware C-Corp</div><div style="font-size:.72rem;color:#c0cfe8">Operational entity · Holds SAFE · Manages platform</div></div>
-<div style="background:#060a14;border:1px solid rgba(46,134,255,.25);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PropCo Master</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Delaware Series LLC</div><div style="font-size:.72rem;color:#c0cfe8">Parent of all property series · Bankruptcy-remote</div></div>
-<div style="background:#060a14;border:2px solid rgba(46,134,255,.4);border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#fff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">Series 1, 2, 3…</div><div style="font-size:.72rem;color:#8895b3;margin-bottom:4px">Individual Properties</div><div style="font-size:.72rem;color:#c0cfe8">Isolated per property · Holds title · Issues tokens</div></div>
+<div style="background:#07101e;border:1px solid #1e4080;border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PlatformCo</div><div style="font-size:.72rem;color:#a0b4cc;margin-bottom:4px">Delaware C-Corp</div><div style="font-size:.72rem;color:#e8f0ff">Operational entity · Holds SAFE · Manages platform</div></div>
+<div style="background:#07101e;border:1px solid #1e4080;border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#5ba4ff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">PropCo Master</div><div style="font-size:.72rem;color:#a0b4cc;margin-bottom:4px">Delaware Series LLC</div><div style="font-size:.72rem;color:#e8f0ff">Parent of all property series · Bankruptcy-remote</div></div>
+<div style="background:#07101e;border:2px solid #2d5fa8;border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#fff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">Series 1, 2, 3…</div><div style="font-size:.72rem;color:#a0b4cc;margin-bottom:4px">Individual Properties</div><div style="font-size:.72rem;color:#e8f0ff">Isolated per property · Holds title · Issues tokens</div></div>
 </div>
-<div style="margin:.5rem 0 1.5rem;background:rgba(46,134,255,.05);border:1px solid rgba(46,134,255,.12);border-radius:8px;padding:.8rem 1rem;font-size:.78rem;color:#8895b3"><strong style="color:#5ba4ff">Risk Isolation:</strong> Each property series is a legally separate entity. A default on one property cannot affect other series or PlatformCo.</div>
+<div style="margin:.5rem 0 1.5rem;background:#112245;border:1px solid rgba(46,134,255,.3);border-radius:8px;padding:.8rem 1rem;font-size:.78rem;color:#b8cfe8"><strong style="color:#5ba4ff">Risk Isolation:</strong> Each property series is a legally separate entity. A default on one property cannot affect other series or PlatformCo.</div>
 ## Risk Isolation
 
 The two-entity design means:

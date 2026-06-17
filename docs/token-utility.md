@@ -1,4 +1,4 @@
----
+﻿---
 title: Token Utility
 ---
 
@@ -7,12 +7,12 @@ title: Token Utility
 $TRU is designed with concrete, ongoing utility tied directly to platform activity. Unlike purely speculative tokens, every $TRU use case reduces investor costs or increases investor access on the platform.
 
 <div style="margin:1.5rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">💸</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Fee Discounts</div><div style="font-size:.78rem;color:#8895b3">Reduced across all platform fees for $TRU stakers</div></div>
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">⚡</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Priority Allocation</div><div style="font-size:.78rem;color:#8895b3">First-access to new property listings before general pool</div></div>
-<div style="background:#0a0e1a;border:1px solid rgba(46,134,255,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🥇</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Platform Tiers</div><div style="font-size:.78rem;color:#8895b3">Standard → Silver → Gold → Platinum access tiers</div></div>
-<div style="background:#0a0e1a;border:1px solid rgba(0,190,120,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🎁</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Loyalty Rewards</div><div style="font-size:.78rem;color:#8895b3">Earned via investments, referrals, staking, governance</div></div>
-<div style="background:#0a0e1a;border:1px solid rgba(140,80,255,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🏛️</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">DAO Governance</div><div style="font-size:.78rem;color:#8895b3">Vote on fees, originators, treasury, upgrades in Phase 5</div></div>
-<div style="background:#0a0e1a;border:1px solid rgba(255,185,50,.2);border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🔄</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Fee Buyback</div><div style="font-size:.78rem;color:#8895b3">Platform fees fund $TRU buybacks at governance direction</div></div>
+<div style="background:#0d1f3c;border:1px solid #1e3d6e;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">💸</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Fee Discounts</div><div style="font-size:.78rem;color:#b8cfe8">Reduced across all platform fees for $TRU stakers</div></div>
+<div style="background:#0d1f3c;border:1px solid #1e3d6e;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">⚡</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Priority Allocation</div><div style="font-size:.78rem;color:#b8cfe8">First-access to new property listings before general pool</div></div>
+<div style="background:#0d1f3c;border:1px solid #1e3d6e;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🥇</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Platform Tiers</div><div style="font-size:.78rem;color:#b8cfe8">Standard → Silver → Gold → Platinum access tiers</div></div>
+<div style="background:#0d1f18;border:1px solid #1a5e3a;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🎁</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Loyalty Rewards</div><div style="font-size:.78rem;color:#b8cfe8">Earned via investments, referrals, staking, governance</div></div>
+<div style="background:#180d2e;border:1px solid #4a2080;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🏛️</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">DAO Governance</div><div style="font-size:.78rem;color:#b8cfe8">Vote on fees, originators, treasury, upgrades in Phase 5</div></div>
+<div style="background:#1f1700;border:1px solid #6e4e00;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🔄</div><div style="font-size:.85rem;font-weight:800;color:#fff;margin-bottom:3px">Fee Buyback</div><div style="font-size:.78rem;color:#b8cfe8">Platform fees fund $TRU buybacks at governance direction</div></div>
 </div>
 
 ## 1. Fee Discounts

@@ -32,17 +32,17 @@ United Properties TRU™ is a **compliant, fractionalized real estate ownership 
 | Property originators (Phase 3+) | New liquidity channel without a full-asset sale |
 
 
-<div style="margin:1.8rem 0;background:#060a14;border:1px solid rgba(46,134,255,.18);border-radius:14px;padding:1.5rem">
-<div style="font-size:.72rem;font-weight:700;color:#5ba4ff;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">Market Opportunity</div>
+<div style="margin:1.8rem 0;background:#07101e;border:1px solid #1e4080;border-radius:14px;padding:1.5rem">
+<div style="font-size:.72rem;font-weight:700;color:#60a5fa;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">Market Opportunity</div>
 <div style="margin-bottom:10px">
-  <div style="font-size:.8rem;color:#8895b3;margin-bottom:5px;font-weight:600">Global Real Estate Market</div>
-  <div style="height:28px;border-radius:6px;background:linear-gradient(90deg,#1a2f5e,#253f7a);display:flex;align-items:center;padding:0 12px">
-    <span style="font-size:.88rem;font-weight:800;color:#a8c8ff">$300 Trillion</span>
+  <div style="font-size:.8rem;color:#a0b4cc;margin-bottom:5px;font-weight:600">Global Real Estate Market</div>
+  <div style="height:28px;border-radius:6px;background:linear-gradient(90deg,#1a3a7a,#2d5fa8);display:flex;align-items:center;padding:0 12px">
+    <span style="font-size:.88rem;font-weight:800;color:#ffffff">$300 Trillion</span>
   </div>
 </div>
 <div style="margin-bottom:10px">
-  <div style="font-size:.8rem;color:#8895b3;margin-bottom:5px;font-weight:600">Tokenized Real Estate — Projected 2030</div>
-  <div style="width:47%;height:28px;border-radius:6px;background:linear-gradient(90deg,#1a6fdd,#2E86FF);display:flex;align-items:center;padding:0 12px">
+  <div style="font-size:.8rem;color:#a0b4cc;margin-bottom:5px;font-weight:600">Tokenized Real Estate — Projected 2030</div>
+  <div style="width:47%;height:28px;border-radius:6px;background:linear-gradient(90deg,#1d4ed8,#3b82f6);display:flex;align-items:center;padding:0 12px">
     <span style="font-size:.88rem;font-weight:800;color:#fff">$3.5T+</span>
   </div>
 </div>
