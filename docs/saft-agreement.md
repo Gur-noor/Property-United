@@ -58,7 +58,7 @@ Alongside the SAFE, each investor signs a **token warrant side letter** — a SA
 | No tokens issued now | ✓ No tokens in Phase 1 |
 | Identical terms | ✓ Same for all Phase 1 investors |
 
-:::important No tokens today
+:::warning[No tokens today]
 The SAFT does not transfer any tokens. It is a contractual right — enforceable at TGE — to receive $TRU tokens. If TGE never occurs, the SAFT has no monetary value.
 :::
 

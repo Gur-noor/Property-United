@@ -58,6 +58,6 @@ $TRU holders vote on platform parameters — see [Governance](./governance.md). 
 
 A share of platform fees is used to buy back $TRU at governance direction, linking token value to platform revenue.
 
-:::tip The TRU Value Loop
+:::tip[The TRU Value Loop]
 More properties → more fees → more buybacks + rewards → stronger $TRU → more investors attracted → more properties.
 :::

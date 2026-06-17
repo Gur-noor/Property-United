@@ -4,7 +4,7 @@ title: Governance
 
 # Governance
 
-:::note Phase 5
+:::note[Phase 5]
 Formal on-chain governance activates in **Phase 5** when $TRU is launched. In earlier phases, the platform is governed by the founding team under a core multisig with transparency commitments.
 :::
 

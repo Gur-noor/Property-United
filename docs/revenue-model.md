@@ -32,7 +32,7 @@ Five transparent fee streams. Revenue scales with AUM, not headcount.
 
 All fees are earned by **PlatformCo** and do not reduce rental income distributions to property token holders (except the Asset Management fee, which is deducted from gross rental income before distribution).
 
-:::note Fee disclosure
+:::note[Fee disclosure]
 Exact fee rates are disclosed in the offering documents for each property series prior to subscription. The rates above represent the current standard fee schedule.
 :::
 

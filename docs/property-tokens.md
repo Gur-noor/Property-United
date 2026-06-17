@@ -23,7 +23,7 @@ Owning property tokens means:
 - ❌ Ownership of any other property on the platform
 - ❌ A guarantee of income or appreciation
 
-:::warning One token ≠ all properties
+:::warning[One token ≠ all properties]
 Each property has its own token. Buying tokens for Property A gives you no rights in Property B.
 :::
 

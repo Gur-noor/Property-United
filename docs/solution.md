@@ -48,7 +48,7 @@ United Properties TRU™ operates two distinct token types:
 | **Launch** | Phase 2 (first property) | Phase 5 |
 | **Transferability** | Whitelisted wallets only | Standard (post-launch) |
 
-:::important Important distinction
+:::warning[Important distinction]
 Property tokens are NOT equity in PlatformCo. They are NOT the $TRU utility token. Each property token is specific to exactly one property entity.
 :::
 

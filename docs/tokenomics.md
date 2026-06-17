@@ -4,7 +4,7 @@ title: Tokenomics
 
 # Tokenomics
 
-:::note Phase 5
+:::note[Phase 5]
 The $TRU utility token is planned for **Phase 5** of the roadmap. Token economics described here are subject to finalization. No utility tokens are issued in Phases 0–4.
 :::
 
