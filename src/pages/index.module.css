@@ -237,7 +237,7 @@
 }
 .propCardLocation {
   font-size: 0.75rem;
-  color: #4e6285;
+  color: #7b90b2;
   margin-top: 0.15rem;
   font-weight: 500;
 }
@@ -258,7 +258,7 @@
 }
 .propCardMetricLabel {
   font-size: 0.65rem;
-  color: #4e6285;
+  color: #7b90b2;
   margin-top: 0.12rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -277,7 +277,7 @@
   display: flex;
   justify-content: space-between;
   font-size: 0.72rem;
-  color: #4e6285;
+  color: #7b90b2;
   font-weight: 600;
   margin-bottom: 0.4rem;
 }
@@ -346,7 +346,7 @@
 }
 .floatBadgeDesc {
   font-size: 0.67rem;
-  color: #4e6285;
+  color: #7b90b2;
   font-weight: 500;
   margin-top: 0.05rem;
 }
@@ -390,7 +390,7 @@
 }
 .trustBarSub {
   font-size: 0.7rem;
-  color: #3d5070;
+  color: #8895b3;
   margin-top: 0.1rem;
   font-weight: 500;
   white-space: nowrap;
@@ -428,7 +428,7 @@
 }
 .statLabel {
   font-size: 0.75rem;
-  color: #3d5070;
+  color: #8895b3;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   font-weight: 600;
@@ -589,8 +589,8 @@
 }
 .tokenTagAlt {
   color: #8b9cc8;
-  background: rgba(139, 156, 200, 0.08);
-  border-color: rgba(139, 156, 200, 0.18);
+  background: rgba(139, 156, 200, 0.14);
+  border-color: rgba(139, 156, 200, 0.28);
 }
 .tokenBadgePrimary {
   font-size: 0.68rem;
@@ -666,7 +666,7 @@
 }
 .tokenStatLabel {
   font-size: 0.66rem;
-  color: #3d5070;
+  color: #8895b3;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -979,14 +979,14 @@
 }
 .reqsNoteIcon {
   width: 20px; height: 20px;
-  color: #3d5070;
+  color: #8895b3;
   flex-shrink: 0;
   margin-top: 2px;
 }
 .reqsNoteIcon svg { width: 20px; height: 20px; }
 .reqsNote p {
   font-size: 0.82rem;
-  color: #3d5070;
+  color: #8895b3;
   line-height: 1.62;
   margin: 0;
 }
@@ -1060,7 +1060,7 @@
   max-width: 720px;
   margin: 0 auto 4rem;
   padding: 0 1.5rem;
-  color: var(--ifm-color-emphasis-400, #3d5070);
+  color: var(--ifm-color-emphasis-600, #8895b3);
   font-size: 0.81rem;
   line-height: 1.68;
 }
@@ -1174,7 +1174,7 @@
 .compNote {
   margin-top: 0.75rem;
   font-size: 0.78rem;
-  color: #3d5070;
+  color: #8895b3;
   text-align: center;
   font-style: italic;
 }
@@ -1262,7 +1262,7 @@
 }
 .feesFootnote {
   font-size: 0.79rem;
-  color: #3d5070;
+  color: #8895b3;
   text-align: center;
   font-style: italic;
 }

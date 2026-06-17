@@ -10,11 +10,11 @@ United Properties TRU™ addresses every pain point in the traditional real esta
 
 ```mermaid
 flowchart LR
-    A["Property<br/>sourced &amp; vetted"] --> B["Legal SPV<br/>Delaware Series"]
-    B --> C["ERC-3643 tokens<br/>fractional ownership"]
-    C --> D["Reg D 506(c) raise<br/>verified investors"]
-    D --> E["USDC yield<br/>distributed to holders"]
-    E --> F["Secondary transfers<br/><i>future</i>"]
+    A["🏢 Property<br/>sourced & vetted"] --> B["⚖️ Legal SPV<br/>Delaware Series"]
+    B --> C["🪙 ERC-3643 tokens<br/>fractional ownership"]
+    C --> D["✅ Reg D 506(c) raise<br/>verified investors"]
+    D --> E["💵 USDC yield<br/>distributed to holders"]
+    E --> F["🔄 Secondary transfers<br/><i>future</i>"]
 
     classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
     class A,B,C,D,E,F step;

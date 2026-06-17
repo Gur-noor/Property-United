@@ -105,7 +105,7 @@ const config = {
         id: 'wp_draft_v1',
         content:
           '📄 United Properties TRU™ Whitepaper <strong>v1.0</strong> — Draft for Review · June 2026',
-        backgroundColor: '#2E86FF',
+        backgroundColor: '#1565d8',
         textColor: '#ffffff',
         isCloseable: true,
       },

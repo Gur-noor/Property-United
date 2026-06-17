@@ -10,16 +10,16 @@ The United Properties TRU™ platform is built in two distinct stages: an **off-
 
 ```mermaid
 flowchart TB
-    subgraph APP["Application Layer"]
+    subgraph APP["🖥️ Application Layer"]
         A1["Landing page · Investor portal · Admin dashboard<br/><i>Phase 1: web app, off-chain records</i><br/><i>Future: investor dashboard, wallet connection</i>"]
     end
-    subgraph PROTO["Protocol Layer · Phase 2+"]
+    subgraph PROTO["⛓️ Protocol Layer · Phase 2+"]
         A2["ERC-3643 Property Tokens · Identity Registry<br/>Compliance Engine · Yield Distributor (USDC)<br/><i>Future: $TRU Token (P5) · Secondary Transfers (P4)</i>"]
     end
-    subgraph COMP["Compliance Layer"]
+    subgraph COMP["🛡️ Compliance Layer"]
         A3["KYC/KYB (Sumsub / Persona) · AML screening<br/>Accreditation · Reg D 506(c) · Jurisdictional controls"]
     end
-    subgraph LEGAL["Legal Layer"]
+    subgraph LEGAL["⚖️ Legal Layer"]
         A4["PlatformCo (C-Corp) · PropCo Master (Series LLC)<br/>Property Series · SAFT & offering documents"]
     end
     APP --> PROTO --> COMP --> LEGAL
