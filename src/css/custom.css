@@ -335,6 +335,20 @@ article { font-size: 1.06rem; }
   padding: 2px 6px !important;
 }
 
+/* Mermaid classDef text-colour fix — htmlLabels renders node text via
+   <foreignObject> which inherits the page CSS colour, ignoring the SVG
+   `color` property from classDef. Override per class name explicitly. */
+.docusaurus-mermaid-container .node.series .nodeLabel *,
+.docusaurus-mermaid-container .node.step   .nodeLabel *,
+.docusaurus-mermaid-container .node.platform .nodeLabel *,
+.docusaurus-mermaid-container .node.now    .nodeLabel *,
+.docusaurus-mermaid-container .node.done   .nodeLabel * { color: #fff !important; }
+
+.docusaurus-mermaid-container .node.later     .nodeLabel *,
+.docusaurus-mermaid-container .node.layer     .nodeLabel * { color: #a8c8ff !important; }
+
+.docusaurus-mermaid-container .node.foundation .nodeLabel * { color: #9cc4ff !important; }
+
 /* ── Pagination cards ────────────────────────────────────────────────────── */
 .pagination-nav__link {
   border-radius: 14px;
