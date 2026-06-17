@@ -21,6 +21,7 @@ The platform operates under a **two-token model**:
 <div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">1,000,000,000</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">$TRU Fixed Supply</div></div>
 <div style="text-align:center;padding:.5rem;border-left:1px solid rgba(255,255,255,.07)"><div style="font-size:1.1rem;font-weight:900;color:#fff;letter-spacing:-.02em">Delaware LLC</div><div style="font-size:.72rem;color:#60a5fa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-top:3px">Structure</div></div>
 </div>
+
 ## Phase 1 Scope
 
 Phase 1 (**currently in development**) is intentionally off-chain. It delivers:

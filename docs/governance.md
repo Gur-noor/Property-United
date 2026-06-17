@@ -44,6 +44,7 @@ When $TRU launches, governance transitions to a token-holder DAO. $TRU holders c
 <div style="text-align:center;flex:1;min-width:90px"><div style="width:36px;height:36px;border-radius:50%;background:#042060;display:flex;align-items:center;justify-content:center;margin:0 auto 6px;font-size:.9rem;font-weight:900;color:#fff">5</div><div style="font-size:.78rem;font-weight:700;color:#fff">Execute</div><div style="font-size:.72rem;color:#a0b4cc;margin-top:2px">Parameter updated on-chain</div></div>
 </div>
 </div>
+
 ## Governance Process
 
 1. **Temperature check** — informal forum discussion to gauge community interest.

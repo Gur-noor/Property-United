@@ -33,6 +33,7 @@ The United Properties TRU™ onboarding process is designed to be thorough, comp
 <span style="background:#1d4ed8;border:1px solid #3b82f6;border-radius:6px;padding:5px 11px;font-size:.76rem;font-weight:700;color:#ffffff">11. Investor ✓</span>
 </div>
 </div>
+
 ## The 11-Step Journey
 
 ```mermaid

@@ -79,6 +79,7 @@ Established in Phase 5 as the issuer of the $TRU utility token. Licenses the TRU
 <div style="background:#07101e;border:2px solid #2d5fa8;border-radius:12px;padding:1.1rem;text-align:center"><div style="font-size:.78rem;font-weight:900;color:#fff;letter-spacing:.04em;margin-bottom:6px;text-transform:uppercase">Series 1, 2, 3…</div><div style="font-size:.72rem;color:#a0b4cc;margin-bottom:4px">Individual Properties</div><div style="font-size:.72rem;color:#e8f0ff">Isolated per property · Holds title · Issues tokens</div></div>
 </div>
 <div style="margin:.5rem 0 1.5rem;background:#112245;border:1px solid rgba(46,134,255,.3);border-radius:8px;padding:.8rem 1rem;font-size:.78rem;color:#b8cfe8"><strong style="color:#5ba4ff">Risk Isolation:</strong> Each property series is a legally separate entity. A default on one property cannot affect other series or PlatformCo.</div>
+
 ## Risk Isolation
 
 The two-entity design means:

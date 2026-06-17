@@ -48,6 +48,7 @@ United Properties TRU™ is a **compliant, fractionalized real estate ownership 
 </div>
 <div style="font-size:.78rem;color:#5ba4ff;margin-top:.5rem">← Massive untapped opportunity in tokenized fractional ownership</div>
 </div>
+
 ## Document Structure
 
 This whitepaper proceeds as follows:

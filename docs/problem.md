@@ -15,6 +15,7 @@ Real estate consistently outperforms other asset classes over long time horizons
 <div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">⚙️</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Admin Complexity</div><div style="font-size:.78rem;color:#b8cfe8">Leases, taxes, maintenance — full burden on owner</div></div>
 <div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🌍</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Geographic Limits</div><div style="font-size:.78rem;color:#b8cfe8">Local relationships required for every market</div></div>
 </div>
+
 ## 1. High Capital Requirements
 
 Buying investment property outright requires:

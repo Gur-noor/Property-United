@@ -17,6 +17,7 @@ Security is foundational to United Properties TRU™ — both at the platform an
 <div style="background:#0c1840;border:1px solid #162d5e;border-radius:8px;padding:.7rem 1rem;display:flex;justify-content:space-between;align-items:center"><span style="font-size:.82rem;font-weight:700;color:#fff">Legal & Regulatory Layer</span><span style="font-size:.75rem;color:#60a5fa;font-weight:700">Reg D · Delaware LLC · SEC Filings</span></div>
 </div>
 </div>
+
 ## Platform Security (Phase 1)
 
 | Control | Implementation |

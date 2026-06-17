@@ -349,6 +349,19 @@ article { font-size: 1.06rem; }
 
 .docusaurus-mermaid-container .node.foundation .nodeLabel * { color: #9cc4ff !important; }
 
+/* Mermaid subgraph cluster override — replace default yellow (#ffffde) with
+   brand dark-navy so diagrams look consistent in both light and dark mode. */
+.docusaurus-mermaid-container .cluster rect {
+  fill: #0a1628 !important;
+  stroke: rgba(46, 134, 255, 0.45) !important;
+  stroke-width: 1.5px !important;
+}
+.docusaurus-mermaid-container .cluster-label foreignObject div,
+.docusaurus-mermaid-container .cluster-label div {
+  color: #60a5fa !important;
+  font-weight: 700 !important;
+}
+
 /* ── Pagination cards ────────────────────────────────────────────────────── */
 .pagination-nav__link {
   border-radius: 14px;

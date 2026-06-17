@@ -17,6 +17,7 @@ United Properties TRU™ generates revenue through a diversified fee structure t
 <div style="display:flex;align-items:center;gap:12px"><div style="font-size:.8rem;color:#e8f0ff;width:180px;flex-shrink:0;font-weight:600">Promotion Fees</div><div style="height:22px;width:25%;background:linear-gradient(90deg,#1a3a7a,#2d5fa8);border-radius:5px;display:flex;align-items:center;padding:0 10px"><span style="font-size:.78rem;font-weight:700;color:#ffffff">Originator listings</span></div></div>
 </div>
 </div>
+
 ## Fee Structure
 
 Five transparent fee streams. Revenue scales with AUM, not headcount.

@@ -34,6 +34,7 @@ flowchart LR
 <div style="background:#07101e;border:2px solid #2d5fa8;border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#60a5fa;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">Property Token (ERC-3643)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8f0ff">✦ Represents fractional real estate ownership</div><div style="font-size:.8rem;color:#e8f0ff">✦ USDC rental yield distributions</div><div style="font-size:.8rem;color:#e8f0ff">✦ Permissioned — KYC/whitelist required</div><div style="font-size:.8rem;color:#e8f0ff">✦ Reg D 506(c) compliant</div></div></div>
 <div style="background:#07101e;border:2px solid #7c3aed;border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#a78bfa;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">$TRU Token (ERC-20)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8f0ff">✦ Platform utility — fee discounts, tiers</div><div style="font-size:.8rem;color:#e8f0ff">✦ DAO governance rights (Phase 5+)</div><div style="font-size:.8rem;color:#e8f0ff">✦ 1B fixed supply · No rental rights</div><div style="font-size:.8rem;color:#e8f0ff">✦ Issued at TGE via SAFT warrants</div></div></div>
 </div>
+
 ## The Two-Token Model
 
 United Properties TRU™ operates two distinct token types:
