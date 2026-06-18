@@ -45,18 +45,6 @@ const config = {
 
   themes: [
     '@docusaurus/theme-mermaid',
-    [
-      // Offline / local full-text search (no Algolia account needed).
-      require.resolve('@easyops-cn/docusaurus-search-local'),
-      /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
-      ({
-        hashed: true,
-        docsRouteBasePath: '/whitepaper',
-        indexBlog: false,
-        highlightSearchTermsOnTargetPage: true,
-        explicitSearchResultPath: true,
-      }),
-    ],
   ],
 
   presets: [
@@ -67,9 +55,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: 'whitepaper', // serve docs at /whitepaper instead of /docs
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Code-Brew-AI/UnitedProperties_Whitepaper/tree/main/',
         },
         blog: false, // a whitepaper doesn't need a blog
         theme: {
@@ -84,8 +69,8 @@ const config = {
     ({
       image: 'img/social-card.svg',
       colorMode: {
-        defaultMode: 'dark',
-        respectPrefersColorScheme: true,
+        defaultMode: 'light',
+        disableSwitch: true,
       },
       mermaid: {
         theme: {light: 'default', dark: 'dark'},
@@ -128,12 +113,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'whitepaperSidebar',
-            position: 'left',
-            label: 'Whitepaper',
-          },
-          {
             type: 'dropdown',
             label: 'Sections',
             position: 'left',
@@ -146,17 +125,6 @@ const config = {
               {label: 'Roadmap', to: '/whitepaper/roadmap'},
             ],
           },
-          {
-            href: 'https://github.com/Code-Brew-AI/UnitedProperties_Whitepaper',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            to: '/whitepaper/abstract',
-            label: 'Read Whitepaper',
-            position: 'right',
-            className: 'navbar-cta',
-          },
         ],
       },
       footer: {
@@ -165,48 +133,23 @@ const config = {
           {
             title: 'Whitepaper',
             items: [
-              {
-                label: 'Abstract',
-                to: '/whitepaper/abstract',
-              },
-              {
-                label: 'Tokenomics',
-                to: '/whitepaper/tokenomics',
-              },
-              {
-                label: 'Roadmap',
-                to: '/whitepaper/roadmap',
-              },
+              {label: 'Abstract', to: '/whitepaper/abstract'},
+              {label: 'The Solution', to: '/whitepaper/solution'},
+              {label: 'Tokenomics', to: '/whitepaper/tokenomics'},
+              {label: 'Roadmap', to: '/whitepaper/roadmap'},
             ],
           },
           {
-            title: 'Community',
+            title: 'Sections',
             items: [
-              {
-                label: 'X / Twitter',
-                href: 'https://x.com',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com',
-              },
-              {
-                label: 'Telegram',
-                href: 'https://telegram.org',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Code-Brew-AI/UnitedProperties_Whitepaper',
-              },
+              {label: 'Corporate Structure', to: '/whitepaper/corporate-structure'},
+              {label: 'Property Tokens', to: '/whitepaper/property-tokens'},
+              {label: 'Governance', to: '/whitepaper/governance'},
+              {label: 'Compliance', to: '/whitepaper/compliance'},
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} United Properties TRU™. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} United Properties TRU™. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
