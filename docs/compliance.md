@@ -44,7 +44,19 @@ All property token offerings are conducted under **Reg D 506(c)** of the Securit
 - Requires the issuer to take reasonable steps to verify accredited investor status
 - Provides exemption from SEC registration for the offering
 
-Each property series constitutes a separate Reg D offering. Offering documents are prepared with securities counsel and filed appropriately.
+Each pool offering is conducted under Reg D 506(c). Offering documents are prepared with securities counsel and filed appropriately.
+
+### Pooled Vehicle &amp; Token-Exchange Acquisitions
+
+Because investors hold an interest in a **diversified pool** rather than a single property, the pool's structure is reviewed with securities counsel to confirm the appropriate framework (including any Investment Company Act analysis) before tokens are offered.
+
+When a property owner **exchanges their property for tokens**, they are receiving securities. Accordingly:
+
+- The seller must complete the same **KYC/KYB and accredited-investor verification** as any token holder before receiving tokens.
+- The exchange is documented and conducted within the platform's Reg D 506(c) framework.
+- Sellers who elect cash (rather than tokens) are handled as a conventional acquisition and do not become token holders.
+
+Authorized agents in the seller network operate under agreements that define their role; the platform — not the agent — is responsible for securities compliance on each acquisition.
 
 ### Accredited Investor Verification
 

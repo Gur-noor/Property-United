@@ -136,8 +136,7 @@ The investor reviews and acknowledges the platform's risk disclosure documents:
 
 The investor indicates:
 
-- Intended investment amount
-- Preferred investment vehicle (specific property or general interest)
+- Intended investment amount (into the diversified pool)
 - Source of funds declaration
 - Investment objectives
 
@@ -189,6 +188,55 @@ The investor is approved and gains access to the investor portal:
 - Participate in future property offerings when live
 
 **Welcome email sent with portal access details.**
+
+---
+
+---
+
+## The Seller Journey (Acquisition by Token Exchange)
+
+Property owners are onboarded through a parallel flow designed to convert an illiquid property into a liquid, diversified token position — **without giving up future income and appreciation.**
+
+```mermaid
+flowchart LR
+    A["1 · Inquiry"] --> B["2 · Property Submission"] --> C["3 · Valuation & Due Diligence"]
+    C --> D["4 · KYC/KYB + Accreditation"] --> E["5 · Exchange Offer"] --> F["6 · Agreement & Title Transfer"]
+    F --> G["7 · Tokens (and/or cash) issued"] --> H["8 · Partner in the Pool ✅"]
+
+    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
+    classDef done fill:#0e5c38,stroke:#00be78,color:#fff,font-weight:bold;
+    class A,B,C,D,E,F,G step;
+    class H done;
+```
+
+1. **Inquiry** — owner expresses interest (directly or via an authorized agent).
+2. **Property submission** — address, financials, rent roll, condition, and ownership details.
+3. **Valuation & due diligence** — the platform underwrites the property (income, condition, title) and determines its contribution value to the pool.
+4. **KYC/KYB + accreditation** — the seller-turned-investor completes the same identity and accreditation checks as any token holder.
+5. **Exchange offer** — the platform presents a token / cash / blended offer, showing the seller's resulting pool position.
+6. **Agreement & title transfer** — the property is contributed into a new Series under PropCo Master and added to the pool.
+7. **Tokens issued** — the seller receives ERC-3643 pool tokens (and/or cash, per the agreed mix).
+8. **Partner in the pool** — the seller now earns pro-rata income and appreciation across the entire diversified portfolio.
+
+:::tip[Seller takeaways]
+Defer a fully-taxable all-cash exit, shed property management and vacancy risk, gain diversification — and keep participating in income and appreciation. Liquidity **without** giving up the upside.
+:::
+
+## The Agent / Realtor Channel
+
+United Properties is building an **authorized network of seller agents**. Agents use the token-exchange structure to win listings they would otherwise lose to cash buyers.
+
+| Step | Agent Action |
+|---|---|
+| 1 | Join the authorized agent network (application + agreement) |
+| 2 | Identify seller clients — especially small landlords nearing retirement |
+| 3 | Present the hybrid token-exchange offer alongside (or instead of) a cash buyout |
+| 4 | Submit the property and shepherd the seller through onboarding |
+| 5 | Earn agent compensation on completed acquisitions |
+
+**Why it wins listings:** the agent can offer a seller something no cash buyer can — liquidity, diversification, a deferred taxable exit, and continued income and appreciation. That is a materially better pitch than "sell, pay taxes and commissions, and walk away."
+
+For acquisitions and agent partnerships: **acquisitions@unitedpropertiestokens.com**
 
 ---
 

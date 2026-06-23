@@ -19,6 +19,7 @@ const sidebars = {
     'saft-agreement',
     'compliance',
     'revenue-model',
+    'business-valuation',
     'tokenomics',
     'token-utility',
     'governance',

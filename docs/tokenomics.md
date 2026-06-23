@@ -8,9 +8,21 @@ title: Tokenomics
 The $TRU utility token is planned for **Phase 5** of the roadmap. Token economics described here are subject to finalization. No utility tokens are issued in Phases 0–4.
 :::
 
+## The Platform's Three Instruments
+
+$TRU is one of three distinct instruments. It's important not to confuse them:
+
+| Instrument | Standard | Represents | Income |
+|---|---|---|---|
+| **Asset (Property) Tokens** | ERC-3643 | Fractional interest in the **diversified property pool** | Rental income + appreciation |
+| **Utility Token ($TRU)** | ERC-20 | Platform access, discounts, priority, governance | None (no rental/profit share) |
+| **GP Interests** | SAFE / equity | Ownership of PlatformCo — IP, trade secrets, fee revenue | Platform fees |
+
+This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tokens.md); for GP interests and projections see [Business Valuation](./business-valuation.md).
+
 ## The $TRU Token
 
-**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from property tokens — $TRU operates at the platform level and does not represent ownership in any specific property.
+**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from property/asset tokens — $TRU operates at the platform level and does not represent ownership in any specific property or in the pool.
 
 | Parameter | Value |
 |---|---|

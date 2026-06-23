@@ -56,24 +56,27 @@ flowchart LR
 - Accredited investor verification workflow
 - Risk disclosure and acknowledgment flow
 - SAFT agreement and e-signature flow
-- Admin dashboard: investor management, status workflows, notes
-- Off-chain investor records and audit trail
+- Seller acquisition workflow (property submission, valuation, token/cash exchange offer)
+- Authorized agent / Realtor network onboarding
+- Admin dashboard: investor and seller management, status workflows, notes
+- Off-chain investor and seller records and audit trail
 - Notification system (email alerts)
 
 ---
 
-## Phase 2 — First Property
+## Phase 2 — First Property &amp; Pool
 
-**Goal:** Execute the first tokenized property raise end-to-end.
+**Goal:** Acquire the first property into the diversified pool and complete the first tokenized raise end-to-end.
 
-- Series 1 (first property) legal entity created under PropCo Master
+- First property acquired (token exchange and/or cash) and placed in Series 1 under PropCo Master
+- Diversified pool established to hold the Series and issue pool tokens
 - Reg D 506(c) offering documents prepared with counsel
 - ERC-3643 smart contracts deployed and audited
-- First property tokens minted
-- Investor wallets verified and whitelisted
+- First pool tokens minted
+- Investor and seller wallets verified and whitelisted
 - Reg D raise completed with verified accredited investors
 - First rental income distributed in USDC to token holders
-- Investor dashboard launched (portfolio view, distribution history)
+- Investor dashboard launched (pool view, distribution history)
 
 ---
 
