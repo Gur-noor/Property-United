@@ -58,6 +58,15 @@ When a property owner **exchanges their property for tokens**, they are receivin
 
 Authorized agents in the seller network operate under agreements that define their role; the platform — not the agent — is responsible for securities compliance on each acquisition.
 
+### Two Offering Tracks
+
+Investors are offered interests through one of two tracks, both conducted as private placements (Reg D 506(c)) to verified accredited investors after a single shared compliance intake (registration, KYC/KYB, AML, accredited-investor questionnaire, and verification):
+
+- **Limited Partnership Interest Offering** — document-based subscription via PPM, Subscription Agreement, and LP Agreement; the investor is admitted as a limited partner. This is the active path for current investors and does **not** use a SAFT/token process.
+- **Future Security Token / Token Offering** — SAFT or token purchase agreement with on-chain transfer restrictions (ERC-3643), phase-gated to when token instruments are legally available.
+
+**Controls:** Final offering documents, signing documents, and wire instructions are released only after an admin review gate is passed. Wire instructions specifically are released only once the investor is approved and verified **and** the company has accepted the subscription; funds are accepted only after release.
+
 ### Accredited Investor Verification
 
 Under Reg D 506(c), "reasonable steps" to verify accredited status are required. United Properties TRU™ uses document-based verification:

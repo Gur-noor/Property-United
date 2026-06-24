@@ -93,7 +93,7 @@ The platform deliberately starts without any blockchain components. Phase 1 deli
 
 - Public landing page plus seller and investor education
 - Investor and seller registration with full KYC/KYB, AML, and accreditation verification
-- SAFT agreement flow (token warrant rights for early investors)
+- Two offering tracks — LP-interest subscriptions and a future token/SAFT track (SAFT is not the default)
 - The seller acquisition workflow and authorized agent network
 - Admin dashboard and off-chain record management
 

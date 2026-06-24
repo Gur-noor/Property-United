@@ -55,7 +55,9 @@ flowchart LR
 - AML screening live
 - Accredited investor verification workflow
 - Risk disclosure and acknowledgment flow
-- SAFT agreement and e-signature flow
+- Shared compliance intake + admin review gate before any offering docs or wire instructions
+- Two offering tracks: LP-interest subscription flow (PPM, Subscription, LP Agreement, admission as LP) and a future token/SAFT flow
+- Wire instructions released only after approval, verification, and accepted subscription
 - Seller acquisition workflow (property submission, valuation, token/cash exchange offer)
 - Authorized agent / Realtor network onboarding
 - Admin dashboard: investor and seller management, status workflows, notes

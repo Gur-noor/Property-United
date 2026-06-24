@@ -46,7 +46,7 @@ Phase 1 (**currently in development**) is intentionally off-chain. It delivers:
 1. A public landing page, plus **seller** and **investor** education portals
 2. Investor and seller registration with full KYC/KYB and AML screening
 3. Accredited investor verification (Reg D 506(c))
-4. SAFT agreement flow with token warrant rights
+4. Two offering tracks — LP-interest subscriptions (PPM / Subscription / LP Agreement) and a future security-token / SAFT track
 5. The **seller acquisition workflow** and an authorized **agent/Realtor** network
 6. Admin dashboard and off-chain records
 

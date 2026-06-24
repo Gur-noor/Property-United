@@ -37,22 +37,25 @@ This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tok
 
 | Allocation | % | Tokens |
 |---|---|---|
-| Treasury / Ecosystem Growth | 25% | 250,000,000 |
+| Treasury / Ecosystem Growth | 20% | 200,000,000 |
 | Community / Rewards / Platform Usage | 20% | 200,000,000 |
 | Founder / Team / Advisors | 20% | 200,000,000 |
 | Investor SAFT / Token Rights | 15% | 150,000,000 |
 | Liquidity / Market Support | 10% | 100,000,000 |
 | Strategic Partners | 10% | 100,000,000 |
+| **Friends, Family, Vendors & Contractors (Unlocked)** | **5%** | **50,000,000** |
+| **Total** | **100%** | **1,000,000,000** |
 
 ```mermaid
 pie showData
     title $TRU Token Allocation — 1,000,000,000 Fixed Supply
-    "Treasury / Ecosystem" : 25
+    "Treasury / Ecosystem" : 20
     "Community / Rewards" : 20
     "Founder / Team / Advisors" : 20
     "Investor SAFT / Token Rights" : 15
     "Liquidity / Market Support" : 10
     "Strategic Partners" : 10
+    "Unlocked — Friends/Family/Vendors" : 5
 ```
 
 ## Vesting Schedule
@@ -65,6 +68,20 @@ pie showData
 | Community / Rewards | None | Earned via platform activity |
 | Liquidity / Market Support | None | Deployed at TGE |
 | Strategic Partners | 6 months | 24 months linear |
+| **Friends, Family, Vendors & Contractors** | **None** | **None — fully unlocked at TGE** |
+
+## Unlocked Allocation (No Vesting) — Disclosed
+
+A portion of total supply — **5% (50,000,000 $TRU)** — is intentionally **not subject to any vesting or lock-up.** This allocation exists so the platform can compensate **family, friends, vendors, merchants, and contractors with tokens in lieu of cash**, without imposing the multi-year vesting schedule that applies to the team.
+
+:::warning[Disclosure]
+Unlike the Founder/Team allocation (12-month cliff, 36-month linear vesting), the tokens in the **Friends, Family, Vendors & Contractors** allocation carry **no cliff and no vesting** — they are fully unlocked at the Token Generation Event (TGE). This is disclosed transparently here as a deliberate design choice. Recipients are still subject to all applicable transfer, KYC, and securities-law restrictions; "unlocked" refers to the absence of a time-based vesting schedule, not an exemption from compliance controls.
+:::
+
+- **Purpose:** pay contributors (family, friends, vendors, merchants, contractors) in tokens rather than cash.
+- **Vesting:** none — no cliff, no linear schedule; fully unlocked at TGE.
+- **Size:** 5% of fixed supply (50,000,000 $TRU), carved from the Treasury allocation so total supply remains 1,000,000,000.
+- **Compliance:** recipients remain subject to applicable KYC/AML and securities-transfer restrictions.
 
 ## SAFT Token Rights (Phase 1)
 
