@@ -45,7 +45,7 @@ Ahead of launch, a limited allocation across three distinct instruments is being
 
 | Tier | Instrument | What it represents |
 |---|---|---|
-| **General Partnership (GP) interests** | Equity in PlatformCo (via SAFE) | Ownership of the platform's IP, trade secrets, and fee revenue — the operating business itself |
+| **Limited Partnership (LP) interests** | Equity in PlatformCo (via SAFE) | Ownership of the business model, IP, trade secrets, and fee revenue — the operating business itself |
 | **Asset tokens** | ERC-3643 pool tokens | A fractional interest in the diversified property pool (income + appreciation) |
 | **Utility tokens ($TRU)** | SAFT / token warrants today; $TRU at TGE | Platform access, fee discounts, priority allocation, and governance (Phase 5) |
 

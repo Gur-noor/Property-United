@@ -72,7 +72,7 @@ United Properties is building an **authorized network of seller agents**. Real e
 <div style="background:#07101e;border:2px solid #7c3aed;border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#a78bfa;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">$TRU Token (ERC-20)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8f0ff">✦ Platform utility — fee discounts, tiers</div><div style="font-size:.8rem;color:#e8f0ff">✦ DAO governance rights (Phase 5+)</div><div style="font-size:.8rem;color:#e8f0ff">✦ 1B fixed supply · No rental rights</div><div style="font-size:.8rem;color:#e8f0ff">✦ Issued at TGE via SAFT warrants</div></div></div>
 </div>
 
-United Properties TRU™ operates two token types (plus pre-launch GP interests — see [Tokenomics](./tokenomics.md)):
+United Properties TRU™ operates two token types (plus pre-launch LP interests — see [Tokenomics](./tokenomics.md)):
 
 | | Property (Asset) Token | Utility Token ($TRU) |
 |---|---|---|

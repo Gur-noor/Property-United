@@ -16,9 +16,9 @@ $TRU is one of three distinct instruments. It's important not to confuse them:
 |---|---|---|---|
 | **Asset (Property) Tokens** | ERC-3643 | Fractional interest in the **diversified property pool** | Rental income + appreciation |
 | **Utility Token ($TRU)** | ERC-20 | Platform access, discounts, priority, governance | None (no rental/profit share) |
-| **GP Interests** | SAFE / equity | Ownership of PlatformCo — IP, trade secrets, fee revenue | Platform fees |
+| **LP Interests** | SAFE / equity | Ownership of PlatformCo — business model, IP, trade secrets, fee revenue | Platform fees |
 
-This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tokens.md); for GP interests and projections see [Business Valuation](./business-valuation.md).
+This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tokens.md); for LP interests and projections see [Business Valuation](./business-valuation.md).
 
 ## The $TRU Token
 

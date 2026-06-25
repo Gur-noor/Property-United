@@ -9,7 +9,7 @@ slug: /abstract
 
 **United Properties TRU™** is a compliant real estate tokenization platform built around one thing no one else in the market offers: **liquidity for property owners without giving up future rental income or appreciation.**
 
-Instead of selling to an institutional buyer for all-cash and walking away from every future dollar, an owner can **exchange their property for tokens** and become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across **many** properties, in **many** locations, rather than the single property they sold.
+Instead of selling for all-cash and walking away from every future dollar, an owner can **exchange their property for tokens** and become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across **many** properties, in **many** locations, rather than the single property they sold.
 
 This makes United Properties TRU™ a **tokenized real estate rollup**: a platform that acquires income-producing residential rental properties (with tokens and/or cash), aggregates them into a diversified pool, and unlocks the trillions of dollars currently trapped and illiquid in the U.S. residential rental market.
 
@@ -37,7 +37,7 @@ The platform operates a layered token model:
 
 - **Property (Asset) Tokens** — ERC-3643 permissioned tokens representing a fractional interest in the **diversified pool** of properties. Holders earn pro-rata rental income (in USDC or fiat) and gain exposure to the appreciation of the whole portfolio.
 - **Utility Token ($TRU)** — A platform-level token (1,000,000,000 fixed supply) providing fee discounts, priority allocation, loyalty benefits, and governance. Issued in Phase 5 only.
-- **General Partnership (GP) interests** — A pre-launch tier (PlatformCo equity) that owns the platform's intellectual property and trade secrets and earns all platform fees.
+- **Limited Partnership (LP) interests** — A pre-launch tier (PlatformCo equity) that owns the business model, intellectual property and trade secrets on which the platform operates and earns all platform fees.
 
 ## Phase 1 Scope
 

@@ -46,11 +46,11 @@ flowchart TD
 |---|---|
 | Type | Delaware C-Corp |
 | Purpose | Holds all technology, IP, brand, contracts, and fee revenue; acts as platform GP |
-| Owned by | Founders, team (ESOP), SAFE investors (GP interests) |
+| Owned by | Founders, team (ESOP), SAFE investors (LP interests) |
 | Revenue | All platform fees (origination, tokenization, asset management, disposition, secondary transfer) |
 | Role | Sole manager of PropCo Master, the pool, and every property series |
 
-PlatformCo is the operating entity and **general partner**. It earns all platform fees and owns the platform's intellectual property and trade secrets. Investors in PlatformCo (via SAFE / GP interests) own equity in the fee-generating business — not in any specific property.
+PlatformCo is the operating entity and **general partner**. It earns all platform fees and owns the platform's intellectual property and trade secrets. Investors in PlatformCo (via SAFE / LP interests) own equity in the fee-generating business — not in any specific property.
 
 ### PropCo Master — Delaware Series LLC
 
@@ -110,7 +110,7 @@ The design means:
 
 Phase 0 capital is raised into PlatformCo via:
 
-- **Post-money SAFE** — standard YC template, $2–3M valuation cap (to be set), no discount. These are the platform's **GP interests** (equity in the fee-earning operating company that owns the IP and trade secrets).
+- **Post-money SAFE** — standard YC template, $2–3M valuation cap (to be set), no discount. These are the platform's **LP interests** (equity in the fee-earning operating company that owns the business model, IP and trade secrets).
 - **Token warrant side letter** — each SAFE investor receives pro-rata rights to future $TRU supply at TGE (no tokens issued today)
 - **Identical terms** for all Phase 0/1 investors — no per-investor negotiation
 - **Non-dilutive investor perks:**
