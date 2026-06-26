@@ -1,60 +1,50 @@
 ---
+id: legal-disclaimer
 title: Legal Disclaimer
+sidebar_label: Legal Disclaimer
+sidebar_position: 15
 ---
 
 # Legal Disclaimer
 
-:::warning
-This section contains important legal information. Read it carefully. Nothing in this whitepaper constitutes legal, financial, tax, or investment advice. Consult qualified professional advisors before making any investment decision.
-:::
+## Important Notice
 
-## General Disclaimer
+This whitepaper has been prepared by United Properties TRU™ for informational purposes only. It does not constitute, and should not be construed as, an offer to sell or a solicitation of an offer to buy any security, token, investment product, or any other financial instrument in any jurisdiction.
 
-This whitepaper is published by United Properties TRU™ for **informational purposes only**. It does not constitute, and should not be construed as, an offer to sell or a solicitation to buy any security, token, digital asset, or financial instrument in any jurisdiction.
+## No Offer of Securities
+
+Nothing in this document constitutes an offer to sell, or a solicitation to purchase, any security. Any offering of securities by United Properties TRU™ or any of its affiliated entities will be conducted exclusively pursuant to a formal offering memorandum or subscription agreement prepared in accordance with applicable law and made available only to investors who meet the eligibility requirements for that specific offering.
 
 ## Accredited Investors Only
 
-Property tokens offered under United Properties TRU™ are offered pursuant to **Regulation D, Rule 506(c)** of the Securities Act of 1933 (as amended). Participation is restricted to **verified accredited investors** as defined under applicable US securities law. No offer or sale may be made to a non-accredited investor.
-
-Investors in jurisdictions outside the United States should consult local counsel regarding the regulatory treatment of such investments in their home jurisdiction. Participation may be restricted or prohibited in certain countries.
-
-## SAFT Disclaimer
-
-SAFT (Simple Agreement for Future Tokens) instruments offered in Phase 1 represent contractual rights to receive $TRU utility tokens at a future Token Generation Event. They do not represent ownership of tokens, equity in PlatformCo, or rights to property income. SAFT instruments are speculative and may result in the total loss of the invested amount. The TGE may be delayed, modified, or cancelled.
-
-## No Guarantee of Return
-
-Investing in real estate, digital assets, and early-stage companies involves substantial risk, including the potential loss of your entire investment. Past performance is not indicative of future results. Rental income, property appreciation, and token value are not guaranteed.
+Property token offerings conducted through the United Properties TRU™ platform are limited to **verified accredited investors** as defined under Rule 501(a) of Regulation D under the Securities Act of 1933. No offering is open to the general public. All prospective investors must complete the platform's identity verification, accredited investor verification, and anti-money laundering screening process before any investment is accepted.
 
 ## Forward-Looking Statements
 
-This whitepaper contains forward-looking statements — including statements about the platform's planned features, phases, timeline, revenue model, and token economics. These statements involve known and unknown risks and uncertainties. Actual results may differ materially from those described.
+This document may contain forward-looking statements, projections, and illustrative figures relating to the anticipated structure, operations, revenue, and development of the United Properties TRU™ platform. These statements are based on assumptions and estimates that may prove to be incorrect. Actual results may differ materially from those described in this document. Nothing in this document should be relied upon as a guarantee, promise, or representation of future performance.
 
-## Property Token Disclaimer
+## Illustrative Financial Information
 
-Property tokens represent fractional ownership interests in specific Delaware Series LLC entities. They do not represent:
-- Equity ownership in PlatformCo
-- Ownership of the $TRU utility token
-- Rights to other properties on the platform
-- A guarantee of rental income
+Revenue figures and AUM projections included in this whitepaper are illustrative only. They are based on simplified assumptions and are intended solely to demonstrate the general characteristics of the platform's fee model. They do not constitute financial projections, forecasts, or guarantees of future revenue or returns.
 
-Returns are subject to property performance, occupancy, market conditions, and operational costs.
+## Regulatory and Legal Considerations
 
-## Risk Factors
+The legal and regulatory framework applicable to tokenized securities is evolving. While the platform has been designed to operate within the requirements of Regulation D, Rule 506(c) of the Securities Act of 1933, and to use ERC-3643 compliant token infrastructure, prospective investors and other stakeholders should conduct their own independent legal, regulatory, and tax analysis before making any investment decision or business decision in reliance on this document.
 
-| Risk | Description |
-|---|---|
-| Real estate market risk | Property values and rental income may decline |
-| Regulatory risk | Regulations governing tokenized securities may change |
-| Technology risk | Smart contracts, infrastructure, or third-party systems may fail |
-| Smart contract risk | Bugs or exploits in on-chain code may result in loss |
-| Liquidity risk | Secondary markets may be limited or unavailable |
-| Custody & wallet risk | Loss of private keys may result in permanent loss of tokens |
-| Utility token risk | $TRU may have limited utility, low liquidity, or regulatory uncertainty |
-| Platform execution risk | The team may fail to execute the roadmap as described |
+United Properties TRU™ does not provide legal, tax, or investment advice. This document should not be relied upon as legal or professional advice of any kind.
 
-## No Legal Advice
+## Jurisdictional Limitations
 
-Nothing in this document is legal advice. Readers should obtain independent legal, tax, and financial advice before making any investment decisions.
+This whitepaper is not directed at any person in any jurisdiction where its distribution, publication, or availability would be contrary to local law or regulation. Persons in jurisdictions outside the United States should inform themselves of and comply with all applicable local laws and regulations.
 
-By accessing this whitepaper or participating in any United Properties TRU™ offering, you acknowledge that you have read, understood, and accepted the risks described herein.
+## No Liability
+
+To the maximum extent permitted by applicable law, United Properties TRU™ and its founders, officers, directors, employees, advisors, and affiliated entities expressly disclaim any and all liability arising from reliance on any information contained in this whitepaper or from any action taken or omitted to be taken in connection with the contents of this document.
+
+## Version and Date
+
+This whitepaper is a draft document prepared for discussion and review. It is subject to change without notice. The date of preparation is June 2026. Readers should verify that they are reading the most current version of this document before relying on its contents.
+
+---
+
+*For questions regarding this whitepaper or the United Properties TRU™ platform, please contact the team through the official platform website.*

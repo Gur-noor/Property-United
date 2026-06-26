@@ -1,102 +1,105 @@
 ---
+id: solution
 title: The Solution
+sidebar_label: The Solution
+sidebar_position: 4
 ---
 
 # The Solution
 
-United Properties TRU™ resolves the seller's dilemma directly: it lets an owner **convert an illiquid single property into a liquid, diversified, income-producing token position** — keeping their participation in future income and appreciation instead of giving it up for cash.
+## A Compliant, Scalable Infrastructure for Fractional Real Estate Ownership
 
-We do this by running a **tokenized real estate rollup**: acquiring residential rentals (with tokens and/or cash), aggregating them into a diversified pool, and issuing tokens that represent a fractional interest in the **whole portfolio**.
+United Properties TRU™ addresses the structural barriers described in the previous section through a purpose-designed combination of Delaware corporate law, federal securities regulation, and permissioned blockchain token infrastructure.
 
-:::tip[The one-sentence pitch]
-**Sell your property without selling your future** — exchange it for tokens and keep earning income and appreciation across a diversified national portfolio.
-:::
+The solution is built on four interconnected components:
 
-## How It Works
+---
 
-```mermaid
-flowchart LR
-    S["🏠 Owner's property<br/>(1 of ~50M rentals)"] --> X["🤝 Token exchange<br/>tokens and/or cash"]
-    X --> B["⚖️ Series LLC<br/>added to the pool"]
-    B --> P["🏦 Diversified Pool<br/>many properties, many markets"]
-    P --> C["🪙 ERC-3643 tokens<br/>fractional pool interest"]
-    C --> D["✅ Reg D 506(c)<br/>verified investors"]
-    D --> E["💵 USDC / fiat yield<br/>pro-rata to holders"]
-    E --> F["🔄 Secondary transfers<br/><i>liquidity, future phases</i>"]
+## 1. A Two-Entity Corporate Architecture
 
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
-    class S,X,B,P,C,D,E,F step;
-```
+The platform incorporates two entities that serve distinct functions and carry distinct risk profiles:
 
-### Step-by-Step
+**PlatformCo** (Delaware C-Corporation) owns the technology, intellectual property, and brand. It acts as the manager of every property series and earns all platform fees. Early investors in the platform invest into PlatformCo. PlatformCo risk is entirely separate from property risk.
 
-1. **Acquisition by token exchange.** An owner contributes their property to the platform in return for tokens (and/or cash, if they prefer). The seller moves from active landlord to **passive partner** — and, critically, keeps participating in income and appreciation.
-2. **Legal structuring.** Each acquired property is placed into its own dedicated **Series under PropCo Master** (Delaware Series LLC), which is bankruptcy-remote: one property's risk cannot contaminate the others or PlatformCo.
-3. **Aggregation into a diversified pool.** The Series are held within a **master pool**. Token holders own an interest in the pool — not a single Series — so exposure spans many property types and locations.
-4. **Tokenization.** The pool is represented as ERC-3643 permissioned tokens. Tokens are denominated for low minimums (e.g., $100), making the diversified portfolio accessible at any ticket size.
-5. **Regulated capital raise.** Tokens are offered to verified accredited investors under Reg D 506(c). KYC/KYB and accreditation are required before anyone can participate.
-6. **Yield distribution.** Net rental income from across the pool is distributed pro-rata to token holders in USDC or fiat, monthly or quarterly, via a snapshot mechanism.
-7. **Managed secondary transfers.** In later phases, holders can transfer positions to other verified wallets, with compliance enforced on-chain by ERC-3643 — turning a once-illiquid asset into a liquid one.
+**PropCo Master** (Delaware Series LLC, managed by PlatformCo) is the legal vehicle through which individual properties are held. For each property brought onto the platform, a new series is created within PropCo Master at near-zero marginal cost. Each series is financially and legally isolated from every other series and from PlatformCo itself.
 
-## Why a Diversified Pool — Not One Property
+This separation means that a financial problem within one property series cannot propagate to the platform operator or to any other series. The failure of PlatformCo would not affect assets held within individual series. Each entity is designed to be robust to the failure of the other.
 
-A token in United Properties is **a fractionalized interest in a diversified pool of income-producing and appreciating residential rental properties**, across types and locations. This is a deliberate design choice:
+---
 
-- **Returns are diversified by default** — income and appreciation come from many properties in many markets, not a single building's fortunes.
-- **Single-property risk is diversified away** — one vacancy, one bad market, or one problem tenant doesn't sink the position.
-- **No property-picking required** — investors don't have to select and underwrite an individual asset to participate; sellers don't end up over-concentrated in the one property they just sold.
+## 2. Per-Property Series with Bankruptcy-Remote Isolation
 
-## What No One Else Is Doing
+Each property placed on the platform is held within its own dedicated series of PropCo Master. The series holds legal title to the property. Token holders in a given series hold proportional membership interests in that series, which carry economic rights to rental income and eventual appreciation.
 
-The market is full of platforms that tokenize real estate. The decisive difference:
+Because each series is a discrete legal compartment under Delaware Series LLC law, creditors of one series have no claim against the assets of any other series. This structure provides investors with meaningful protection against platform-level risk.
 
-| | Typical RE tokenization / institutional buyers | United Properties TRU™ |
-|---|---|---|
-| Seller's future income & appreciation | Forfeited at sale | **Retained** via tokens |
-| What the holder owns | One specific property | A **diversified pool** |
-| Seller outcome | Cash, then out | Liquid **and** still participating |
-| Diversification | Investor must assemble it | **Built in** |
+---
 
-:::warning[The moat]
-Everyone else buys the property and keeps all future income and appreciation. We let the seller keep it — delivering **liquidity without giving up the upside.** That combination is what makes a seller hard-pressed to choose anyone else.
-:::
+## 3. Permissioned ERC-3643 Tokens as Ownership Instruments
 
-## The Agent / Realtor Channel
+Membership interests in each property series are represented as ERC-3643 tokens — a permissioned token standard designed specifically for regulated securities. Token transfers are restricted on-chain: only wallets that have completed KYC/AML verification and have been whitelisted may send or receive these tokens.
 
-United Properties is building an **authorized network of seller agents**. Real estate agents can offer the token-exchange structure as an alternative to a traditional cash buyout — helping them **win listings** they would otherwise lose, while giving their seller clients a better outcome (liquidity, diversification, deferred all-cash taxable exit, and continued upside). See [Investor Onboarding](./investor-onboarding.md) for the seller and agent journeys.
+This on-chain compliance layer ensures that the securities law restrictions applicable to the offering (Regulation D, Rule 506(c)) are enforced at the protocol level on a continuous basis — not only at the time of initial issuance. Secondary transfers between whitelisted investors are permitted and generate platform revenue without requiring off-chain approval for each individual trade.
 
-## The Token Model
+---
 
-<div style="margin:1.8rem 0;display:grid;grid-template-columns:1fr 1fr;gap:12px">
-<div style="background:#07101e;border:2px solid #2d5fa8;border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#60a5fa;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">Property (Asset) Token — ERC-3643</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8f0ff">✦ Fractional interest in the diversified pool</div><div style="font-size:.8rem;color:#e8f0ff">✦ USDC / fiat rental yield, pro-rata</div><div style="font-size:.8rem;color:#e8f0ff">✦ Exposure to portfolio-wide appreciation</div><div style="font-size:.8rem;color:#e8f0ff">✦ Permissioned · Reg D 506(c) compliant</div></div></div>
-<div style="background:#07101e;border:2px solid #7c3aed;border-radius:12px;padding:1.2rem"><div style="font-size:.7rem;font-weight:700;color:#a78bfa;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px">$TRU Token (ERC-20)</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8f0ff">✦ Platform utility — fee discounts, tiers</div><div style="font-size:.8rem;color:#e8f0ff">✦ DAO governance rights (Phase 5+)</div><div style="font-size:.8rem;color:#e8f0ff">✦ 1B fixed supply · No rental rights</div><div style="font-size:.8rem;color:#e8f0ff">✦ Issued at TGE via SAFT warrants</div></div></div>
-</div>
+## 4. Compliance-First Capital Formation
 
-United Properties TRU™ operates two token types (plus pre-launch LP interests — see [Tokenomics](./tokenomics.md)):
+Each property series offering is conducted under Regulation D, Rule 506(c) of the Securities Act of 1933. This exemption:
 
-| | Property (Asset) Token | Utility Token ($TRU) |
-|---|---|---|
-| **What it is** | Fractional interest in the diversified property pool | Platform-level access, benefits, governance |
-| **Scope** | The whole portfolio (not one building) | Platform-wide |
-| **Yield** | Pro-rata rental income + appreciation | No rental or profit share |
-| **Standard** | ERC-3643 (permissioned) | ERC-20 |
-| **Launch** | Phase 2 (first pool) | Phase 5 |
-| **Transferability** | Whitelisted wallets only | Standard (post-launch) |
+- Permits general solicitation and advertising of the offering
+- Requires that all investors be verified accredited investors
+- Does not require SEC registration of the securities
 
-:::warning[Important distinction]
-Property tokens represent a fractional interest in the **diversified pool of properties** — they are **not** equity in PlatformCo and **not** the $TRU utility token.
-:::
+The platform handles accredited investor verification through third-party KYC/KYB services, ensuring that the regulatory requirements of each offering are met before any investor is permitted to receive tokens.
 
-## Phase 1: Off-Chain First
+---
 
-The platform deliberately starts without any blockchain components. Phase 1 delivers:
+---
 
-- Public landing page plus seller and investor education
-- Investor and seller registration with full KYC/KYB, AML, and accreditation verification
-- Two offering tracks — LP-interest subscriptions and a future token/SAFT track (SAFT is not the default)
-- The seller acquisition workflow and authorized agent network
-- Admin dashboard and off-chain record management
+## 5. The Seller-as-Partner Model
 
-This validates compliance infrastructure, builds the investor and seller pipelines, and assembles the first pool — before incurring the cost and complexity of on-chain deployment.
+This is the differentiator that no other platform — tokenized or traditional — currently offers.
 
-See the [roadmap](./roadmap.md) for the full phase-by-phase breakdown.
+When United Properties TRU™ acquires a property, it can offer the seller a choice that does not exist anywhere else in the market:
+
+**Option A — Cash:** The seller receives a cash payment and exits. Standard transaction.
+
+**Option B — Token Exchange:** Instead of selling for all-cash and walking away from every future dollar, an owner can exchange their property for tokens and become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across many properties, in many locations, rather than the single property they sold.
+
+When a seller accepts tokens, they:
+- Receive a fractional interest in the **entire platform portfolio** — not just the property they sold
+- Continue earning **rental income** from all platform properties
+- Continue **participating in appreciation** across all platform properties
+- Gain access to **compliant secondary liquidity** that they never had as a sole property owner
+- Diversify from a single concentrated asset into a managed, multi-property pool
+
+This model creates a new class of participant: the **seller-partner** — a former property owner who becomes an ongoing co-investor in the platform's growth. No other platform currently acquires properties this way.
+
+---
+
+## 6. Investor Diversification by Design
+
+Investors in United Properties TRU™ do not select or invest in individual properties. They own a **fractionalized interest in a diversified pool of income-producing and appreciating residential rental properties** across multiple geographic locations and market conditions.
+
+This is a material distinction from other tokenized real estate platforms that ask investors to pick specific properties — which forces concentration risk, requires individual due diligence, and removes the proven risk-reduction benefits of diversification.
+
+By owning a pool interest rather than a per-property interest, United Properties TRU™ investors benefit from:
+- Returns based on the performance of **multiple property types in multiple locations**
+- Professional portfolio management and property selection
+- Reduced exposure to any single asset's vacancy, damage, or local market decline
+- The compounding income and appreciation effect of a growing, professionally managed portfolio
+
+---
+
+## Summary
+
+The solution is a rigorously structured deployment of existing legal, regulatory, and technical tools — combined with two structural innovations that no other platform in the market currently implements.
+
+**The infrastructure:** Delaware Series LLC law provides scalable, low-cost property isolation. Regulation D 506(c) provides a clear path to compliant capital raising. ERC-3643 tokens provide a programmable, transfer-restricted ownership instrument. PlatformCo provides the stable operational entity through which the platform is managed and revenues are earned.
+
+**The differentiation:**
+1. **Seller-as-partner** — Sellers can exchange their property for tokens, remaining participants in the ongoing portfolio rather than one-time cash recipients
+2. **Diversified pool ownership** — Investors own interests in a managed portfolio, not individual properties, delivering real diversification without requiring property-by-property selection
+
+Together, these components create the only compliant, scalable, seller-inclusive, diversified fractional real estate ownership infrastructure currently available in the market.

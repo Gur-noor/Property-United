@@ -1,57 +1,55 @@
 ---
+id: problem
 title: The Problem
+sidebar_label: The Problem
+sidebar_position: 3
 ---
 
 # The Problem
 
-Real estate consistently outperforms other asset classes over long horizons — yet for the people who actually own it, and for those who want exposure to it, the market forces a series of bad trade-offs. The biggest one: **you cannot get liquidity without giving up your future income and appreciation.**
+## Real Estate Ownership Is Structurally Inaccessible
 
-## The Seller's Dilemma
+Income-producing real estate has historically delivered attractive risk-adjusted returns over long holding periods. Despite this, meaningful participation in this asset class remains out of reach for the vast majority of qualified investors due to a combination of structural, operational, and legal barriers.
 
-A small landlord who wants to step back today has only two real options — and both are bad.
+### High Minimum Capital Requirements
 
-<div style="margin:1.8rem 0;display:grid;grid-template-columns:1fr 1fr;gap:12px">
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:12px;padding:1.2rem"><div style="font-size:.72rem;font-weight:800;color:#fca5a5;text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">Option A — Keep It</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8d0d0">✦ Stay an active landlord, indefinitely</div><div style="font-size:.8rem;color:#e8d0d0">✦ Tenants, vacancies, repairs, taxes</div><div style="font-size:.8rem;color:#e8d0d0">✦ Concentrated in one property, one market</div><div style="font-size:.8rem;color:#e8d0d0">✦ Equity stays trapped and illiquid</div></div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:12px;padding:1.2rem"><div style="font-size:.72rem;font-weight:800;color:#fca5a5;text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">Option B — Sell for Cash</div><div style="display:flex;flex-direction:column;gap:5px"><div style="font-size:.8rem;color:#e8d0d0">✦ Triggers capital gains taxes</div><div style="font-size:.8rem;color:#e8d0d0">✦ Pays agent commissions & closing costs</div><div style="font-size:.8rem;color:#e8d0d0">✦ Cash flow stops the day you sell</div><div style="font-size:.8rem;color:#e8d0d0">✦ You give up ALL future income & appreciation</div></div></div>
-</div>
+Acquiring direct ownership in investment property typically requires hundreds of thousands to millions of dollars in equity per transaction. Even for accredited investors — those who legally qualify to participate in private securities offerings — the minimum check size to access quality assets is prohibitive relative to what most investors would allocate to a single position.
 
-Institutional buyers have industrialized **Option B**. They acquire properties all-cash, "as-is," and **remove the seller from every future economic benefit**. The seller gets a check; the buyer keeps the income and the appreciation, forever. For the ~20 million mostly mom-and-pop owners of America's ~50 million rental units — many nearing retirement — that is the only "exit" on offer.
+### Persistent Illiquidity
 
-:::warning[The gap no one fills]
-There is no option that delivers **liquidity *and* continued participation** in income and appreciation. That is the gap United Properties TRU™ exists to fill.
-:::
+Once capital is deployed into a direct property investment, it is effectively locked until either the property is sold or a buyer for the specific ownership interest can be identified through a cumbersome private transfer process. There is no standardised, regulated mechanism through which a fractional real estate position can be resold at fair market value without triggering complex legal and tax implications.
 
-## The Investor's Problem
+### Fragmented and Opaque Ownership Structures
 
-The other side of the market is just as broken. For people who *want* real estate exposure, traditional ownership demands:
+Traditional fractional property arrangements — syndications, tenancy-in-common structures, or informal LLC operating agreements — are typically bespoke to each deal. Each arrangement carries its own legal documentation, distribution waterfall, and governance mechanics. There is no standardised, transparent framework that investors can evaluate consistently across multiple properties.
 
-<div style="margin:1.8rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🏦</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">High Capital Required</div><div style="font-size:.78rem;color:#b8cfe8">$60k–$300k+ down payment to enter</div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🎯</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Concentration Risk</div><div style="font-size:.78rem;color:#b8cfe8">One property, one market — no diversification</div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🌫️</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Opaque Processes</div><div style="font-size:.78rem;color:#b8cfe8">Chain of intermediaries, no single source of truth</div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🧊</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Total Illiquidity</div><div style="font-size:.78rem;color:#b8cfe8">Months to exit — capital locked in</div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">⚙️</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Admin Complexity</div><div style="font-size:.78rem;color:#b8cfe8">Leases, taxes, maintenance — full burden on owner</div></div>
-<div style="background:#1f0d0d;border:1px solid #7a2020;border-radius:11px;padding:1rem 1.1rem"><div style="font-size:1.3rem;margin-bottom:6px">🌍</div><div style="font-size:.85rem;font-weight:800;color:#ffffff;margin-bottom:3px">Geographic Limits</div><div style="font-size:.78rem;color:#b8cfe8">Local relationships required for every market</div></div>
-</div>
+### Operational Complexity for Platform Operators
 
-## Why "Just Tokenize It" Isn't Enough
+Building a platform to aggregate multiple properties across multiple investor groups presents significant structural challenges. Without a scalable legal architecture, adding each new property requires custom entity formation, bespoke operating agreements, and isolated investor management — a process that becomes unmanageable at scale and creates compounding compliance risk.
 
-A wave of platforms now tokenize real estate. Nearly all of them do the **same thing the institutions do** — buy a property (or let an investor buy into a single property) and keep the structure concentrated, illiquid at the asset level, and one-property-deep. They digitize the old model; they don't change the trade-off.
+### The Compliance Gap in Tokenized Real Estate
 
-What's missing across the entire market is the combination United Properties delivers:
+Early attempts at real estate tokenization often failed to address the full compliance stack. Issuing tokens without a proper securities exemption, without on-chain transfer controls that mirror legal restrictions, or without a bankruptcy-remote property ownership structure created instruments that were either unenforceable or legally ambiguous. The technical infrastructure for permissioned token issuance now exists; what was missing was a coherent legal and operational framework to deploy it responsibly.
 
-- **For sellers:** liquidity *without* surrendering future income and appreciation.
-- **For investors:** a **diversified pool**, not a bet on one building — so returns come from many property types in many locations, with single-property vacancy risk diversified away.
+### The Seller's Hidden Problem
+
+The problem of illiquidity and lost future value applies just as much to property sellers as it does to investors. When a property owner sells their asset — to any buyer, whether an individual, a fund, or any other acquirer — they face an irreversible trade-off:
+
+- They receive cash **once**
+- They walk away from **every future dollar** that property will ever generate
+- They surrender all future rental income
+- They surrender all future appreciation
+- Their economic relationship with that asset ends permanently at closing
+
+This is true regardless of who the buyer is. The seller's only historical option was: take the cash and lose all upside, forever.
+
+No platform currently offers sellers an alternative that lets them remain a participant in the value their property continues to generate — until now.
 
 ## Summary
 
-| Pain Point | Traditional Real Estate | What's Needed |
-|---|---|---|
-| Seller exit | All-cash sale, future upside lost | Liquidity that keeps income & appreciation |
-| Minimum investment | Full property value | Fractional, low minimum |
-| Diversification | One property, one market | A diversified pool by default |
-| Transparency | Opaque, intermediated | Verifiable on-chain records |
-| Liquidity | Months to sell | Transferable token positions |
-| Management | Full burden on owner | Passive, managed for you |
+The core problem is not a lack of investor interest in real estate, nor a lack of capital seeking yield-generating assets. The problem is the absence of a compliant, scalable, and operationally sound infrastructure that:
 
-\* *Subject to applicable regulation — see the [legal disclaimer](./legal-disclaimer.md).*
+- Connects verified accredited investors to **fractional ownership interests in a diversified portfolio** of real property — with income distributions, transparent records, and transferable interests within a regulated framework
+- Gives property sellers a genuine choice: **take cash and walk away, or exchange for tokens and remain a partner** in a growing, income-producing portfolio
+
+United Properties TRU™ is built to solve both sides of this equation simultaneously.

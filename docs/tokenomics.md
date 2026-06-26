@@ -4,25 +4,13 @@ title: Tokenomics
 
 # Tokenomics
 
-:::note[Phase 5]
+:::note Phase 5
 The $TRU utility token is planned for **Phase 5** of the roadmap. Token economics described here are subject to finalization. No utility tokens are issued in Phases 0–4.
 :::
 
-## The Platform's Three Instruments
-
-$TRU is one of three distinct instruments. It's important not to confuse them:
-
-| Instrument | Standard | Represents | Income |
-|---|---|---|---|
-| **Asset (Property) Tokens** | ERC-3643 | Fractional interest in the **diversified property pool** | Rental income + appreciation |
-| **Utility Token ($TRU)** | ERC-20 | Platform access, discounts, priority, governance | None (no rental/profit share) |
-| **LP Interests** | SAFE / equity | Ownership of PlatformCo — business model, IP, trade secrets, fee revenue | Platform fees |
-
-This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tokens.md); for LP interests and projections see [Business Valuation](./business-valuation.md).
-
 ## The $TRU Token
 
-**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from property/asset tokens — $TRU operates at the platform level and does not represent ownership in any specific property or in the pool.
+**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from property tokens — $TRU operates at the platform level and does not represent ownership in any specific property.
 
 | Parameter | Value |
 |---|---|
@@ -37,25 +25,22 @@ This page covers **$TRU**. For asset tokens see [Property Tokens](./property-tok
 
 | Allocation | % | Tokens |
 |---|---|---|
-| Treasury / Ecosystem Growth | 20% | 200,000,000 |
+| Treasury / Ecosystem Growth | 25% | 250,000,000 |
 | Community / Rewards / Platform Usage | 20% | 200,000,000 |
 | Founder / Team / Advisors | 20% | 200,000,000 |
 | Investor SAFT / Token Rights | 15% | 150,000,000 |
 | Liquidity / Market Support | 10% | 100,000,000 |
 | Strategic Partners | 10% | 100,000,000 |
-| **Friends, Family, Vendors & Contractors (Unlocked)** | **5%** | **50,000,000** |
-| **Total** | **100%** | **1,000,000,000** |
 
 ```mermaid
 pie showData
-    title $TRU Token Allocation — 1,000,000,000 Fixed Supply
-    "Treasury / Ecosystem" : 20
+    title $TRU Allocation (1,000,000,000 total)
+    "Treasury / Ecosystem" : 25
     "Community / Rewards" : 20
     "Founder / Team / Advisors" : 20
     "Investor SAFT / Token Rights" : 15
     "Liquidity / Market Support" : 10
     "Strategic Partners" : 10
-    "Unlocked — Friends/Family/Vendors" : 5
 ```
 
 ## Vesting Schedule
@@ -68,20 +53,66 @@ pie showData
 | Community / Rewards | None | Earned via platform activity |
 | Liquidity / Market Support | None | Deployed at TGE |
 | Strategic Partners | 6 months | 24 months linear |
-| **Friends, Family, Vendors & Contractors** | **None** | **None — fully unlocked at TGE** |
+| **Partners, Vendors & Community Grants** | **None** | **None — immediate vesting** |
 
-## Unlocked Allocation (No Vesting) — Disclosed
+### No-Vesting Allocation (Partners, Vendors & Community Grants)
 
-A portion of total supply — **5% (50,000,000 $TRU)** — is intentionally **not subject to any vesting or lock-up.** This allocation exists so the platform can compensate **family, friends, vendors, merchants, and contractors with tokens in lieu of cash**, without imposing the multi-year vesting schedule that applies to the team.
+A designated portion of the total token supply is reserved for issuance **without a vesting schedule**. This allocation is designed to facilitate:
 
-:::warning[Disclosure]
-Unlike the Founder/Team allocation (12-month cliff, 36-month linear vesting), the tokens in the **Friends, Family, Vendors & Contractors** allocation carry **no cliff and no vesting** — they are fully unlocked at the Token Generation Event (TGE). This is disclosed transparently here as a deliberate design choice. Recipients are still subject to all applicable transfer, KYC, and securities-law restrictions; "unlocked" refers to the absence of a time-based vesting schedule, not an exemption from compliance controls.
+- **Vendor and contractor payments** — Service providers, contractors, and merchants who accept $TRU in lieu of cash receive immediately-vested tokens, enabling real-world token utility without the burden of a 4-year vesting clock
+- **Family and friends** — Early supporters and community members who receive tokens as relationship grants (not investment instruments) receive immediately-vested tokens
+- **Community and referral grants** — Token grants made to individuals for non-investment purposes (referrals, community building, advisory) may be issued without vesting where appropriate
+- **Seller token exchanges** — Property sellers who exchange their property for tokens may receive immediately-vested tokens depending on deal structure
+
+:::note Disclosure
+The existence of a no-vesting allocation will be fully disclosed in all offering materials. Immediate-vesting recipients should be aware that their tokens are subject to applicable securities and tax regulations. This allocation does not dilute the vesting rights of Founder/Team, SAFT investors, or Strategic Partner allocations, which retain their full vesting schedules as described above.
 :::
 
-- **Purpose:** pay contributors (family, friends, vendors, merchants, contractors) in tokens rather than cash.
-- **Vesting:** none — no cliff, no linear schedule; fully unlocked at TGE.
-- **Size:** 5% of fixed supply (50,000,000 $TRU), carved from the Treasury allocation so total supply remains 1,000,000,000.
-- **Compliance:** recipients remain subject to applicable KYC/AML and securities-transfer restrictions.
+## Presale — Crypto Crossover Opportunity
+
+Prior to the public Token Generation Event (TGE), United Properties TRU™ will offer a **presale round with a token bonus** targeted in part at holders of Bitcoin, Tether (USDT), and other speculative cryptocurrencies who want to exchange their holdings for a productive, asset-backed digital token.
+
+### The Case Against Bitcoin as a Long-Term Store of Value
+
+Bitcoin has a hardcoded maximum supply of 21 million coins. Despite its scarcity:
+
+- Bitcoin is **not backed by any physical or hard asset** — no property, no gold, no government guarantee
+- Bitcoin **produces zero income** for holders — no rental yield, no dividends, no coupon payments
+- Its valuation rests entirely on **speculation, network effects, and scarcity** — not on fundamental cash flows that can be analyzed or modeled
+- A portion of all Bitcoin ever minted is estimated to be permanently lost to forgotten passwords and discarded hardware — yet remaining holders still earn nothing
+
+A Bitcoin holder owns a finite digital asset that produces no income and is backed by nothing except the next buyer's willingness to pay more.
+
+### The Case Against Tether as an Income Vehicle
+
+Tether USDT is the world's most widely held stablecoin. Its reserves are primarily held in US Treasury Bills — meaning Tether earns significant yield from those holdings. However:
+
+- **Every dollar of that yield goes to Tether's corporate balance sheet** — not to USDT holders
+- USDT holders earn **zero income** on their holdings while Tether profits from their deposits
+- Tether can **freeze any wallet** at law enforcement request
+- Tether has never completed a full independent audit — only point-in-time "attestations"
+
+A Tether holder is effectively lending their capital to Tether so Tether can earn interest income on it — and receiving nothing in return except a dollar peg.
+
+### Why $TRU Is Structurally Superior
+
+| | Bitcoin (BTC) | Tether (USDT) | **$TRU (United Properties)** |
+|---|---|---|---|
+| Backed by hard asset | ❌ None | Partial (mostly T-bills) | ✅ Real residential property |
+| Income paid to holders | ❌ Zero | ❌ Zero (Tether keeps it) | ✅ Rental distributions |
+| Appreciation for holders | Speculative only | ❌ Pegged to USD | ✅ Property portfolio appreciation |
+| Supply | 95.4% already minted | Unlimited (centralized issuance) | ✅ Fixed 1B — no inflation |
+| Regulatory path | Uncertain | High freeze + shutdown risk | ✅ Reg D, fully compliant |
+| Transparency | Full on-chain ledger | Attestation only, no full audit | ✅ Platform records + on-chain |
+| Counterparty risk | Zero (decentralized) | High (Tether can freeze/fail) | Managed (Reg D structure) |
+
+$TRU is anchored to a growing portfolio of real income-producing residential real estate. For BTC or Tether holders who want to move from speculative or non-yielding assets to a productive, asset-backed token — with rental income distributions, real property appreciation, and a clear regulatory structure — the United Properties TRU™ presale provides the exchange pathway with a **bonus allocation available only prior to public launch**.
+
+:::note Presale Terms
+Presale terms, exchange ratios, and bonus structures are subject to finalization by the Managing General Partner and qualified U.S. securities counsel. Participation is limited to verified accredited investors. See the current offering documents for final terms.
+:::
+
+---
 
 ## SAFT Token Rights (Phase 1)
 

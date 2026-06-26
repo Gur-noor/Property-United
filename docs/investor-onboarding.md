@@ -2,191 +2,225 @@
 title: Investor Onboarding
 ---
 
-# Investor Onboarding Journey
+# Investor Onboarding
 
-United Properties TRU™ supports **two distinct offering tracks**. Every investor completes one **shared compliance intake**, and is then routed to the correct track. The token/SAFT process is **not** the default for all investors.
+United Properties TRU™ supports two distinct offering tracks. After a shared compliance intake process, each investor is assigned to the correct track based on the nature of their investment.
 
-| Track | Instrument | Documents | Status |
-|---|---|---|---|
-| **A — Limited Partnership Interest Offering** | LP interest in the diversified pool | PPM, Term Sheet, Risk Factors, Accredited Investor Questionnaire, Investor Verification, Subscription Agreement, LP Agreement | **Active path for current investors** |
-| **B — Future Security Token / Token Offering** | Security token / SAFT (token warrant) | Token disclosures, SAFT or token purchase agreement | Future / phase-gated |
+---
 
-:::tip[One intake, two tracks]
-A Limited Partnership investor follows the PPM → Subscription → LP Agreement path and is **admitted as a limited partner** — not a SAFT/token flow. Both tracks share the same registration, KYC/KYB, AML, accreditation, and verification steps before any offering-specific documents are released.
-:::
+## The Two Offering Tracks
 
-## Shared Compliance Intake (All Investors)
+| Track | Instrument | Investor Type |
+|---|---|---|
+| **Track A — LP Interest** | Limited Partnership Interests (PPM + Subscription Agreement) | Investors seeking equity participation in the LP under Reg D |
+| **Track B — Security Token / SAFT** | Future Security Token / SAFT instrument | Investors seeking token rights with future conversion |
 
-Every investor completes these steps first, regardless of track:
-
-```mermaid
-flowchart LR
-    R["1 · Registration"] --> K["2 · KYC / KYB"] --> A["3 · AML Screening"]
-    A --> Q["4 · Accredited Investor Questionnaire"] --> V["5 · Investor Verification"]
-    V --> G["6 · Admin Review & Track Assignment ✅"]
-
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
-    classDef done fill:#2E86FF,stroke:#1a6fdd,color:#fff,font-weight:bold;
-    class R,K,A,Q,V step;
-    class G done;
-```
-
-1. **Registration** — name, email, country of residence, investor type (individual or entity).
-2. **KYC / KYB** — identity verification via Sumsub or Persona (individuals) / entity verification with UBO disclosures (entities).
-3. **AML screening** — sanctions (OFAC, EU, UN, FATF), PEP, and adverse-media checks.
-4. **Accredited Investor Questionnaire** — completed by every investor.
-5. **Investor Verification** — document-based verification of accredited status (income / net worth / professional certification).
-6. **Admin review & track assignment** — staff confirm intake is complete and assign the investor to **Track A (LP Interest)** or **Track B (Token/SAFT)**.
-
-## Admin Review Gate
-
-:::warning[Gate — before any offering documents]
-No investor may access **final offering documents, signing documents, or wire instructions** until an admin has reviewed and approved their completed compliance intake. Track-specific documents are released **only after** this gate is passed.
+:::info Current Active Track
+Track A (LP Interest Offering) is currently active. Track B (Security Token / SAFT) is available for investors who qualify and select that offering. Wire instructions are not released until admin review and subscription acceptance are complete for either track.
 :::
 
 ---
 
-## Track A — Limited Partnership Interest Investor
+## Phase 1 — Shared Compliance Intake (All Investors)
 
-The LP track is a document-based private-placement flow. The investor reviews the offering, subscribes, and — once the company accepts — is **admitted as a limited partner** in the diversified pool.
+All investors complete a single shared compliance intake regardless of which offering track they are pursuing.
 
 ```mermaid
 flowchart LR
-    P["PPM"] --> T["Term Sheet"] --> RF["Risk Factors"] --> SUB["Subscription Agreement"]
-    SUB --> LPA["LP Agreement"] --> ACC["Company Acceptance"] --> WIRE["Wire Instructions"]
-    WIRE --> FUNDS["Funds Received"] --> RCPT["Receipt Issued"] --> ADM["Admitted as LP ✅"]
+    S1["1 · Registration"] --> S2["2 · KYC / KYB"] --> S3["3 · AML Screening"]
+    S3 --> S4["4 · Accredited Investor\nQuestionnaire"] --> S5["5 · Investor\nVerification Form"]
+    S5 --> S6["6 · Track Assignment\n(Admin Review)"]
+    S6 --> TA["Track A\nLP Interest"] & TB["Track B\nSAFT / Token"]
 
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
-    classDef done fill:#0e5c38,stroke:#00be78,color:#fff,font-weight:bold;
-    class P,T,RF,SUB,LPA,ACC,WIRE,FUNDS,RCPT step;
-    class ADM done;
+    classDef step fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
+    classDef track fill:#2E86FF,stroke:#1f78f0,color:#fff;
+    class S1,S2,S3,S4,S5,S6 step;
+    class TA,TB track;
 ```
 
-### LP Investor Document Checklist
+### Step 1 — Registration
 
-| ✓ | Step |
-|---|---|
-| ☐ | PPM (Private Placement Memorandum) reviewed |
-| ☐ | Term Sheet reviewed |
-| ☐ | Risk Factors reviewed |
-| ☐ | Accredited Investor Questionnaire completed *(shared intake)* |
-| ☐ | Investor Verification completed *(shared intake)* |
-| ☐ | Subscription Agreement signed |
-| ☐ | LP Agreement signed or acknowledged |
-| ☐ | Admin accepted subscription |
-| ☐ | Wire instructions released |
-| ☐ | Funds received |
-| ☐ | Receipt issued |
-| ☐ | Investor admitted as Limited Partner |
+- Full legal name
+- Email address and password
+- Country of residence
+- Investor type (individual or entity)
 
-:::warning[Wire instructions gate]
-Wire instructions are **not released** until the investor is **approved, verified, and the company has accepted the subscription.** Funds are only accepted after wire instructions have been formally released.
+### Step 2 — KYC / KYB
+
+**Individual investors (KYC):**
+- Government-issued photo ID (passport or driver's license)
+- Selfie / liveness check
+- Address verification
+
+**Entity investors (KYB):**
+- Entity formation documents
+- Ownership structure / beneficial owner declarations
+- Authorized signatory verification
+
+### Step 3 — AML Screening
+
+Automated screening against global watchlists, sanctions lists, and PEP (Politically Exposed Persons) databases via third-party provider (Sumsub or Persona). AML flags escalate to admin review.
+
+### Step 4 — Accredited Investor Questionnaire
+
+Investors complete the Accredited Investor Questionnaire to establish eligibility under Regulation D:
+
+- **Income path:** $200k+ individual / $300k+ joint for last two years with reasonable expectation of continuation
+- **Net worth path:** $1M+ net worth excluding primary residence
+- **Professional certification path:** Active Series 7, 65, or 82 license; registered investment adviser
+
+### Step 5 — Investor Verification Form
+
+Supporting documentation submitted to verify accredited investor status (tax returns, financial statements, CPA/attorney letter, or license verification).
+
+### Step 6 — Track Assignment (Admin Review)
+
+The admin team reviews the complete compliance submission before assigning the investor to a track. **No offering documents, wire instructions, or signing documents are released until this step is complete.**
+
+---
+
+## Track A — LP Interest Investor
+
+Investors in Track A are participating in the private placement of Limited Partnership Interests in United Properties TRU™ Limited Partnership under the PPM.
+
+### Track A Document Checklist
+
+```mermaid
+flowchart TD
+    A1["PPM Reviewed"] --> A2["Term Sheet Reviewed"]
+    A2 --> A3["Risk Factors Disclosure Reviewed"]
+    A3 --> A4["Accredited Investor\nQuestionnaire Completed ✓"]
+    A4 --> A5["Investor Verification\nForm Completed ✓"]
+    A5 --> A6["Subscription Agreement\nSigned"]
+    A6 --> A7["LP Agreement Signed\nor Acknowledged"]
+    A7 --> A8["Admin Reviews &\nAccepts Subscription"]
+    A8 --> A9["Wire Instructions\nReleased"]
+    A9 --> A10["Funds Received"]
+    A10 --> A11["Receipt Issued"]
+    A11 --> A12["Investor Admitted\nas Limited Partner ✅"]
+
+    classDef done fill:#2E86FF,stroke:#1f78f0,color:#fff;
+    classDef step fill:#e8f1ff,stroke:#2E86FF,color:#05070e;
+    classDef gate fill:#fff3cd,stroke:#ffc107,color:#333;
+    class A12 done;
+    class A1,A2,A3,A4,A5,A6,A7,A10,A11 step;
+    class A8,A9 gate;
+```
+
+| # | Milestone | Status Control |
+|---|---|---|
+| 1 | Private Placement Memorandum (PPM) reviewed and acknowledged | Investor |
+| 2 | Term Sheet reviewed and acknowledged | Investor |
+| 3 | Risk Factors Disclosure reviewed and acknowledged | Investor |
+| 4 | Accredited Investor Questionnaire completed | Investor (from compliance intake) |
+| 5 | Investor Verification Form completed | Investor (from compliance intake) |
+| 6 | Subscription Agreement signed | Investor (e-signature) |
+| 7 | LP Agreement signed or acknowledged | Investor (e-signature) |
+| 8 | **Admin reviews and accepts subscription** | **Admin gate — required before wire instructions** |
+| 9 | **Wire instructions released to investor** | **Admin action — only after step 8** |
+| 10 | Funds received and confirmed | Admin confirms receipt |
+| 11 | Conditional Receipt of Funds issued to investor | Admin |
+| 12 | Investor admitted as Limited Partner; records updated | Admin |
+
+:::warning Wire Instructions Gate
+Wire instructions are not released to any investor until the admin team has reviewed the full subscription package and formally accepted the subscription. This gate is non-negotiable.
 :::
+
+### Track A — Admin Review Checklist (Internal)
+
+Before accepting a subscription and releasing wire instructions, admin must confirm:
+
+- [ ] KYC/KYB passed (third-party provider confirmation)
+- [ ] AML screening clear (no flags)
+- [ ] Accredited Investor Questionnaire completed and reviewed
+- [ ] Investor Verification Form completed with supporting documents
+- [ ] PPM delivered and acknowledged
+- [ ] Subscription Agreement fully executed
+- [ ] LP Agreement acknowledged
+- [ ] No compliance flags or open items
+- [ ] Subscription amount matches signed documents
 
 ---
 
 ## Track B — Security Token / SAFT Investor
 
-The token track applies to investors participating in the future security-token / SAFT offering. It is **not** the default and is phase-gated to when token instruments are legally available.
+Investors in Track B are participating in the Future Security Token offering — purchasing LP interests with conditional future security token conversion rights, or executing a SAFT instrument.
 
-```mermaid
-flowchart LR
-    D["Token Disclosures"] --> S["SAFT / Purchase Agreement"] --> W["Wallet Submitted"]
-    W --> WL["Wallet Whitelisted"] --> AL["Token Allocation Approved"] --> TR["Transfer Restrictions Acknowledged ✅"]
+### Track B Document Checklist
 
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
-    classDef done fill:#4a2080,stroke:#9d6fff,color:#fff,font-weight:bold;
-    class D,S,W,WL,AL step;
-    class TR done;
-```
+| # | Milestone | Status Control |
+|---|---|---|
+| 1 | Token disclosures reviewed and acknowledged | Investor |
+| 2 | Risk Factors Disclosure reviewed (includes token-specific risks) | Investor |
+| 3 | SAFT or LP Interest + Token Conversion Agreement signed | Investor |
+| 4 | Wallet address submitted (optional in Phase 1) | Investor |
+| 5 | **Admin reviews and accepts subscription** | **Admin gate** |
+| 6 | **Wire instructions released** | **Admin action — only after step 5** |
+| 7 | Funds received and confirmed | Admin |
+| 8 | Receipt issued | Admin |
+| 9 | Wallet whitelisted (Phase 2+) | Admin / Platform |
+| 10 | Token allocation approved (when legally permitted) | Admin |
+| 11 | Transfer restrictions acknowledged | Investor |
+| 12 | Investor admitted and records updated | Admin |
 
-### Token / SAFT Investor Document Checklist
-
-| ✓ | Step |
-|---|---|
-| ☐ | Token disclosures reviewed |
-| ☐ | SAFT or token purchase agreement signed *(if applicable)* |
-| ☐ | Wallet address submitted *(if applicable)* |
-| ☐ | Wallet whitelisted *(if applicable)* |
-| ☐ | Token allocation approved *(if legally permitted)* |
-| ☐ | Transfer restrictions acknowledged |
-
-SAFT instruments grant pro-rata rights to future $TRU at TGE (see [Tokenomics](./tokenomics.md)). No tokens are issued until they are legally permitted and the applicable phase is reached.
-
----
-
-## Wire Instructions &amp; Funds — Hard Rules
-
-These rules apply to **both** tracks and are enforced by the admin workflow:
-
-1. **No offering documents, signing documents, or wire instructions** are released before the admin review gate is passed.
-2. **Wire instructions** are released only after the investor is **approved, verified, and the company has accepted the subscription** (LP track) or the equivalent approval (token track).
-3. **Funds are accepted only after** wire instructions have been formally released.
-4. Every release and acceptance is timestamped in the audit trail.
-
----
-
-## The Seller Journey (Acquisition by Token Exchange)
-
-Property owners are onboarded through a parallel flow designed to convert an illiquid property into a liquid, diversified position — **without giving up future income and appreciation.** Sellers complete the same shared compliance intake.
-
-```mermaid
-flowchart LR
-    A["1 · Inquiry"] --> B["2 · Property Submission"] --> C["3 · Valuation & Due Diligence"]
-    C --> D["4 · KYC/KYB + Accreditation"] --> E["5 · Exchange Offer"] --> F["6 · Agreement & Title Transfer"]
-    F --> G["7 · Interest (and/or cash) issued"] --> H["8 · Partner in the Pool ✅"]
-
-    classDef step fill:#0d1b3e,stroke:#2E86FF,color:#ffffff,font-weight:600;
-    classDef done fill:#0e5c38,stroke:#00be78,color:#fff,font-weight:bold;
-    class A,B,C,D,E,F,G step;
-    class H done;
-```
-
-1. **Inquiry** — owner expresses interest (directly or via an authorized agent).
-2. **Property submission** — address, financials, rent roll, condition, and ownership details.
-3. **Valuation & due diligence** — the platform underwrites the property and determines its contribution value to the pool.
-4. **KYC/KYB + accreditation** — the seller-turned-investor completes the shared compliance intake.
-5. **Exchange offer** — the platform presents a token / LP-interest / cash / blended offer, showing the seller's resulting pool position.
-6. **Agreement & title transfer** — the property is contributed into a new Series under PropCo Master and added to the pool.
-7. **Interest issued** — the seller receives a pool interest (LP interest and/or future tokens) and/or cash, per the agreed mix.
-8. **Partner in the pool** — the seller now earns pro-rata income and appreciation across the entire diversified portfolio.
-
-:::tip[Seller takeaways]
-Defer a fully-taxable all-cash exit, shed property management and vacancy risk, gain diversification — and keep participating in income and appreciation. Liquidity **without** giving up the upside.
+:::note Wallet Submission
+Wallet address submission is optional in Phase 1. No tokens are minted until Phase 2. Investors should record their wallet address for a smooth Phase 2 transition.
 :::
 
-## The Agent / Realtor Channel
-
-United Properties is building an **authorized network of seller agents**. Agents use the exchange structure to win listings they would otherwise lose to cash buyers.
-
-| Step | Agent Action |
-|---|---|
-| 1 | Join the authorized agent network (application + agreement) |
-| 2 | Identify seller clients — especially small landlords nearing retirement |
-| 3 | Present the hybrid token/LP-interest exchange offer alongside (or instead of) a cash buyout |
-| 4 | Submit the property and shepherd the seller through onboarding |
-| 5 | Earn agent compensation on completed acquisitions |
-
-**Why it wins listings:** the agent can offer a seller something no cash buyer can — liquidity, diversification, a deferred taxable exit, and continued income and appreciation.
-
-For acquisitions and agent partnerships: **acquisitions@unitedpropertiestokens.com**
-
 ---
 
-## Admin Operations
+## Admin Dashboard Requirements
 
-The admin dashboard supports the shared intake plus both offering tracks:
+The admin team operates a dashboard with separate views for each track:
+
+### Shared Compliance View
 
 | Feature | Description |
 |---|---|
-| Investor list | All investors and sellers, status filter, search, **track label (LP / Token)** |
-| Shared intake workflow | Registration → KYC/KYB → AML → Questionnaire → Verification |
-| Track assignment | Route each approved investor to LP Interest or Token/SAFT |
-| LP document checklist | PPM, Term Sheet, Risk Factors, Subscription, LP Agreement, acceptance, wire, funds, receipt, admission |
-| Token document checklist | Disclosures, SAFT/purchase agreement, wallet, whitelist, allocation, transfer restrictions |
-| Offering-document release | Locked until admin review gate is passed |
-| Wire-instruction release | Locked until approved + verified + subscription accepted |
-| Internal notes | Per-investor notes for admin team |
-| Audit trail | Timestamped log of every admin action, release, and acceptance |
-| AML flags | Escalation queue for any AML screening hits |
-| Bulk export | Investor/LP data export for regulatory reporting |
+| Investor list | All investors, track filter, status filter, search |
+| KYC/KYB status | Third-party provider status per investor |
+| AML flags | Escalation queue for screening hits |
+| Accreditation status | Documents uploaded, reviewed, approved/rejected |
+| Audit trail | Timestamped log of every admin action |
+
+### Track A Dashboard (LP Interest)
+
+| Feature | Description |
+|---|---|
+| Subscription tracker | Document checklist status per investor |
+| Subscription acceptance | Accept / reject subscription with notes |
+| Wire instructions release | Single-action gate — triggers wire instruction delivery |
+| Funds received log | Date, amount, bank reference per investor |
+| Receipt generation | Issue conditional receipt on fund confirmation |
+| LP admission log | Record of each investor admitted as LP |
+
+### Track B Dashboard (Token / SAFT)
+
+| Feature | Description |
+|---|---|
+| SAFT tracker | Execution status per investor |
+| Wallet registry | Submitted wallet addresses, whitelisting status |
+| Token allocation log | Reserved allocation per SAFT investor |
+| Conversion rights tracker | Future conversion trigger monitoring |
+
+---
+
+## Current Investor Onboarding Timeline (Track A)
+
+For the current investor waiting to be onboarded under Track A (LP Interest), the steps and estimated timeline are:
+
+| Step | Estimated Time |
+|---|---|
+| Investor completes compliance intake (if not done) | 1–2 business days |
+| Admin reviews KYC/AML and accreditation | 2–3 business days |
+| Investor signs Subscription Agreement + LP Agreement | 1–2 business days |
+| Admin accepts subscription and releases wire instructions | 1 business day |
+| Investor wires funds | 1–3 business days |
+| Admin confirms receipt and issues receipt document | 1 business day |
+| Investor formally admitted as LP | Same day as receipt confirmation |
+
+**Estimated total from start to LP admission: 7–12 business days**, depending on how quickly the investor completes their signing steps and wires funds.
+
+:::note Legal Counsel Review
+The offering documents (PPM, Subscription Agreement, LP Agreement, and related forms) are in final review. No investor funds should be accepted until the Managing General Partner has confirmed that qualified U.S. securities counsel has reviewed the offering package. Please confirm the legal review status before releasing wire instructions to any investor.
+:::

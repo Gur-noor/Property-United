@@ -1,30 +1,25 @@
 // @ts-check
 
-// Explicit sidebar ordered to match the narrative flow of the whitepaper PDF.
+// Explicit sidebar ordered to match the narrative flow of the whitepaper.
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   whitepaperSidebar: [
+    'executive-summary',
     'abstract',
     'introduction',
+    'competitive-advantage',
     'problem',
     'solution',
+    'platform-overview',
     'corporate-structure',
-    {
-      type: 'category',
-      label: 'Platform',
-      items: ['platform/architecture', 'platform/security'],
-    },
-    'property-tokens',
-    'investor-onboarding',
-    'saft-agreement',
-    'compliance',
+    'property-tokenization',
+    'investor-participation',
+    'fundraising-structure',
     'revenue-model',
-    'business-valuation',
-    'tokenomics',
-    'token-utility',
-    'governance',
+    'compliance',
+    'platform-ecosystem',
     'roadmap',
-    'team',
+    'strategic-benefits',
     'legal-disclaimer',
   ],
 };

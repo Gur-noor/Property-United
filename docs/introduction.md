@@ -1,78 +1,58 @@
 ---
+id: introduction
 title: Introduction
+sidebar_label: Introduction
+sidebar_position: 2
 ---
 
 # Introduction
 
-Real estate is the world's largest asset class — estimated at over **$300 trillion** globally. Yet most of that value is **trapped**: illiquid, undiversified, and locked inside single properties owned by individuals who have no easy way to access it without selling outright and walking away from all future upside.
+## Background
 
-Nowhere is this more true than in the **U.S. residential rental market**.
+Real estate is one of the largest and most widely held asset classes in the world. Yet meaningful participation has historically required substantial capital, direct property management involvement, and a willingness to accept long periods of illiquidity. Even for accredited investors — those who legally qualify to participate in private securities offerings — accessing high-quality income-producing real estate at a fractional ownership level has remained operationally complex and administratively burdensome.
 
-## The Market We Serve
+The tokenized real estate market is growing rapidly, with numerous platforms actively raising capital to acquire properties using blockchain infrastructure. Yet despite this growth, the market has a fundamental blind spot: every platform pays sellers in cash, keeps all future income and appreciation, and asks investors to pick individual properties rather than owning a diversified portfolio.
 
-There are roughly **50 million residential rental units** in the United States, owned by nearly **20 million people**. The overwhelming majority are **small "mom-and-pop" landlords** — owners of just one or two properties — and a large and growing share of them are **nearing retirement**.
+United Properties TRU™ is built to do what none of them do.
 
-For these owners, the options today are bad:
+---
 
-- **Keep the property** and stay an active landlord — tenants, vacancies, repairs, taxes, and management, indefinitely.
-- **Sell for all-cash** to an institutional "as-is" buyer — triggering capital gains taxes and agent commissions, and **giving up every future dollar** of rental income and appreciation.
+## What United Properties TRU™ Is Building
 
-There has never been a middle path that delivers **liquidity without surrendering future income and appreciation**. United Properties TRU™ is that path.
+United Properties TRU™ is a platform for compliant fractional ownership of a **diversified pool of income-producing residential rental properties** — accessible to verified accredited investors through regulated securities and, in future phases, blockchain token technology.
 
-## What United Properties TRU™ Does
+The platform is differentiated by two structural innovations no competitor currently offers:
 
-United Properties TRU™ is a **tokenized real estate rollup platform**. We:
+**The Seller-as-Partner Model** — When United Properties acquires a property, the seller can choose to receive tokens instead of cash. That seller becomes a partner in the growing portfolio — continuing to earn income and participate in appreciation across all platform properties, not just the one they sold. No other platform in the market currently offers sellers this choice. United Properties TRU™ is the only platform building this model.
 
-1. **Acquire** income-producing residential rental properties — paying sellers in **tokens, cash, or a blend**. Sellers who take tokens become partners in the platform's portfolio.
-2. **Aggregate** each property into a bankruptcy-remote legal entity (Delaware Series LLC) held within a **diversified master pool**.
-3. **Tokenize** the pool using ERC-3643 permissioned tokens — each representing a fractional interest in the **whole diversified portfolio**, not a single building.
-4. **Raise capital** via Regulation D 506(c) offerings — verified, accredited US investors only.
-5. **Distribute yield** — rental income flows to token holders in USDC or fiat, automatically, on a monthly or quarterly schedule.
-6. **Enable liquidity** — whitelisted token transfers and (in later phases) a licensed secondary marketplace, so positions are no longer locked for years.
+**Diversified Pool Ownership** — Investors own a fractionalized interest in the entire portfolio of income-producing and appreciating residential rental properties across multiple locations. They do not pick individual properties. Their returns come from the combined performance of the platform's full property pool — the way institutional allocators invest in real estate, now available at qualifying retail minimum sizes.
 
-In short, United Properties is a **massive real estate rollup driven by asset-backed tokens** — designed to unlock the trillions of dollars currently trapped in residential rental properties.
+---
 
-## Who This Is For
+## The Platform Is Built on Three Pillars
 
-| Audience | Why United Properties TRU™ |
-|---|---|
-| **Property owners / sellers** | Liquidity *and* continued upside — exchange one property for a diversified, income-producing token position; no all-cash taxable exit, no more management |
-| **Real estate agents / Realtors** | A new way to win listings — offer sellers a token-exchange alternative to a cash buyout |
-| Accredited investors | Fractional exposure to a **diversified pool** of rentals — passive income, no property management, diversification by default |
-| Family offices / HNW | Diversified residential real estate at scale, in a single compliant instrument |
-| Early-stage SAFT investors | $TRU token rights via warrant, plus a 0% origination-fee perk |
+**Legal structure** — United Properties TRU™ Limited Partnership (Missouri) holds the platform's properties and operations. Limited Partnership interests give investors a proportional share in the portfolio. Each property brought onto the platform is held within an isolated structure, protecting investors from cross-property liability. On-chain token representation of these interests is implemented in Phase 2 using ERC-3643 permissioned tokens.
 
-<div style="margin:1.8rem 0;background:#07101e;border:1px solid #1e4080;border-radius:14px;padding:1.5rem">
-<div style="font-size:.72rem;font-weight:700;color:#60a5fa;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem">Market Opportunity</div>
-<div style="margin-bottom:10px">
-  <div style="font-size:.8rem;color:#a0b4cc;margin-bottom:5px;font-weight:600">Global Real Estate Market</div>
-  <div style="height:28px;border-radius:6px;background:linear-gradient(90deg,#1a3a7a,#2d5fa8);display:flex;align-items:center;padding:0 12px">
-    <span style="font-size:.88rem;font-weight:800;color:#ffffff">$300 Trillion</span>
-  </div>
-</div>
-<div style="margin-bottom:10px">
-  <div style="font-size:.8rem;color:#a0b4cc;margin-bottom:5px;font-weight:600">U.S. Residential Rental Units — Our Direct TAM</div>
-  <div style="width:62%;height:28px;border-radius:6px;background:linear-gradient(90deg,#1d4ed8,#3b82f6);display:flex;align-items:center;padding:0 12px">
-    <span style="font-size:.88rem;font-weight:800;color:#fff">~50M units · ~20M owners</span>
-  </div>
-</div>
-<div style="font-size:.78rem;color:#5ba4ff;margin-top:.5rem">← Trillions of dollars of equity trapped in single, illiquid, undiversified properties</div>
-</div>
+**Regulatory compliance** — The offering of Limited Partnership interests is conducted under Regulation D of the Securities Act of 1933, restricted to verified accredited investors. Token transfers, when implemented, are restricted on-chain to KYC-whitelisted wallets, ensuring compliance is maintained continuously.
 
-## Document Structure
+**Technology** — The platform handles investor onboarding, KYC/KYB verification, accredited investor confirmation, document management, and income distribution. In Phase 2 and beyond, portfolio interests are represented as ERC-3643 tokens — a permissioned token standard built for regulated securities — with on-chain income distributions and compliant secondary transfers.
 
-This whitepaper proceeds as follows:
+---
 
-1. [Problem](./problem.md) — why owners are forced to choose between liquidity and upside
-2. [Solution](./solution.md) — the token-exchange rollup and the diversified pool
-3. [Corporate Structure](./corporate-structure.md) — legal entities, the master pool, and risk isolation
-4. [Platform Architecture](./platform/architecture.md) — technical design
-5. [Property Tokens](./property-tokens.md) — the diversified-pool token model explained
-6. [Investor Onboarding](./investor-onboarding.md) — investor, seller, and agent journeys
-7. [SAFT Agreement](./saft-agreement.md) — Phase 1 investor instrument
-8. [Compliance](./compliance.md) — KYC, AML, Reg D
-9. [Revenue Model](./revenue-model.md) — how the platform generates income
-10. [Business Valuation](./business-valuation.md) — valuation methodology and financial projections
-11. [Tokenomics](./tokenomics.md) — $TRU utility token economics
-12. [Governance](./governance.md) — DAO and protocol governance
-13. [Roadmap](./roadmap.md) — phases 0 through 5
+## Scope of This Document
+
+This whitepaper covers:
+
+- The problem United Properties TRU™ is designed to solve
+- What makes the platform structurally different from every competitor
+- The solution architecture — legal, regulatory, and technical
+- The corporate entity structure
+- The property tokenization and fractional ownership model
+- The investor onboarding process — two offering tracks
+- The fundraising structure
+- The platform revenue model
+- The compliance framework
+- The phased roadmap
+- Strategic benefits of the structure
+
+This document does not constitute an offer to sell or a solicitation to purchase any security. See the [Legal Disclaimer](./legal-disclaimer) for full disclosure language.
