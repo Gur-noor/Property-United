@@ -4,24 +4,28 @@ title: SAFT Agreement
 
 # SAFT Agreement Flow
 
-Phase 1 of United Properties TRU™ raises early capital and investor commitment through a two-instrument structure: a **SAFE** into PlatformCo (equity) and a **SAFT token warrant** (future $TRU rights). This section explains both instruments and how they work together.
+Phase 1 of United Properties TRU™ raises early capital and investor commitment through a two-instrument structure: a **SAFE-style agreement** into the Partnership (a position in the whole portfolio, recorded as a pre-assigned UPTRU property-token allocation) and a separate **SAFT token warrant** (future $TRU utility-token rights). This section explains both instruments and how they work together.
+
+:::note Legal review
+Instrument names and terms (the SAFE-style agreement / LP subscription, and the SAFT / $TRU token warrant) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+); and the **$TRU** utility token is a separate, later instrument.
+:::
 
 ## The Two Instruments
 
-### SAFE — Simple Agreement for Future Equity
+### SAFE-Style Agreement — Right to a Position in the Partnership
 
-The **SAFE** (Simple Agreement for Future Equity) is a standard startup financing instrument developed by Y Combinator. Phase 1 investors receive a post-money SAFE into **PlatformCo** (Delaware C-Corp).
+The **SAFE** (Simple Agreement for Future Equity) is a standard startup financing instrument developed by Y Combinator, here adapted so investors buy into **United Properties TRU™ Limited Partnership** (the Partnership) — the entity that holds the diversified portfolio. Phase 1 investors receive a post-money, SAFE-style agreement issued by the Partnership.
 
 | Parameter | Value |
 |---|---|
-| Instrument | Post-money SAFE (YC standard template) |
-| Issuer | PlatformCo (Delaware C-Corp) |
+| Instrument | Post-money SAFE-style agreement (YC-based template) |
+| Issuer | United Properties TRU™ Limited Partnership |
 | Valuation cap | $2–3M (to be set at close) |
 | Discount | None |
-| Trigger event | Priced equity round or liquidity event |
+| Trigger event | Priced financing round or liquidity event |
 | All investors | Identical terms, no per-investor negotiation |
 
-The SAFE gives investors the right to convert their investment into PlatformCo equity at the next priced round, at or below the valuation cap.
+The agreement gives investors the right to convert their investment into an LP interest (a share of the whole portfolio) in the Partnership at the next priced round, at or below the valuation cap.
 
 ### SAFT — Simple Agreement for Future Tokens (Token Warrant)
 
@@ -66,16 +70,16 @@ Every Phase 1 SAFE + SAFT investor also receives:
 1. Investor completes KYC/KYB and accreditation verification
 2. Investor reviews SAFE terms and SAFT side letter
 3. Investor executes both documents via e-signature (DocuSign)
-4. PlatformCo countersigns and delivers executed copies
+4. The Partnership countersigns and delivers executed copies
 5. Investor's pro-rata $TRU allocation is recorded in the SAFT register
 6. At Phase 3+ TGE, investor's $TRU are minted and delivered to their verified wallet
 
 ## SAFT vs Property Token
 
-| | SAFT | Property Token |
+| | SAFT | Property Token (UPTRU) |
 |---|---|---|
-| What it is | Contractual right to future $TRU | Fractional ownership of a property |
-| Income | No income right | Pro-rata rental distributions |
+| What it is | Contractual right to future $TRU utility tokens | Fractional, diversified ownership of the whole portfolio |
+| Income | No income right | Pro-rata rental distributions across the portfolio |
 | Issued in | Phase 1 (contract) / Phase 3+ (tokens) | Phase 2+ |
 | Transferable | Subject to SAFT terms | ERC-3643 whitelisted wallets |
 | Risk | Platform execution + TGE risk | Real estate + token risk |

@@ -11,8 +11,8 @@ slug: /abstract
 
 The platform operates under a **two-token model**:
 
-- **Property Tokens** — ERC-3643 permissioned tokens representing fractional ownership of a specific, legally-structured property entity. Investors earn pro-rata rental income and gain exposure to property value appreciation.
-- **Utility Token ($TRU)** — A future platform-level token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. Issued in Phase 3+ only.
+- **Property Tokens (UPTRU)** — ERC-3643 permissioned security tokens representing a fractional, diversified interest in the **whole property portfolio** held through the Partnership. Investors earn pro-rata rental income and gain exposure to portfolio-wide value appreciation. Individual properties are each held in their own isolated legal structure for risk protection only.
+- **Utility Token ($TRU)** — A separate, future platform-level utility token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. It is not tied to any property and is not the investment. Issued in Phase 3+ only.
 
 ## Phase 1 Scope
 
@@ -21,10 +21,10 @@ Phase 1 (**currently in development**) is intentionally off-chain. It delivers:
 1. A public landing page and investor education portal
 2. Investor registration with full KYC/KYB and AML screening
 3. Accredited investor verification (Reg D 506(c))
-4. SAFT agreement flow with token warrant rights
+4. Investment now — investors receive a **pooled Limited Partnership interest** in the whole portfolio, recorded as a **pre-assigned UPTRU property-token allocation** (the tokenized form of that interest, minted on-chain in Phase 2)
 5. Admin dashboard and off-chain investor records
 
-No tokens are minted in Phase 1. The platform transitions to on-chain operations in Phase 2 with the first tokenized property raise.
+No on-chain tokens are minted in Phase 1; the pre-assigned allocation lets investors participate before any property is listed. In Phase 2, each investor's pre-assigned allocation becomes real UPTRU property tokens representing a diversified interest across the whole portfolio, and rent flows pro-rata.
 
 ## What No One Else Is Doing
 
@@ -42,8 +42,8 @@ Combined, these innovations create a structure where **liquidity is available wi
 
 Whether you bring capital or property, you onboard through the same verified flow (registration → KYC/KYB and AML → accredited-investor verification → subscription documents) and end up holding a position in the same managed portfolio.
 
-- **Track 1 — Invest capital.** Accredited investors contribute funds and, during the current fundraising stage, receive a **Limited Partnership interest** in the portfolio. When property tokens are minted (Phase 2+), that interest is designed to convert into tokens on a one-to-one economic basis.
-- **Track 2 — Contribute property (seller-as-partner).** Property owners exchange their property and choose their own cash/token mix. To the extent they take tokens (or an LP interest), they stay invested as the portfolio grows.
+- **Track 1 — Invest capital.** Accredited investors contribute funds and, during the current fundraising stage, receive a **pooled Limited Partnership interest** in the whole portfolio, recorded as a **pre-assigned UPTRU property-token allocation**. When UPTRU property tokens are minted (Phase 2+), that pre-assigned allocation becomes real tokens representing a diversified interest across the entire portfolio.
+- **Track 2 — Contribute property (seller-as-partner).** Property owners exchange their property and choose their own cash/token mix. To the extent they take tokens (or an LP interest), they stay invested in the whole growing portfolio.
 
 Both tracks share the same economics: your position earns pro-rata rental income and grows with the portfolio, and — over time — becomes tradeable on a compliant secondary market.
 

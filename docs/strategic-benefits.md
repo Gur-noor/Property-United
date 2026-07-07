@@ -33,27 +33,27 @@ By structuring investor participation as ownership of a diversified pool rather 
 
 ## 2. Risk Isolation Between Platform and Properties
 
-The two-entity architecture — PlatformCo (C-Corp) and PropCo Master (Series LLC) — creates a structural firewall between platform-level risk and property-level risk.
+The architecture — a single Partnership that investors buy into, a separate operating/management layer, and per-property isolated structures — creates a structural firewall between operating risk and property-level risk.
 
-**For property investors:** Their investment is held in a bankruptcy-remote series within PropCo Master. A failure at the PlatformCo level does not extinguish or compromise their ownership interests. The series holds legal title to the property independently.
+**For investors:** Their investment is a diversified interest in the whole portfolio held through the Partnership, with each property ring-fenced in its own bankruptcy-remote structure. A failure at the operating-layer level does not extinguish or compromise their ownership interests, and a problem in one property is cushioned by the rest of the portfolio.
 
-**For PlatformCo equity holders:** Their investment is in the platform business — its technology, IP, fee streams, and brand. A problem with an individual property or series does not create liability or financial exposure for PlatformCo beyond the loss of fee income from that series.
+**For the operating/management layer:** Its activity concerns the platform business — technology, IP, fee-funded services, and brand. A problem with an individual property does not create liability or financial exposure beyond the loss of fee income from that property.
 
-**The principle, as stated in the structure memo:** *"Property risk stays inside each series; platform risk stays inside PlatformCo. If either fails, the other survives."*
+**The principle, as stated in the structure memo:** *"Property risk stays inside each isolated property structure; operating risk stays inside the operating layer. If either fails, the portfolio held for investors survives."*
 
 ---
 
 ## 2. Scalability at Near-Zero Marginal Cost
 
-The Series LLC structure within PropCo Master allows an unlimited number of property series to be created without requiring a separate entity formation process for each one. Each new series is created as an internal compartment of the existing master LLC.
+The per-property isolation model allows an unlimited number of properties to be added to the portfolio without requiring a burdensome separate formation process for each one, and without changing what investors own — a share of the whole growing portfolio.
 
 This design means that:
 
-- Legal cost of adding a new property is minimal compared to forming a new standalone LLC
+- Legal cost of adding a new property is minimal
 - Operational overhead scales sub-linearly with portfolio growth
-- The platform can expand from a single property to dozens without restructuring the legal architecture
+- The portfolio can expand from a single property to dozens without restructuring the legal architecture
 
-Platform revenue (fees to PlatformCo) scales with AUM. The cost of generating that revenue does not scale proportionally. This creates an improving unit economics profile as the platform grows.
+Platform revenue (fees to the Partnership) scales with AUM. The cost of generating that revenue does not scale proportionally. This creates an improving unit economics profile as the platform grows.
 
 ---
 
@@ -61,7 +61,7 @@ Platform revenue (fees to PlatformCo) scales with AUM. The cost of generating th
 
 Compliance under Regulation D 506(c) and the ERC-3643 token standard is not a layer applied on top of the platform — it is embedded into the structure at the design level.
 
-- **Reg D 506(c)** governs how each series raises capital. Its requirements (accredited investor verification, no general solicitation of unqualified investors, Form D filing) are built into the onboarding and subscription workflow.
+- **Reg D 506(c)** governs how the Partnership raises capital. Its requirements (accredited investor verification, US accredited investors only, Form D filing) are built into the onboarding and subscription workflow.
 - **ERC-3643** enforces investor eligibility at the token contract level. Transfer restrictions are not merely a legal obligation — they are programmatically enforced. This eliminates the risk of inadvertent non-compliant transfers.
 - **KYC/KYB via third-party providers** (Sumsub, Persona) ensures that the platform's verification process meets the "reasonable steps" requirement of Rule 506(c).
 
@@ -76,7 +76,7 @@ The use of a standard **YC post-money SAFE** and a **token warrant side letter**
 - **Speed** — Standard templates reduce time to close. No custom legal drafting is required.
 - **Cost** — Legal cost is minimised when using well-precedented instruments.
 - **Investor familiarity** — SAFE agreements are widely understood by sophisticated investors. There is no investor education burden associated with understanding a novel instrument.
-- **Clean cap table** — One template with identical terms for all investors results in a clean, manageable cap table at PlatformCo.
+- **Clean cap table** — One template with identical terms for all investors results in a clean, manageable cap table.
 - **No securities complexity at this stage** — No tokens are sold in the SAFE round. The token warrant provides a future right only, avoiding the complexity of a pre-TGE token sale.
 
 ---
@@ -85,20 +85,20 @@ The use of a standard **YC post-money SAFE** and a **token warrant side letter**
 
 The platform's five fee streams (origination, tokenization, asset management, disposition, secondary transfer) are all proportional to property value or transaction activity. Platform revenue grows as more properties are onboarded and their combined AUM increases.
 
-This dynamic has an important implication: **additional revenue does not require proportional additional staff or operational overhead**. The marginal cost of managing each new series is low relative to the fee income it generates. As AUM grows from $3M to $30M, revenue grows approximately ten-fold while the operational infrastructure required to support it grows much more slowly.
+This dynamic has an important implication: **additional revenue does not require proportional additional staff or operational overhead**. The marginal cost of managing each new property is low relative to the fee income it generates. As AUM grows from $3M to $30M, revenue grows approximately ten-fold while the operational infrastructure required to support it grows much more slowly.
 
-This is characteristic of platform businesses more broadly, and it is reflected in the structure: PlatformCo earns fees from every series it manages, and every new series added to PropCo Master contributes to PlatformCo's fee income.
+This is characteristic of platform businesses more broadly, and it is reflected in the structure: the Partnership earns fees from every property in the portfolio, and every new property added contributes to the Partnership's fee income.
 
 ---
 
 ## 6. Early Investor Alignment
 
-Early investors in PlatformCo (via SAFE) benefit from:
+Early investors in the Partnership benefit from:
 
-- **Equity in the platform business** — they participate in the full upside of the platform's growth, not just one property
-- **Token warrant rights** — contingent rights to future $TRU supply pro-rata to their equity
+- **A stake in the growing portfolio and platform** — they participate in the full upside of the platform's growth, not just one property
+- **$TRU token warrant rights** — contingent rights to future $TRU utility-token supply pro-rata to their position
 - **0% origination fee** on their own property investments — a direct economic benefit from using the platform they helped to fund
-- **First-allocation rights** — priority access to new property listings before they open to the general investor pool
+- **First-allocation rights** — priority access to new offerings before they open to the general investor pool
 - **Pro-rata rights** in the next funding round — protecting their ownership percentage from dilution
 
-This alignment ensures that early investors have multiple vectors of participation in the platform's success, and that their interests as investors in PlatformCo are aligned with the long-term growth of the platform itself.
+This alignment ensures that early investors have multiple vectors of participation in the platform's success, and that their interests are aligned with the long-term growth of the platform itself.

@@ -9,7 +9,7 @@ sidebar_position: 10
 
 ## Overview
 
-PlatformCo earns revenue through a structured set of fees charged to each property series at defined points in the property lifecycle. All platform revenue flows to PlatformCo — not to individual property series, and not to token holders of those series.
+The Partnership earns revenue through a structured set of fees charged across the property portfolio at defined points in the property lifecycle. These fees fund the operating/management layer's services; they are distinct from the rental income distributed pro-rata to token / LP holders.
 
 The revenue model is designed to scale with Assets Under Management (AUM). As more properties are onboarded and their asset values grow, platform revenue grows proportionally — without requiring a proportional increase in operational headcount.
 
@@ -21,7 +21,7 @@ The revenue model is designed to scale with Assets Under Management (AUM). As mo
 |---|---|---|
 | Origination / acquisition | 1–3% of property value | At each property close |
 | Tokenization / listing | 0.5–2% | At token mint |
-| Asset management | 1–2% of annual rent | Ongoing, per series |
+| Asset management | 1–2% of annual rent | Ongoing, across the portfolio |
 | Disposition | 1–2% of sale price | At property exit |
 | Secondary transfer | 0.25–1% | Per whitelisted trade |
 
@@ -31,19 +31,19 @@ The revenue model is designed to scale with Assets Under Management (AUM). As mo
 
 ### Origination / Acquisition Fee
 
-Charged at the time a property is acquired and placed into a new series. This fee compensates PlatformCo for the work of sourcing, evaluating, structuring, and closing the property transaction. Rate: **1–3% of property value**, payable at close.
+Charged at the time a property is acquired and placed into its isolated structure within the portfolio. This fee compensates the Partnership for the work of sourcing, evaluating, structuring, and closing the property transaction. Rate: **1–3% of property value**, payable at close.
 
 ### Tokenization / Listing Fee
 
-Charged at the time a new set of ERC-3643 tokens is minted for a property series and made available to investors. This fee compensates PlatformCo for the work of preparing the token offering, configuring the on-chain compliance infrastructure, and listing the property on the platform. Rate: **0.5–2%**, payable at token mint.
+Charged at the time ERC-3643 tokens are minted into the pool for a newly added property and made available to investors. This fee compensates the Partnership for the work of preparing the token offering, configuring the on-chain compliance infrastructure, and listing the property on the platform. Rate: **0.5–2%**, payable at token mint.
 
 ### Asset Management Fee
 
-An ongoing fee charged per series for PlatformCo's management of the property — including tenant relations, distribution processing, on-chain record maintenance, and ongoing compliance oversight. Rate: **1–2% of annual rental income**, charged on a recurring basis.
+An ongoing fee charged for management of the portfolio's properties — including tenant relations, distribution processing, on-chain record maintenance, and ongoing compliance oversight. Rate: **1–2% of annual rental income**, charged on a recurring basis to the Partnership.
 
 ### Disposition Fee
 
-Charged when a property is sold and the series is wound down. This fee compensates PlatformCo for managing the exit process, distributing proceeds to token holders, and closing the series. Rate: **1–2% of sale price**, payable at property exit.
+Charged when a property is sold and its isolated structure is wound down. This fee compensates the Partnership for managing the exit process and returning net proceeds to the portfolio for pro-rata distribution to token holders. Rate: **1–2% of sale price**, payable at property exit.
 
 ### Secondary Transfer Fee
 
@@ -63,11 +63,11 @@ The table below illustrates how platform revenue scales with AUM, based on the f
 These figures are illustrative and based on the fee ranges described above. Actual revenue will depend on the number of properties onboarded, their values, rental yields, turnover, and secondary transfer volume.
 
 :::note
-Revenue scales with AUM, not headcount. The marginal cost of adding a new property series is near-zero at the legal and operational level, while the marginal revenue contribution grows with each additional asset.
+Revenue scales with AUM, not headcount. The marginal cost of adding a new property to the portfolio is near-zero at the legal and operational level, while the marginal revenue contribution grows with each additional asset.
 :::
 
 ---
 
 ## Early Investor Fee Benefit
 
-As part of the early-stage fundraising structure, early investors (SAFE investors in PlatformCo) receive a **0% origination fee** on their own property investments made through the platform. This benefit is provided at zero cash cost to PlatformCo and serves as an investor sweetener at the time of the SAFE closing. See the [Fundraising Structure](./fundraising-structure) section for full details.
+As part of the early-stage fundraising structure, early investors in the Partnership receive a **0% origination fee** on their own property investments made through the platform. This benefit is provided at zero cash cost and serves as an investor sweetener at the time of closing. See the [Fundraising Structure](./fundraising-structure) section for full details.

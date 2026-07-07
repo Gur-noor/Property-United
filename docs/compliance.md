@@ -13,9 +13,9 @@ Compliance is a foundational design principle of United Properties TRU™, not a
 
 ---
 
-## Regulation D, Rule 506(c) — Property Token Offerings
+## Regulation D, Rule 506(c) — Portfolio Offering
 
-Each property series raise is conducted as a private securities offering under Regulation D, Rule 506(c) of the Securities Act of 1933.
+The Partnership's offering is conducted as a private securities offering under Regulation D, Rule 506(c) of the Securities Act of 1933, restricted to US accredited investors.
 
 ### What This Means
 
@@ -24,9 +24,9 @@ Each property series raise is conducted as a private securities offering under R
 - **Verification required** — Under Rule 506(c), the issuer must take reasonable steps to verify accredited investor status. Reliance on self-certification alone is not sufficient. The platform uses third-party verification services to satisfy this requirement.
 - **No SEC registration required** — The offering is exempt from SEC registration under the Securities Act.
 
-### Per-Series Application
+### Application
 
-Compliance under Reg D is applied at the series level. Each series that raises investor capital conducts its own Rule 506(c) offering with its own Form D filing.
+Compliance under Reg D is applied at the Partnership level. The Partnership conducts its Rule 506(c) offering with the corresponding Form D filing, admitting verified accredited investors into the diversified portfolio.
 
 ---
 
@@ -61,7 +61,7 @@ The verification process confirms:
 - AML/sanctions screening
 - Business entity credentials for entity investors
 
-Upon successful verification, the investor's wallet address is added to the on-chain whitelist maintained by the ERC-3643 token contract for the relevant property series.
+Upon successful verification, the investor's wallet address is added to the on-chain whitelist maintained by the ERC-3643 token contract for the portfolio offering.
 
 ---
 
@@ -70,8 +70,8 @@ Upon successful verification, the investor's wallet address is added to the on-c
 Rental income distributions to property token holders are made on the following basis:
 
 - **Pro-rata** — distributions are calculated in proportion to each holder's token balance at the time of the distribution snapshot
-- **Frequency** — monthly or quarterly, per the operating terms of the relevant series
-- **Currency** — USDC or fiat, as specified in the series operating agreement
+- **Frequency** — monthly or quarterly, per the Partnership's operating terms
+- **Currency** — USDC or fiat, as specified in the Partnership agreement
 
 ---
 
@@ -79,8 +79,8 @@ Rental income distributions to property token holders are made on the following 
 
 Should the platform utility token (currently referred to as $TRU) be launched in a future phase, it will be structured and operated strictly as a utility instrument. The platform utility token:
 
-- Does **not** pay rent or profit share from any property series
-- Does **not** represent an ownership interest in any property or in PlatformCo
+- Does **not** pay rent or profit share from any property
+- Does **not** represent an ownership interest in the portfolio, the Partnership, or any property
 - Is limited to: fee discounts across the platform, access tiers, and governance participation
 
-This clear separation between property tokens (which are securities representing ownership interests) and the platform utility token (which provides access and governance rights) is an intentional design decision to maintain regulatory clarity.
+This clear separation between the UPTRU property tokens (securities representing a diversified ownership interest in the portfolio) and the $TRU platform utility token (which provides access and governance rights only) is an intentional design decision to maintain regulatory clarity.

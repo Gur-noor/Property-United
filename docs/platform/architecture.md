@@ -14,13 +14,13 @@ flowchart TB
         A1["Landing page · Investor portal · Admin dashboard<br/><i>Phase 1: web app, off-chain records</i><br/><i>Future: investor dashboard, wallet connection</i>"]
     end
     subgraph PROTO["⛓️ Protocol Layer · Phase 2+"]
-        A2["ERC-3643 Property Tokens · Identity Registry<br/>Compliance Engine · Yield Distributor (USDC)<br/><i>Future: $TRU Token (P5) · Secondary Transfers (P4)</i>"]
+        A2["ERC-3643 UPTRU Property Tokens · Identity Registry<br/>Compliance Engine · Yield Distributor (USDC)<br/><i>Future: $TRU Utility Token (P3+) · Secondary Transfers (P4)</i>"]
     end
     subgraph COMP["🛡️ Compliance Layer"]
         A3["KYC/KYB (Sumsub / Persona) · AML screening<br/>Accreditation · Reg D 506(c) · Jurisdictional controls"]
     end
     subgraph LEGAL["⚖️ Legal Layer"]
-        A4["PlatformCo (C-Corp) · PropCo Master (Series LLC)<br/>Property Series · SAFT & offering documents"]
+        A4["United Properties TRU™ Limited Partnership<br/>Isolated per-property structures · SAFT & offering documents"]
     end
     APP --> PROTO --> COMP --> LEGAL
 
@@ -50,7 +50,7 @@ When the first property is tokenized, the following blockchain components are de
 
 | Component | Description |
 |---|---|
-| **ERC-3643 Property Tokens** | Permissioned tokens per property series |
+| **ERC-3643 UPTRU Property Tokens** | Permissioned tokens representing a diversified interest in the whole portfolio |
 | **Identity Registry** | Maps verified wallet addresses to investor identities |
 | **Compliance Engine** | Enforces transfer rules on-chain (whitelisted wallets only) |
 | **Yield Distributor** | Snapshot-based USDC distributions to token holders |

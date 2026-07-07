@@ -20,7 +20,7 @@ The platform's value is assessed using three complementary methodologies:
 | **Income Capitalization** | The portfolio's net operating income (NOI) divided by a market capitalization rate | Values the pool as an income-producing enterprise |
 | **Platform Liquidity Multiple** | A multiple applied to platform fee revenue and AUM growth | Captures the value of the platform/GP layer as a scalable business |
 
-NAV and income capitalization value the **pool** (what token holders own). The liquidity multiple values the **platform** (the GP / PlatformCo layer that owns the IP and earns fees).
+NAV and income capitalization value the **portfolio** (what LP / token holders own through the Partnership). The liquidity multiple values the **platform** (the operating/management layer that holds the IP, whose fee income accrues to the Partnership).
 
 ## Illustrative Growth Trajectory
 
@@ -45,9 +45,9 @@ Ahead of launch, a limited allocation across three distinct instruments is being
 
 | Tier | Instrument | What it represents |
 |---|---|---|
-| **Limited Partnership (LP) interests** | Equity in PlatformCo (via SAFE) | Ownership of the business model, IP, trade secrets, and fee revenue — the operating business itself |
-| **Asset tokens** | ERC-3643 pool tokens | A fractional interest in the diversified property pool (income + appreciation) |
-| **Utility tokens ($TRU)** | SAFT / token warrants today; $TRU at TGE | Platform access, fee discounts, priority allocation, and governance (Phase 3+) |
+| **Limited Partnership (LP) interests** | LP interests in the Partnership | A share of the diversified property portfolio held by the Partnership — plus, via the Partnership, participation in the platform fee revenue it earns |
+| **Property tokens (UPTRU)** | ERC-3643 portfolio tokens | A fractional, diversified interest in the whole property portfolio (income + appreciation); pre-assigned today (the tokenized form of the LP interest), minted Phase 2+ |
+| **Utility tokens ($TRU)** | $TRU token warrants today; $TRU at TGE | Platform access, fee discounts, priority allocation, and governance only (Phase 3+) — not the investment |
 
 See [Tokenomics](./tokenomics.md) for $TRU details and [Revenue Model](./revenue-model.md) for the fee streams that drive platform value.
 

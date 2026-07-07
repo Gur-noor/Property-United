@@ -36,7 +36,7 @@ The current offering is a private placement of **Limited Partnership Interests**
 | Regulatory exemption | Regulation D Rule 506(c) |
 | Investors | Verified accredited investors only |
 
-Limited Partnership (LP) interests represent an ownership stake in the Partnership — the entity that owns the business model, intellectual property, and trade secrets on which the platform operates, and that earns all platform fees. LP investors participate in the growth of the platform and its property portfolio.
+Limited Partnership (LP) interests represent an ownership stake in the Partnership — the entity that holds the **diversified property portfolio**, earns all platform fees, and distributes rental income to Limited Partners. LP investors own a share of the whole portfolio (not any individual property) and participate in its growth. During the current phase, this interest is recorded as a **pre-assigned property-token (UPTRU) allocation**, which becomes real tokens when tokenization goes live (Phase 2+).
 
 The initial **$200,000 development raise** provides the capital for legal formation, platform development, compliance infrastructure, and Phase 1 build-out.
 
@@ -47,7 +47,7 @@ The initial **$200,000 development raise** provides the capital for legal format
 | Track | Instrument | Status |
 |---|---|---|
 | Track A — LP Interest | Limited Partnership Interests (PPM + Subscription Agreement) | Active now |
-| Track B — Security Token | LP Interests with future token conversion rights (SAFT) | Available |
+| Track B — Security Token | LP Interests with future UPTRU token-conversion rights | Available |
 
 All investors go through a shared compliance intake (KYC/KYB, AML, accreditation verification) before being assigned to the appropriate track. Wire instructions are not released until the company has formally accepted the subscription.
 

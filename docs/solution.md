@@ -9,35 +9,37 @@ sidebar_position: 4
 
 ## A Compliant, Scalable Infrastructure for Fractional Real Estate Ownership
 
-United Properties TRU™ addresses the structural barriers described in the previous section through a purpose-designed combination of Delaware corporate law, federal securities regulation, and permissioned blockchain token infrastructure.
+United Properties TRU™ addresses the structural barriers described in the previous section through a purpose-designed combination of partnership and per-property isolation law, federal securities regulation, and permissioned blockchain token infrastructure.
 
 The solution is built on four interconnected components:
 
 ---
 
-## 1. A Two-Entity Corporate Architecture
+## 1. One Partnership, Many Isolated Properties
 
-The platform incorporates two entities that serve distinct functions and carry distinct risk profiles:
+The platform is organized so that investors buy into a single entity while each property is ring-fenced on its own:
 
-**PlatformCo** (Delaware C-Corporation) owns the technology, intellectual property, and brand. It acts as the manager of every property series and earns all platform fees. Early investors in the platform invest into PlatformCo. PlatformCo risk is entirely separate from property risk.
+**United Properties TRU™ Limited Partnership** (a Missouri limited partnership — the Partnership) is the entity investors buy into. It holds the diversified property portfolio, earns all platform fees, and distributes rent to Limited Partners. Investors own a share of the whole portfolio through the Partnership.
 
-**PropCo Master** (Delaware Series LLC, managed by PlatformCo) is the legal vehicle through which individual properties are held. For each property brought onto the platform, a new series is created within PropCo Master at near-zero marginal cost. Each series is financially and legally isolated from every other series and from PlatformCo itself.
+**A separate operating/management layer** owns the technology, intellectual property, and brand and provides management services to the Partnership. Its day-to-day operating risk is kept distinct from the assets held for investors; it is not the thing investors buy into.
 
-This separation means that a financial problem within one property series cannot propagate to the platform operator or to any other series. The failure of PlatformCo would not affect assets held within individual series. Each entity is designed to be robust to the failure of the other.
+**Isolated property structures** are the legal vehicles through which individual properties are held. For each property brought onto the platform, a new isolated, bankruptcy-remote structure is created at near-zero marginal cost. Each is financially and legally isolated from every other property and from the Partnership itself, while its economics feed the single portfolio.
+
+This separation means that a financial problem within one property cannot propagate to any other property or to the platform as a whole. Each layer is designed to be robust to the failure of the others.
 
 ---
 
-## 2. Per-Property Series with Bankruptcy-Remote Isolation
+## 2. Per-Property Bankruptcy-Remote Isolation
 
-Each property placed on the platform is held within its own dedicated series of PropCo Master. The series holds legal title to the property. Token holders in a given series hold proportional membership interests in that series, which carry economic rights to rental income and eventual appreciation.
+Each property placed on the platform is held within its own dedicated, isolated legal structure that holds legal title to that single property. Investors do not own individual properties: they hold a diversified interest in the **whole portfolio** through the Partnership, carrying economic rights to rental income and eventual appreciation across all properties.
 
-Because each series is a discrete legal compartment under Delaware Series LLC law, creditors of one series have no claim against the assets of any other series. This structure provides investors with meaningful protection against platform-level risk.
+Because each property sits in a discrete legal compartment, creditors of one property have no claim against the assets of any other property. This structure provides investors with meaningful protection against single-asset and platform-level risk while keeping their economic exposure diversified.
 
 ---
 
 ## 3. Permissioned ERC-3643 Tokens as Ownership Instruments
 
-Membership interests in each property series are represented as ERC-3643 tokens — a permissioned token standard designed specifically for regulated securities. Token transfers are restricted on-chain: only wallets that have completed KYC/AML verification and have been whitelisted may send or receive these tokens.
+Diversified interests in the whole portfolio are represented as ERC-3643 UPTRU tokens — a permissioned token standard designed specifically for regulated securities. Token transfers are restricted on-chain: only wallets that have completed KYC/AML verification and have been whitelisted may send or receive these tokens.
 
 This on-chain compliance layer ensures that the securities law restrictions applicable to the offering (Regulation D, Rule 506(c)) are enforced at the protocol level on a continuous basis — not only at the time of initial issuance. Secondary transfers between whitelisted investors are permitted and generate platform revenue without requiring off-chain approval for each individual trade.
 
@@ -45,7 +47,7 @@ This on-chain compliance layer ensures that the securities law restrictions appl
 
 ## 4. Compliance-First Capital Formation
 
-Each property series offering is conducted under Regulation D, Rule 506(c) of the Securities Act of 1933. This exemption:
+The Partnership's portfolio offering is conducted under Regulation D, Rule 506(c) of the Securities Act of 1933. This exemption:
 
 - Permits general solicitation and advertising of the offering
 - Requires that all investors be verified accredited investors
@@ -96,7 +98,7 @@ By owning a pool interest rather than a per-property interest, United Properties
 
 The solution is a rigorously structured deployment of existing legal, regulatory, and technical tools — combined with two structural innovations that no other platform in the market currently implements.
 
-**The infrastructure:** Delaware Series LLC law provides scalable, low-cost property isolation. Regulation D 506(c) provides a clear path to compliant capital raising. ERC-3643 tokens provide a programmable, transfer-restricted ownership instrument. PlatformCo provides the stable operational entity through which the platform is managed and revenues are earned.
+**The infrastructure:** Per-property isolated legal structures provide scalable, low-cost bankruptcy-remote isolation. Regulation D 506(c) provides a clear path to compliant capital raising. ERC-3643 UPTRU tokens provide a programmable, transfer-restricted ownership instrument representing the whole portfolio. United Properties TRU™ Limited Partnership is the entity investors buy into, through which the portfolio is held, the platform is managed, and revenues are earned.
 
 **The differentiation:**
 1. **Seller-as-partner** — Sellers can exchange their property for tokens, remaining participants in the ongoing portfolio rather than one-time cash recipients

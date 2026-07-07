@@ -5,12 +5,12 @@ title: Tokenomics
 # Tokenomics
 
 :::note Phase 3+
-The $TRU utility token is **evaluated at Phase 3** and, if approved, launched at a later **Token Generation Event (TGE)** — Phase 3+ on the roadmap. Token economics described here are subject to finalization. No utility tokens exist or are issued before that TGE; Phase 1 investors hold only contingent SAFT token-warrant rights.
+The $TRU utility token is **evaluated at Phase 3** and, if approved, launched at a later **Token Generation Event (TGE)** — Phase 3+ on the roadmap. Token economics described here are subject to finalization. No utility tokens exist or are issued before that TGE; Phase 1 investors hold their LP interest and pre-assigned UPTRU property-token allocation, plus a **separate, contingent $TRU token-warrant (SAFT)** right.
 :::
 
 ## The $TRU Token
 
-**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from property tokens — $TRU operates at the platform level and does not represent ownership in any specific property.
+**$TRU** is the native utility token of the United Properties TRU™ platform. It is entirely distinct from the UPTRU property/security tokens — $TRU operates at the platform level and does not represent ownership in the portfolio or in any property.
 
 | Parameter | Value |
 |---|---|
@@ -116,7 +116,7 @@ Presale terms, exchange ratios, and bonus structures are subject to finalization
 
 ## SAFT Token Rights (Phase 1)
 
-Phase 1 investors receive a **SAFT (Simple Agreement for Future Tokens)** instrument via a token warrant side letter alongside their SAFE investment in PlatformCo. Key terms:
+Phase 1 investors receive a **SAFT (Simple Agreement for Future Tokens)** instrument via a token warrant side letter alongside their investment in the Partnership. Key terms:
 
 - Each SAFT investor receives pro-rata rights to the **Investor SAFT / Token Rights** allocation (15% of supply)
 - Rights convert to $TRU at the Token Generation Event (TGE) in Phase 3+

@@ -43,7 +43,7 @@ Before a wallet can hold property tokens, it must be:
 
 1. Linked to a verified investor identity (KYC complete)
 2. Added to the on-chain ERC-3643 Identity Registry
-3. Cleared for the specific property series (accreditation, jurisdictional check)
+3. Cleared for the portfolio offering (accreditation, jurisdictional check)
 
 This whitelisting happens both off-chain (in the admin system) and on-chain (in the identity registry). Both must pass for a transfer to succeed.
 

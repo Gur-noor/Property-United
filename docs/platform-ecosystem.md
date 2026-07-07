@@ -17,10 +17,10 @@ The United Properties TRU™ platform ecosystem consists of four principal actor
 
 | Actor | Description |
 |---|---|
-| **Investors** | Verified accredited investors who purchase ERC-3643 property tokens in individual series offerings |
-| **Properties** | Income-producing real estate assets, each held within a dedicated, bankruptcy-remote series |
-| **Series Entities** | Individual compartments within PropCo Master (Delaware Series LLC), each holding one property and issuing one set of tokens |
-| **PlatformCo** | The Delaware C-Corp that manages all series, earns platform fees, holds the technology and IP, and is the entity into which early investors participate |
+| **Investors** | Verified accredited investors who acquire a diversified interest in the whole portfolio (LP interests / UPTRU property tokens) in the Partnership's Reg D 506(c) offering |
+| **Properties** | Income-producing real estate assets, each held within a dedicated, bankruptcy-remote legal structure |
+| **The Partnership** | United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into; holds the diversified portfolio, earns platform fees, and distributes rent to LPs |
+| **Operating / Management Layer** | Holds the technology and IP and provides management services to the Partnership; not the entity investors buy into |
 
 ---
 
@@ -28,14 +28,13 @@ The United Properties TRU™ platform ecosystem consists of four principal actor
 
 ```mermaid
 graph TD
-    A[Investors] -->|Capital| B[Series 1–N<br/>within PropCo Master]
-    B -->|ERC-3643 Tokens| A
+    A[Investors] -->|Capital| B[United Properties TRU™<br/>Limited Partnership]
+    B -->|LP Interests / UPTRU Tokens| A
     B -->|Rental Distributions<br/>USDC or Fiat| A
-    C[Properties] -->|Legal Title| B
-    B -->|Platform Fees| D[PlatformCo]
-    D -->|Management Services| B
-    D -->|Token Warrant Rights| E[SAFE Investors]
-    E -->|$200k Capital| D
+    C[Properties<br/>isolated structures] -->|Legal Title + Economics| B
+    D[Operating / Management Layer] -->|Management Services| B
+    B -->|Platform Fees fund operations| D
+    B -.->|$TRU Warrant Rights Phase 3+| A
 ```
 
 ---
@@ -44,15 +43,15 @@ graph TD
 
 ### Capital Flows
 
-1. Early-stage investors provide **$200,000 capital** to PlatformCo via SAFE agreements. This capital funds legal formation, platform development, and Phase 1 infrastructure.
+1. Early-stage investors provide the initial **$200,000 development capital**. This capital funds legal formation, platform development, and Phase 1 infrastructure.
 
-2. Property investors provide **investment capital** directly to individual series in exchange for ERC-3643 property tokens. This capital is used to acquire the underlying property.
+2. Property investors provide **investment capital** to the Partnership in exchange for a diversified interest in the whole portfolio (LP interests / UPTRU property tokens). This capital is used to acquire properties into the portfolio.
 
 ### Revenue Flows
 
-3. Each property series pays **platform fees** to PlatformCo at origination, tokenization, disposition, and on an ongoing basis for asset management. Secondary transfer fees are also paid to PlatformCo.
+3. The portfolio generates **platform fees** to the Partnership at origination, tokenization, disposition, and on an ongoing basis for asset management. Secondary transfer fees also accrue to the Partnership. These fees fund the operating/management layer's services.
 
-4. Net rental income (after platform fees and expenses) is distributed by each series to its **token holders** pro-rata, in USDC or fiat, on a monthly or quarterly basis.
+4. Net rental income (after platform fees and expenses) is distributed by the Partnership to its **token / LP holders** pro-rata, in USDC or fiat, on a monthly or quarterly basis.
 
 ---
 
@@ -60,11 +59,11 @@ graph TD
 
 A central design principle of the ecosystem is the isolation of risk between entities:
 
-**Property risk is contained within each series.** If a property experiences a significant financial event (vacancy, structural damage, default on any property-level obligation), the financial impact is limited to the relevant series and its token holders. PlatformCo and all other series are unaffected.
+**Property risk is contained within each property structure.** If a property experiences a significant financial event (vacancy, structural damage, default on any property-level obligation), the impact is limited to that property; the rest of the portfolio and its diversified investors are cushioned. Because investors own a diversified interest across the whole portfolio, a single property's problem does not fall on any one investor.
 
-**Platform risk is contained within PlatformCo.** If PlatformCo encounters financial difficulty — for example, a revenue shortfall during the early phases of the platform — the assets held within individual property series are not at risk. Series assets are held separately under Delaware Series LLC law and are not available to PlatformCo's creditors.
+**Operating risk is contained within the operating/management layer.** If the operating layer encounters financial difficulty — for example, a revenue shortfall during the early phases — the properties held for the Partnership are not at risk, as they sit in separate bankruptcy-remote structures and are not available to the operating layer's creditors.
 
-This bidirectional isolation is expressed in the memo as: *"Property risk stays inside each series; platform risk stays inside PlatformCo. If either fails, the other survives."*
+This bidirectional isolation is expressed in the memo as: *"Property risk stays inside each isolated property structure; operating risk stays inside the operating layer. If either fails, the portfolio held for investors survives."*
 
 ---
 
@@ -72,21 +71,21 @@ This bidirectional isolation is expressed in the memo as: *"Property risk stays 
 
 | Flow | From | To | Mechanism |
 |---|---|---|---|
-| Early capital | SAFE investors | PlatformCo | Post-money SAFE |
-| Property capital | Property investors | Series 1–N | Subscription / token purchase |
-| Platform fees | Series 1–N | PlatformCo | Fee contracts |
-| Rental distributions | Series 1–N | Property token holders | On-chain snapshot, USDC/fiat |
-| Management services | PlatformCo | Series 1–N | Manager role under Series LLC |
-| Token rights (future) | PlatformCo | SAFE investors | Token warrant side letter |
+| Early capital | Early investors | The Partnership | Subscription (development raise) |
+| Property capital | Property investors | The Partnership | Subscription / token purchase |
+| Platform fees | The portfolio | The Partnership | Fee arrangements |
+| Rental distributions | The Partnership | Token / LP holders | On-chain snapshot, USDC/fiat |
+| Management services | Operating / management layer | The Partnership | Management arrangement |
+| $TRU rights (future) | Platform | SAFT holders | Token warrant side letter |
 
 ---
 
 ## Ecosystem Growth Mechanics
 
-The ecosystem is designed to grow with each additional property onboarded. Each new series:
+The ecosystem is designed to grow with each additional property onboarded. Each new property added to the portfolio:
 
-- Adds a new stream of origination, tokenization, and asset management fee revenue to PlatformCo
-- Adds a new pool of property token holders to the investor community
+- Adds a new stream of origination, tokenization, and asset management fee revenue to the Partnership
+- Deepens the diversified portfolio that all token / LP holders own a share of
 - Increases total platform AUM, which in turn drives secondary transfer revenue and eventual disposition fee revenue
 
-Because each new series is created within the existing PropCo Master structure at near-zero marginal legal cost, the incremental cost of onboarding each additional property is low relative to the incremental fee revenue it generates.
+Because each new property is placed in an isolated structure feeding the existing portfolio at near-zero marginal legal cost, the incremental cost of onboarding each additional property is low relative to the incremental fee revenue it generates.
