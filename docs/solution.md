@@ -67,7 +67,7 @@ When United Properties TRU™ acquires a property, it can offer the seller a cho
 
 **Option A — Cash:** The seller receives a cash payment and exits. Standard transaction.
 
-**Option B — Token Exchange:** Instead of selling for all-cash and walking away from every future dollar, an owner can exchange their property for tokens and become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across many properties, in many locations, rather than the single property they sold.
+**Option B — Cash + Tokens (any mix):** Instead of selling for all-cash and walking away from every future dollar, an owner can take part or all of their proceeds in tokens — choosing **any combination of cash and tokens** (all cash, all tokens, or a split such as 70/30 or 50/50). To the extent they take tokens, they become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across many properties, in many locations, rather than the single property they sold.
 
 When a seller accepts tokens, they:
 - Receive a fractional interest in the **entire platform portfolio** — not just the property they sold

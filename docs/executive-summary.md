@@ -15,9 +15,9 @@ United Properties TRU™ is a compliant platform for fractional ownership of a *
 
 The tokenized real estate market is growing rapidly. Every platform in this market pays sellers in cash and asks investors to pick individual properties. United Properties TRU™ does neither.
 
-**Sellers can become partners.** Instead of selling for all-cash and walking away from every future dollar, a property owner can exchange their property for tokens and become a partner in a growing, professionally managed portfolio. No other platform in the market currently offers sellers this choice — it is a structural advantage that no existing competitor provides.
+**Sellers can become partners.** Instead of selling for all-cash and walking away from every future dollar, a property owner can choose their own **mix of cash and tokens** — all cash, all tokens, or any combination in between — and, to the extent they take tokens, become a partner in a growing, professionally managed portfolio. No other platform in the market currently offers sellers this choice — it is a structural advantage that no existing competitor provides.
 
-**Investors own a diversified pool.** Limited Partners own a fractionalized interest in the entire portfolio — income and appreciation from multiple property types across multiple locations. They do not pick specific properties, do not carry concentration risk in a single asset, and benefit from professional portfolio management.
+**Investors own a diversified pool.** Investors — whether they hold Limited Partnership interests or tokens — own a fractionalized interest in the entire portfolio: income and appreciation from multiple property types across multiple locations. They do not pick specific properties, do not carry concentration risk in a single asset, and benefit from professional portfolio management.
 
 **Liquidity without surrendering income.** Through a compliant secondary market planned for Phase 4, investors will be able to transfer their position without fully exiting — accessing liquidity while their remaining interest continues to earn income and appreciate.
 
@@ -36,7 +36,7 @@ The current offering is a private placement of **Limited Partnership Interests**
 | Regulatory exemption | Regulation D Rule 506(c) |
 | Investors | Verified accredited investors only |
 
-Limited Partnership (LP) interests represent an ownership stake in the Partnership — the entity that holds the **diversified property portfolio**, earns all platform fees, and distributes rental income to Limited Partners. LP investors own a share of the whole portfolio (not any individual property) and participate in its growth. During the current phase, this interest is recorded as a **pre-assigned property-token (UPTRU) allocation**, which becomes real tokens when tokenization goes live (Phase 2+).
+Limited Partnership (LP) interests represent an ownership stake in the Partnership — which owns the business model, intellectual property and trade secrets (IP) on which the United Properties TRU™ ecosystem operates, and in turn owns United Properties TRU™ tokens which it received as payment for its IP. These tokens, like other investors' tokens, allow it to earn income and appreciation from a diversified pool of properties. During the current phase, this interest is recorded as a **pre-assigned property-token (UPTRU) allocation**, which becomes real tokens when tokenization goes live (Phase 2+).
 
 The initial **$200,000 development raise** provides the capital for legal formation, platform development, compliance infrastructure, and Phase 1 build-out.
 

@@ -37,7 +37,7 @@ The LP Interest offering is structured as a private placement under Regulation D
 
 ### What LP Interests Represent
 
-Limited Partnership (LP) interests represent a pre-launch ownership tier in the Partnership — the entity that holds the **diversified property portfolio**, earns all platform fees, and distributes rental income to Limited Partners. LP investors own a share of the whole portfolio, not any individual property.
+Limited Partnership (LP) interests represent a pre-launch ownership stake in the Partnership — which owns the business model, intellectual property and trade secrets (IP) on which the United Properties TRU™ ecosystem operates, earns all platform fees, and in turn holds United Properties TRU™ tokens (received as payment for its IP) that earn income and appreciation from the diversified property portfolio, like other token holders. LP investors thereby own an interest in the whole portfolio, not any individual property.
 
 LP investors receive:
 - Pro-rata participation in portfolio income and appreciation

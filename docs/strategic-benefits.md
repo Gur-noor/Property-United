@@ -17,7 +17,7 @@ The corporate, legal, and operational structure of United Properties TRU™ has 
 
 ### The Seller-as-Partner Advantage
 
-Every other real estate acquirer — institutional or otherwise — keeps 100% of the future income and appreciation after closing. United Properties TRU™ offers sellers a third option: exchange their property for tokens and remain a partner in the platform's growing, diversified portfolio.
+Every other real estate acquirer — institutional or otherwise — keeps 100% of the future income and appreciation after closing. United Properties TRU™ offers sellers a flexible third option: take their proceeds as **any combination of cash and tokens** (all cash, all tokens, or a split) — and, to the extent they take tokens, remain a partner in the platform's growing, diversified portfolio.
 
 This creates a sustainable, differentiated acquisition advantage. Sellers who would otherwise be reluctant to exit — because they don't want to lose future cash flow — now have a path to liquidity that doesn't require surrendering their economic participation. **No other buyer in the market can offer this.**
 
