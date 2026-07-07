@@ -45,6 +45,10 @@ LP investors receive:
 - 0% origination fee on their own property investments through the platform
 - Pro-rata rights in future financing rounds
 
+### Conversion to Tokens
+
+LP interests are **designed to convert into tokens** once tokenization goes live (Phase 2+), so investors can participate in the current fundraising stage today and move on-chain when tokens become available — without completing a second subscription. The exact conversion mechanics (ratio, timing, and eligibility) are set out in the definitive offering documents (PPM) and finalized with U.S. securities counsel.
+
 ---
 
 ---
@@ -82,7 +86,7 @@ All early investors participate on **identical terms** using a single standard t
 
 Each SAFE investor receives a **token warrant side letter** in addition to the SAFE. The token warrant:
 
-- Grants each investor the right to receive future $TOKEN supply
+- Grants each investor the right to receive future $TRU supply
 - Allocates token rights **pro-rata** to the investor's equity position in PlatformCo (as determined at SAFE conversion)
 - Is **exercisable at the Token Generation Event (TGE)** — the point at which the platform utility token is officially launched
 - Does **not** sell or transfer any token today — no tokens are issued, transferred, or priced at the time of the SAFE closing

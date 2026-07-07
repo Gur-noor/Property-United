@@ -33,7 +33,7 @@ Alongside the SAFE, each investor signs a **token warrant side letter** — a SA
 | Token | $TRU utility token |
 | Allocation pool | 15% of total $TRU supply (150,000,000 TRU) |
 | Rights | Pro-rata to SAFE investment amount |
-| Trigger | Token Generation Event (Phase 5) |
+| Trigger | Token Generation Event (Phase 3+) |
 | No tokens issued now | ✓ No tokens in Phase 1 |
 | Identical terms | ✓ Same for all Phase 1 investors |
 
@@ -68,7 +68,7 @@ Every Phase 1 SAFE + SAFT investor also receives:
 3. Investor executes both documents via e-signature (DocuSign)
 4. PlatformCo countersigns and delivers executed copies
 5. Investor's pro-rata $TRU allocation is recorded in the SAFT register
-6. At Phase 5 TGE, investor's $TRU are minted and delivered to their verified wallet
+6. At Phase 3+ TGE, investor's $TRU are minted and delivered to their verified wallet
 
 ## SAFT vs Property Token
 
@@ -76,6 +76,6 @@ Every Phase 1 SAFE + SAFT investor also receives:
 |---|---|---|
 | What it is | Contractual right to future $TRU | Fractional ownership of a property |
 | Income | No income right | Pro-rata rental distributions |
-| Issued in | Phase 1 (contract) / Phase 5 (tokens) | Phase 2+ |
+| Issued in | Phase 1 (contract) / Phase 3+ (tokens) | Phase 2+ |
 | Transferable | Subject to SAFT terms | ERC-3643 whitelisted wallets |
 | Risk | Platform execution + TGE risk | Real estate + token risk |

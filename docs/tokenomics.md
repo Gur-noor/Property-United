@@ -4,8 +4,8 @@ title: Tokenomics
 
 # Tokenomics
 
-:::note Phase 5
-The $TRU utility token is planned for **Phase 5** of the roadmap. Token economics described here are subject to finalization. No utility tokens are issued in Phases 0–4.
+:::note Phase 3+
+The $TRU utility token is **evaluated at Phase 3** and, if approved, launched at a later **Token Generation Event (TGE)** — Phase 3+ on the roadmap. Token economics described here are subject to finalization. No utility tokens exist or are issued before that TGE; Phase 1 investors hold only contingent SAFT token-warrant rights.
 :::
 
 ## The $TRU Token
@@ -18,7 +18,7 @@ The $TRU utility token is planned for **Phase 5** of the roadmap. Token economic
 | Symbol | TRU |
 | Total supply | 1,000,000,000 TRU (fixed, no inflation) |
 | Standard | ERC-20 |
-| Issuance | Phase 5 (Utility Token launch) |
+| Issuance | Phase 3+ (Utility Token launch) |
 | Early rights | SAFT token warrants (Phase 1 investors) |
 
 ## Token Allocation
@@ -119,7 +119,7 @@ Presale terms, exchange ratios, and bonus structures are subject to finalization
 Phase 1 investors receive a **SAFT (Simple Agreement for Future Tokens)** instrument via a token warrant side letter alongside their SAFE investment in PlatformCo. Key terms:
 
 - Each SAFT investor receives pro-rata rights to the **Investor SAFT / Token Rights** allocation (15% of supply)
-- Rights convert to $TRU at the Token Generation Event (TGE) in Phase 5
+- Rights convert to $TRU at the Token Generation Event (TGE) in Phase 3+
 - No tokens are issued or transferred until TGE
 - Terms are identical for all Phase 1 investors — no per-investor negotiation
 

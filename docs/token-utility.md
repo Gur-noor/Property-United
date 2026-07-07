@@ -43,7 +43,7 @@ $TRU is earned by active platform participants:
 
 ## 5. Governance
 
-$TRU holders vote on platform parameters — see [Governance](./governance.md). This becomes active in Phase 5 when the DAO is established.
+$TRU holders vote on platform parameters — see [Governance](./governance.md). This becomes active in Phase 3+ when the DAO is established.
 
 ## 6. Buyback
 

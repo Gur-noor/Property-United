@@ -77,7 +77,7 @@ Rental income distributions to property token holders are made on the following 
 
 ## Platform Utility Token — Separation of Purpose
 
-Should the platform utility token (currently referred to as $TOKEN) be launched in a future phase, it will be structured and operated strictly as a utility instrument. The platform utility token:
+Should the platform utility token (currently referred to as $TRU) be launched in a future phase, it will be structured and operated strictly as a utility instrument. The platform utility token:
 
 - Does **not** pay rent or profit share from any property series
 - Does **not** represent an ownership interest in any property or in PlatformCo

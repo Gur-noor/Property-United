@@ -4,8 +4,8 @@ title: Governance
 
 # Governance
 
-:::note Phase 5
-Formal on-chain governance activates in **Phase 5** when $TRU is launched. In earlier phases, the platform is governed by the founding team under a core multisig with transparency commitments.
+:::note Phase 3+
+Formal on-chain governance activates in **Phase 3+** when $TRU is launched. In earlier phases, the platform is governed by the founding team under a core multisig with transparency commitments.
 :::
 
 ## Pre-DAO Governance (Phases 0–4)
@@ -18,7 +18,7 @@ During the platform's early phases, operational decisions are made by:
 
 All significant decisions affecting investors (fee changes, new property structures, compliance policy changes) are communicated with advance notice.
 
-## DAO Governance (Phase 5+)
+## DAO Governance (Phase 3+)
 
 When $TRU launches, governance transitions to a token-holder DAO. $TRU holders can propose and vote on:
 
@@ -48,4 +48,4 @@ When $TRU launches, governance transitions to a token-holder DAO. $TRU holders c
 
 ## Progressive Decentralization Commitment
 
-United Properties TRU™ is committed to handing control to the community over time. The roadmap explicitly targets full DAO governance by Phase 5. Control is transferred in stages as the system matures and the community grows — not all at once, and not before the system is ready.
+United Properties TRU™ is committed to handing control to the community over time. The roadmap explicitly targets full DAO governance by Phase 3+. Control is transferred in stages as the system matures and the community grows — not all at once, and not before the system is ready.

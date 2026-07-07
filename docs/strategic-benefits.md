@@ -96,7 +96,7 @@ This is characteristic of platform businesses more broadly, and it is reflected 
 Early investors in PlatformCo (via SAFE) benefit from:
 
 - **Equity in the platform business** — they participate in the full upside of the platform's growth, not just one property
-- **Token warrant rights** — contingent rights to future $TOKEN supply pro-rata to their equity
+- **Token warrant rights** — contingent rights to future $TRU supply pro-rata to their equity
 - **0% origination fee** on their own property investments — a direct economic benefit from using the platform they helped to fund
 - **First-allocation rights** — priority access to new property listings before they open to the general investor pool
 - **Pro-rata rights** in the next funding round — protecting their ownership percentage from dilution

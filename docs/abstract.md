@@ -5,14 +5,14 @@ slug: /abstract
 
 # Abstract
 
-> **Version 1.0 — Draft for Review** · June 2026
+> **Version 1.1 — Draft for Review** · July 2026
 
 **United Properties TRU™** is a compliant, fractional tokenized real estate ownership platform designed to give verified investors access to institutional-quality real estate — at any ticket size — through regulated securities and blockchain technology.
 
 The platform operates under a **two-token model**:
 
 - **Property Tokens** — ERC-3643 permissioned tokens representing fractional ownership of a specific, legally-structured property entity. Investors earn pro-rata rental income and gain exposure to property value appreciation.
-- **Utility Token ($TRU)** — A future platform-level token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. Issued in Phase 5 only.
+- **Utility Token ($TRU)** — A future platform-level token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. Issued in Phase 3+ only.
 
 ## Phase 1 Scope
 
@@ -32,11 +32,20 @@ Every real estate platform — tokenized or traditional — pays sellers in cash
 
 United Properties TRU™ does two things that no other platform currently offers:
 
-**1. Sellers become partners, not just sellers.** When United Properties acquires a property, sellers can choose to exchange their property for tokens rather than accepting all-cash. They become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across many properties, in many locations, rather than the single property they sold. Every other buyer in the market keeps all future income and appreciation. United Properties TRU™ does not have to.
+**1. Sellers become partners, not just sellers.** When United Properties acquires a property, the seller chooses their own mix of cash and tokens — all cash, all tokens, or any split in between (for example 70% cash / 30% tokens, or 50/50) based on the value of their property. To the extent they take tokens, they become a partner in a growing, professionally managed portfolio — continuing to earn income and participate in appreciation across many properties, in many locations, rather than the single property they sold. Every other buyer in the market keeps all future income and appreciation. United Properties TRU™ does not have to.
 
 **2. Investors own a diversified pool, not individual properties.** Investors do not pick specific properties. They own a fractionalized interest in a diversified pool of income-producing and appreciating residential rental properties — real diversification, professional management, and returns based on multiple property types across multiple locations. No other tokenized real estate platform currently offers this model.
 
 Combined, these innovations create a structure where **liquidity is available without surrendering future income and appreciation** — a combination that does not exist anywhere else in the market today.
+
+## Two Ways to Participate
+
+Whether you bring capital or property, you onboard through the same verified flow (registration → KYC/KYB and AML → accredited-investor verification → subscription documents) and end up holding a position in the same managed portfolio.
+
+- **Track 1 — Invest capital.** Accredited investors contribute funds and, during the current fundraising stage, receive a **Limited Partnership interest** in the portfolio. When property tokens are minted (Phase 2+), that interest is designed to convert into tokens on a one-to-one economic basis.
+- **Track 2 — Contribute property (seller-as-partner).** Property owners exchange their property and choose their own cash/token mix. To the extent they take tokens (or an LP interest), they stay invested as the portfolio grows.
+
+Both tracks share the same economics: your position earns pro-rata rental income and grows with the portfolio, and — over time — becomes tradeable on a compliant secondary market.
 
 ## In One Paragraph
 

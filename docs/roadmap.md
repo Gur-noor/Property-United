@@ -32,7 +32,7 @@ timeline
             : Multi-property deployment
             : Automated distributions
             : P2P whitelisted transfers
-            : Evaluate $TOKEN launch
+            : Evaluate $TRU launch
     Phase 4 : Secondary Market
             : Secondary market via licensed venue / partner
 ```
@@ -93,13 +93,13 @@ This phase marks the first live deployment of the full tokenisation stack. A sin
 
 **On-chain activity:** Yes — full platform
 
-This phase scales the platform to multiple properties and introduces automated on-chain distribution infrastructure. The decision on whether to proceed with the platform utility token ($TOKEN) launch is evaluated at this stage.
+This phase scales the platform to multiple properties and introduces automated on-chain distribution infrastructure. The decision on whether to proceed with the platform utility token ($TRU) launch is evaluated at this stage.
 
 **Scope:**
 - Onboard multiple properties into separate series within PropCo Master
 - Deploy automated distribution infrastructure for pro-rata rental income payments
 - Enable peer-to-peer (P2P) whitelisted secondary transfers between verified investors
-- Evaluate the readiness and regulatory landscape for a $TOKEN platform utility token launch
+- Evaluate the readiness and regulatory landscape for a $TRU platform utility token launch
 
 ---
 
@@ -122,5 +122,5 @@ This phase introduces a formal secondary market for property token trading throu
 | 0 | Incorporate PlatformCo + PropCo Master; sign SAFEs + warrants; whitepaper | No |
 | 1 | Landing page, KYC/KYB (Sumsub/Persona), investor onboarding, off-chain records | No |
 | 2 | First property into Series 1; Reg D raise; mint tokens; first rental distribution | Single asset |
-| 3 | Multi-property, automated distributions, P2P whitelisted transfers; evaluate $TOKEN | Yes |
+| 3 | Multi-property, automated distributions, P2P whitelisted transfers; evaluate $TRU | Yes |
 | 4 | Secondary market via licensed venue / partner | Conditional |
