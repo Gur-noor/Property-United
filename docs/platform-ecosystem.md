@@ -19,8 +19,8 @@ The United Properties TRU™ platform ecosystem consists of four principal actor
 |---|---|
 | **Investors** | Verified accredited investors who acquire a diversified interest in the whole portfolio (LP interests / UPTRU property tokens) in the Partnership's Reg D 506(c) offering |
 | **Properties** | Income-producing real estate assets, each held within a dedicated, bankruptcy-remote legal structure |
-| **The Partnership** | United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into; holds the diversified portfolio, earns platform fees, and distributes rent to LPs |
-| **Operating / Management Layer** | Holds the technology and IP and provides management services to the Partnership; not the entity investors buy into |
+| **The Partnership** | United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into; owns the business model/IP, earns platform fees, and holds UPTRU tokens (received as payment for its IP) that earn from the diversified property pool; distributes income to LPs |
+| **Operating / Management Layer** | Provides day-to-day technology and management services to the Partnership (the Partnership owns the IP); not the entity investors buy into |
 
 ---
 

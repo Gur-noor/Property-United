@@ -46,7 +46,7 @@ timeline
 This phase establishes the legal and financial foundation of the platform before any product development or investor onboarding begins.
 
 **Scope:**
-- Form United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into and that holds the portfolio
+- Form United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into, which owns the IP and holds the UPTRU tokens representing the portfolio
 - Establish the per-property isolated-structure framework and the operating/management layer
 - Execute subscription agreements with committed early investors into the Partnership
 - Execute $TRU token warrant side letters with those same investors

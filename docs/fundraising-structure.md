@@ -73,7 +73,7 @@ The agreement converts into a defined position (LP interest) in the Partnership 
 The use of a **post-money** cap (as opposed to a pre-money cap) gives investors greater certainty about the percentage they will receive upon conversion, since the cap is calculated on a basis that includes the investment itself.
 
 :::note Legal review
-The precise early-stage instrument (a SAFE-style agreement issued by the Partnership vs. a direct LP subscription) is being finalized with U.S. securities counsel. What is fixed is that investors buy into **United Properties TRU™ Limited Partnership** — the entity that holds the diversified portfolio — not a separate corporate entity.
+The precise early-stage instrument (a SAFE-style agreement issued by the Partnership vs. a direct LP subscription) is being finalized with U.S. securities counsel. What is fixed is that investors buy into **United Properties TRU™ Limited Partnership** — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio — not a separate corporate entity.
 :::
 
 ### One Template, Identical Terms

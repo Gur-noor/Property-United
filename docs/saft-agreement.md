@@ -14,7 +14,7 @@ Instrument names and terms (the SAFE-style agreement / LP subscription, and the 
 
 ### SAFE-Style Agreement — Right to a Position in the Partnership
 
-The **SAFE** (Simple Agreement for Future Equity) is a standard startup financing instrument developed by Y Combinator, here adapted so investors buy into **United Properties TRU™ Limited Partnership** (the Partnership) — the entity that holds the diversified portfolio. Phase 1 investors receive a post-money, SAFE-style agreement issued by the Partnership.
+The **SAFE** (Simple Agreement for Future Equity) is a standard startup financing instrument developed by Y Combinator, here adapted so investors buy into **United Properties TRU™ Limited Partnership** (the Partnership) — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio. Phase 1 investors receive a post-money, SAFE-style agreement issued by the Partnership.
 
 | Parameter | Value |
 |---|---|

@@ -31,7 +31,7 @@ The platform is differentiated by two structural innovations no competitor curre
 
 ## The Platform Is Built on Three Pillars
 
-**Legal structure** — United Properties TRU™ Limited Partnership (Missouri) holds the platform's properties and operations. Limited Partnership interests give investors a proportional share in the portfolio. Each property brought onto the platform is held within an isolated structure, protecting investors from cross-property liability. On-chain token representation of these interests is implemented in Phase 2 using ERC-3643 permissioned tokens.
+**Legal structure** — United Properties TRU™ Limited Partnership (Missouri) owns the business model, IP, and operations, and holds United Properties TRU™ (UPTRU) tokens (received as payment for its IP) that represent a diversified interest in the property pool. Limited Partnership interests give investors a proportional share in the Partnership, and thereby in the portfolio. Each property brought onto the platform is held within an isolated structure, protecting investors from cross-property liability. On-chain token representation of these interests is implemented in Phase 2 using ERC-3643 permissioned tokens.
 
 **Regulatory compliance** — The offering of Limited Partnership interests is conducted under Regulation D of the Securities Act of 1933, restricted to verified accredited investors. Token transfers, when implemented, are restricted on-chain to KYC-whitelisted wallets, ensuring compliance is maintained continuously.
 

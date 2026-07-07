@@ -19,7 +19,7 @@ The solution is built on four interconnected components:
 
 The platform is organized so that investors buy into a single entity while each property is ring-fenced on its own:
 
-**United Properties TRU™ Limited Partnership** (a Missouri limited partnership — the Partnership) is the entity investors buy into. It holds the diversified property portfolio, earns all platform fees, and distributes rent to Limited Partners. Investors own a share of the whole portfolio through the Partnership.
+**United Properties TRU™ Limited Partnership** (a Missouri limited partnership — the Partnership) is the entity investors buy into. It owns the business model and IP, earns all platform fees, and holds United Properties TRU™ (UPTRU) tokens — received as payment for its IP — that earn income and appreciation from the diversified property pool. Investors own a share of the whole portfolio through the Partnership.
 
 **A separate operating/management layer** owns the technology, intellectual property, and brand and provides management services to the Partnership. Its day-to-day operating risk is kept distinct from the assets held for investors; it is not the thing investors buy into.
 
