@@ -20,7 +20,6 @@ graph TD
     C --> D[Property #1]
     C --> E[Property #2]
     C --> F[Property #N]
-    B -.->|Phase 3+| H[$TRU Utility Token]
 ```
 
 :::info Risk Isolation
@@ -36,7 +35,6 @@ Each property is held in its own isolated, bankruptcy-remote structure, so a pro
 | United Properties TRU™ Limited Partnership | The entity investors buy into; owns the business model/IP, earns platform fees, and holds UPTRU tokens (received as payment for its IP) that earn from the diversified property pool; distributes income to LPs | Limited Partners (investors) + Managing General Partner |
 | Operating / Management Layer | Provides day-to-day technology and management services to the Partnership (the Partnership owns the IP) | Founders, team, Managing General Partner |
 | Isolated Property Structures | Each holds title to one property in a bankruptcy-remote compartment, feeding its economics to the portfolio | Held for the Partnership / the portfolio |
-| $TRU Utility Token (Phase 3+) | Separate utility token for fee discounts, access tiers, and governance only | Established only at token launch |
 
 ---
 
@@ -70,17 +68,3 @@ Key characteristics:
 - **Diversified interest (Phase 2+)** — ERC-3643 UPTRU tokens are minted into a single shared pool as properties are added; holders own a diversified interest across the whole portfolio in proportion to their holdings
 - **Distributions** — Rental income across all properties is distributed through the Partnership to LP / token holders pro-rata, in USDC or fiat, on a monthly or quarterly schedule
 - **Scalability** — A new property structure can be added at low marginal cost, without changing what investors own (a share of the whole growing portfolio)
-
----
-
-## $TRU Utility Token — Phase 3 and Beyond
-
-The platform contemplates the future launch of a separate platform **utility** token, $TRU. It is distinct from the Partnership, from the UPTRU property/security token, and from all property structures.
-
-$TRU:
-
-- Is established only at the time of the Token Generation Event (TGE)
-- Does not hold title to any property and does not distribute rental income
-- Provides fee discounts, access tiers, and governance participation only — it does not represent ownership in any property or carry any right to rental income or profit share
-
-$TRU is described here for completeness. Its launch is contingent on a future decision point in the roadmap.

@@ -14,7 +14,7 @@ flowchart TB
         A1["Landing page · Investor portal · Admin dashboard<br/><i>Phase 1: web app, off-chain records</i><br/><i>Future: investor dashboard, wallet connection</i>"]
     end
     subgraph PROTO["⛓️ Protocol Layer · Phase 2+"]
-        A2["ERC-3643 UPTRU Property Tokens · Identity Registry<br/>Compliance Engine · Yield Distributor (USDC)<br/><i>Future: $TRU Utility Token (P3+) · Secondary Transfers (P4)</i>"]
+        A2["ERC-3643 UPTRU Property Tokens · Identity Registry<br/>Compliance Engine · Yield Distributor (USDC)<br/><i>Future: Secondary Transfers (P4)</i>"]
     end
     subgraph COMP["🛡️ Compliance Layer"]
         A3["KYC/KYB (Sumsub / Persona) · AML screening<br/>Accreditation · Reg D 506(c) · Jurisdictional controls"]

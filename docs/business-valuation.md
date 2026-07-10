@@ -41,14 +41,13 @@ These figures illustrate the **rollup thesis**: a fragmented, ~50-million-unit m
 
 ## Pre-Launch Investment Tiers
 
-Ahead of launch, a limited allocation across three distinct instruments is being made available:
+Ahead of launch, a limited allocation across two distinct instruments is being made available:
 
 | Tier | Instrument | What it represents |
 |---|---|---|
 | **Limited Partnership (LP) interests** | LP interests in the Partnership | A share of the diversified property portfolio held by the Partnership — plus, via the Partnership, participation in the platform fee revenue it earns |
 | **Property tokens (UPTRU)** | ERC-3643 portfolio tokens | A fractional, diversified interest in the whole property portfolio (income + appreciation); pre-assigned today (the tokenized form of the LP interest), minted Phase 2+ |
-| **Utility tokens ($TRU)** | $TRU token warrants today; $TRU at TGE | Platform access, fee discounts, priority allocation, and governance only (Phase 3+) — not the investment |
 
-See [Tokenomics](./tokenomics.md) for $TRU details and [Revenue Model](./revenue-model.md) for the fee streams that drive platform value.
+See the [Revenue Model](./revenue-model.md) for the fee streams that drive platform value.
 
 For investor and general-partner inquiries: **acquisitions@unitedpropertiestokens.com**

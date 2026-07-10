@@ -16,7 +16,7 @@ timeline
     title United Properties TRU™ — Phased Rollout
     Phase 0 : Foundation
             : Form United Properties TRU™ Limited Partnership
-            : Sign subscriptions + $TRU token warrants
+            : Sign subscriptions
             : Publish whitepaper
     Phase 1 : Onboarding Infrastructure
             : Launch landing page
@@ -32,7 +32,6 @@ timeline
             : Multi-property deployment
             : Automated distributions
             : P2P whitelisted transfers
-            : Evaluate $TRU launch
     Phase 4 : Secondary Market
             : Secondary market via licensed venue / partner
 ```
@@ -49,13 +48,12 @@ This phase establishes the legal and financial foundation of the platform before
 - Form United Properties TRU™ Limited Partnership (Missouri LP) — the entity investors buy into, which owns the IP and holds the UPTRU tokens representing the portfolio
 - Establish the per-property isolated-structure framework and the operating/management layer
 - Execute subscription agreements with committed early investors into the Partnership
-- Execute $TRU token warrant side letters with those same investors
 - Publish the platform whitepaper
 
 **Key actions (Next Steps):**
 1. Confirm subscription terms and target close date for the $200k development raise
 2. Engage U.S. counsel for Partnership formation and the per-property isolated-structure framework, and to draft the governing agreements (estimated legal cost: $8–15k)
-3. Execute subscriptions + $TRU token warrant side letters with committed investors
+3. Execute subscriptions with committed investors
 4. Draft public whitepaper and Phase 1 product requirements document in parallel
 5. Identify Property #1 and target market for the first Reg D raise
 
@@ -93,13 +91,12 @@ This phase marks the first live deployment of the full tokenisation stack. A sin
 
 **On-chain activity:** Yes — full platform
 
-This phase scales the platform to multiple properties and introduces automated on-chain distribution infrastructure. The decision on whether to proceed with the platform utility token ($TRU) launch is evaluated at this stage.
+This phase scales the platform to multiple properties and introduces automated on-chain distribution infrastructure.
 
 **Scope:**
 - Onboard multiple properties into the portfolio, each in its own isolated structure
 - Deploy automated distribution infrastructure for pro-rata rental income payments
 - Enable peer-to-peer (P2P) whitelisted secondary transfers between verified investors
-- Evaluate the readiness and regulatory landscape for a $TRU platform utility token launch
 
 ---
 
@@ -119,8 +116,8 @@ This phase introduces a formal secondary market for property token trading throu
 
 | Phase | Scope | On-Chain |
 |---|---|---|
-| 0 | Form the Partnership + per-property isolation framework; sign subscriptions + warrants; whitepaper | No |
+| 0 | Form the Partnership + per-property isolation framework; sign subscriptions; whitepaper | No |
 | 1 | Landing page, KYC/KYB (Sumsub/Persona), investor onboarding, off-chain records | No |
 | 2 | First property into the portfolio; Reg D raise; mint UPTRU tokens; first rental distribution | Single asset |
-| 3 | Multi-property, automated distributions, P2P whitelisted transfers; evaluate $TRU | Yes |
+| 3 | Multi-property, automated distributions, P2P whitelisted transfers | Yes |
 | 4 | Secondary market via licensed venue / partner | Conditional |

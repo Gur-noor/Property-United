@@ -101,7 +101,7 @@ Tether USDT generates significant returns from the US Treasury Bills that back m
 | Backed by hard asset | ❌ Nothing | US Treasury Bills | ✅ Real residential property |
 | Income paid to holders | ❌ Zero | ❌ Zero — Tether keeps it | ✅ Rental income distributions |
 | Appreciation | Speculative only | ❌ Pegged to USD | ✅ Real property appreciation |
-| Supply | Approaching maximum | Unlimited, centralized | ✅ Fixed 1 billion |
+| Supply | Approaching maximum | Unlimited, centralized | ✅ Backed by real property (issued per asset) |
 | Regulatory clarity | Uncertain | Counterparty + freeze risk | ✅ Reg D compliant |
 
 For a Bitcoin or Tether holder who wants an asset that actually earns income, is backed by tangible property, and sits within a clear regulatory structure, United Properties TRU™ offers exactly that: a real-estate-backed interest that pays rental income and participates in appreciation.

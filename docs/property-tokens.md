@@ -8,7 +8,7 @@ title: Property Tokens
 Property tokens are the on-chain representation of portfolio interests, planned for Phase 2 and beyond. In the current Phase 1, investors participate as **Limited Partners** owning a share of the entire diversified portfolio — not as per-property token holders. The token infrastructure described here is the technical layer that will represent those portfolio interests on-chain.
 :::
 
-Property tokens — issued under the symbol **UPTRU** — are the on-chain instrument through which interests in the United Properties TRU™ portfolio are represented on the blockchain. They are permissioned digital securities — not speculative cryptocurrency — issued under Regulation D with full KYC/AML compliance enforced at the token contract level. UPTRU is the property/security token that represents the investment; it is entirely distinct from the separate $TRU utility token.
+Property tokens — issued under the symbol **UPTRU** — are the on-chain instrument through which interests in the United Properties TRU™ portfolio are represented on the blockchain. They are permissioned digital securities — not speculative cryptocurrency — issued under Regulation D with full KYC/AML compliance enforced at the token contract level. UPTRU is the property/security token that represents the investment — the platform's single token.
 
 ## What a Property Token Is
 
@@ -23,7 +23,6 @@ Owning property tokens means:
 ## What a Property Token Is NOT
 
 - ❌ Equity in the platform operating/management layer
-- ❌ The $TRU utility token
 - ❌ A right to any single specific building (the interest is diversified across the whole portfolio)
 - ❌ A guarantee of income or appreciation
 

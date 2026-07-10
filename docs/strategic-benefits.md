@@ -71,13 +71,13 @@ Investors and regulators can have confidence that the compliance framework is st
 
 ## 4. Standard Capital Formation Instruments
 
-The use of a standard **YC post-money SAFE** and a **token warrant side letter** for the initial $200,000 raise has several advantages:
+The use of a standard **YC post-money SAFE** for the initial $200,000 raise has several advantages:
 
 - **Speed** — Standard templates reduce time to close. No custom legal drafting is required.
 - **Cost** — Legal cost is minimised when using well-precedented instruments.
 - **Investor familiarity** — SAFE agreements are widely understood by sophisticated investors. There is no investor education burden associated with understanding a novel instrument.
 - **Clean cap table** — One template with identical terms for all investors results in a clean, manageable cap table.
-- **No securities complexity at this stage** — No tokens are sold in the SAFE round. The token warrant provides a future right only, avoiding the complexity of a pre-TGE token sale.
+- **No securities complexity at this stage** — No tokens are sold in the SAFE round; investors hold a right to a position in the Partnership only.
 
 ---
 
@@ -96,7 +96,6 @@ This is characteristic of platform businesses more broadly, and it is reflected 
 Early investors in the Partnership benefit from:
 
 - **A stake in the growing portfolio and platform** — they participate in the full upside of the platform's growth, not just one property
-- **$TRU token warrant rights** — contingent rights to future $TRU utility-token supply pro-rata to their position
 - **0% origination fee** on their own property investments — a direct economic benefit from using the platform they helped to fund
 - **First-allocation rights** — priority access to new offerings before they open to the general investor pool
 - **Pro-rata rights** in the next funding round — protecting their ownership percentage from dilution

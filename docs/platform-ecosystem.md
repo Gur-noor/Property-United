@@ -34,7 +34,6 @@ graph TD
     C[Properties<br/>isolated structures] -->|Legal Title + Economics| B
     D[Operating / Management Layer] -->|Management Services| B
     B -->|Platform Fees fund operations| D
-    B -.->|$TRU Warrant Rights Phase 3+| A
 ```
 
 ---
@@ -76,7 +75,6 @@ This bidirectional isolation is expressed in the memo as: *"Property risk stays 
 | Platform fees | The portfolio | The Partnership | Fee arrangements |
 | Rental distributions | The Partnership | Token / LP holders | On-chain snapshot, USDC/fiat |
 | Management services | Operating / management layer | The Partnership | Management arrangement |
-| $TRU rights (future) | Platform | SAFT holders | Token warrant side letter |
 
 ---
 

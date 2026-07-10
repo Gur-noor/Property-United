@@ -121,7 +121,6 @@ const config = {
               {label: 'The Solution', to: '/whitepaper/solution'},
               {label: 'Corporate Structure', to: '/whitepaper/corporate-structure'},
               {label: 'Property Tokens', to: '/whitepaper/property-tokens'},
-              {label: 'Tokenomics', to: '/whitepaper/tokenomics'},
               {label: 'Roadmap', to: '/whitepaper/roadmap'},
             ],
           },
@@ -135,7 +134,6 @@ const config = {
             items: [
               {label: 'Abstract', to: '/whitepaper/abstract'},
               {label: 'The Solution', to: '/whitepaper/solution'},
-              {label: 'Tokenomics', to: '/whitepaper/tokenomics'},
               {label: 'Roadmap', to: '/whitepaper/roadmap'},
             ],
           },
@@ -144,7 +142,6 @@ const config = {
             items: [
               {label: 'Corporate Structure', to: '/whitepaper/corporate-structure'},
               {label: 'Property Tokens', to: '/whitepaper/property-tokens'},
-              {label: 'Governance', to: '/whitepaper/governance'},
               {label: 'Compliance', to: '/whitepaper/compliance'},
             ],
           },

@@ -9,10 +9,9 @@ slug: /abstract
 
 **United Properties TRU™** is a compliant, fractional tokenized real estate ownership platform designed to give verified investors access to institutional-quality real estate — at any ticket size — through regulated securities and blockchain technology.
 
-The platform operates under a **two-token model**:
+The platform operates under a **single-token model** built around one investment token:
 
 - **Property Tokens (UPTRU)** — ERC-3643 permissioned security tokens representing a fractional, diversified interest in the **whole property portfolio** held through the Partnership. Investors earn pro-rata rental income and gain exposure to portfolio-wide value appreciation. Individual properties are each held in their own isolated legal structure for risk protection only.
-- **Utility Token ($TRU)** — A separate, future platform-level utility token providing fee discounts, priority allocation rights, loyalty benefits, and governance participation. It is not tied to any property and is not the investment. Issued in Phase 3+ only.
 
 ## Phase 1 Scope
 

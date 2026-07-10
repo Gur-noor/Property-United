@@ -1,16 +1,16 @@
 ---
-title: SAFT Agreement
+title: Early-Stage Agreement
 ---
 
-# SAFT Agreement Flow
+# Early-Stage Agreement Flow
 
-Phase 1 of United Properties TRU™ raises early capital and investor commitment through a two-instrument structure: a **SAFE-style agreement** into the Partnership (a position in the whole portfolio, recorded as a pre-assigned UPTRU property-token allocation) and a separate **SAFT token warrant** (future $TRU utility-token rights). This section explains both instruments and how they work together.
+Phase 1 of United Properties TRU™ raises early capital and investor commitment through a **SAFE-style agreement** into the Partnership — a position in the whole portfolio, recorded as a pre-assigned UPTRU property-token allocation. This section explains the instrument and how the pre-assigned allocation converts to on-chain tokens.
 
 :::note Legal review
-Instrument names and terms (the SAFE-style agreement / LP subscription, and the SAFT / $TRU token warrant) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+); and the **$TRU** utility token is a separate, later instrument.
+Instrument names and terms (the SAFE-style agreement / LP subscription, and the future UPTRU property-token allocation) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+). The platform uses a single token — UPTRU — and there is no separate utility token.
 :::
 
-## The Two Instruments
+## The Instrument
 
 ### SAFE-Style Agreement — Right to a Position in the Partnership
 
@@ -27,37 +27,35 @@ The **SAFE** (Simple Agreement for Future Equity) is a standard startup financin
 
 The agreement gives investors the right to convert their investment into an LP interest (a share of the whole portfolio) in the Partnership at the next priced round, at or below the valuation cap.
 
-### SAFT — Simple Agreement for Future Tokens (Token Warrant)
+### Pre-Assigned UPTRU Property-Token Allocation
 
-Alongside the SAFE, each investor signs a **token warrant side letter** — a SAFT granting pro-rata rights to future $TRU utility tokens at the Token Generation Event (TGE).
+The SAFE-style agreement carries a **pre-assigned UPTRU property-token allocation** — the tokenized form of the investor's position in the whole portfolio. This lets investors participate in the current fundraising stage today and move on-chain when tokens are minted (Phase 2+), without a second subscription.
 
 | Parameter | Value |
 |---|---|
-| Instrument | SAFT / Token warrant side letter |
-| Token | $TRU utility token |
-| Allocation pool | 15% of total $TRU supply (150,000,000 TRU) |
-| Rights | Pro-rata to SAFE investment amount |
-| Trigger | Token Generation Event (Phase 3+) |
-| No tokens issued now | ✓ No tokens in Phase 1 |
+| Token | UPTRU property/security token |
+| Rights | Pro-rata to the investor's position in the Partnership |
+| Minted | Phase 2+ (when tokenization goes live) |
+| No tokens issued now | ✓ No tokens minted in Phase 1 |
 | Identical terms | ✓ Same for all Phase 1 investors |
 
 :::important No tokens today
-The SAFT does not transfer any tokens. It is a contractual right — enforceable at TGE — to receive $TRU tokens. If TGE never occurs, the SAFT has no monetary value.
+No tokens are minted in Phase 1. The pre-assigned allocation is a contractual right to receive UPTRU property tokens when tokenization goes live in Phase 2+.
 :::
 
 ## Why This Structure
 
-This instrument combination is designed for compliance and simplicity:
+This instrument is designed for compliance and simplicity:
 
 1. **One template, identical terms** — no per-investor negotiation, no securities complexity
 2. **Regulated** — SAFE is standard, understood by investors and counsel
 3. **No securities exotica** — no convertible notes, no complex warrant structures
 4. **Zero cash cost perks** — investor benefits (0% origination fee, first-allocation rights, pro-rata next round) cost the platform nothing upfront
-5. **Legal clarity** — SAFT rights are contractual, not on-chain; no regulatory uncertainty about token distribution today
+5. **Legal clarity** — the pre-assigned allocation is contractual; no tokens are distributed today
 
 ## Investor Perks (No Cash Cost)
 
-Every Phase 1 SAFE + SAFT investor also receives:
+Every Phase 1 investor also receives:
 
 | Perk | Description |
 |---|---|
@@ -65,21 +63,21 @@ Every Phase 1 SAFE + SAFT investor also receives:
 | First-allocation rights | Priority access to new property listings before general availability |
 | Pro-rata next round | Right to maintain ownership percentage in the next equity financing |
 
-## The SAFT Flow (Step by Step)
+## The Onboarding Flow (Step by Step)
 
 1. Investor completes KYC/KYB and accreditation verification
-2. Investor reviews SAFE terms and SAFT side letter
-3. Investor executes both documents via e-signature (DocuSign)
+2. Investor reviews the SAFE-style agreement terms
+3. Investor executes the document via e-signature (DocuSign)
 4. The Partnership countersigns and delivers executed copies
-5. Investor's pro-rata $TRU allocation is recorded in the SAFT register
-6. At Phase 3+ TGE, investor's $TRU are minted and delivered to their verified wallet
+5. Investor's pre-assigned UPTRU allocation is recorded in the investor register
+6. At Phase 2+, the pre-assigned allocation is minted as UPTRU property tokens and delivered to their verified wallet
 
-## SAFT vs Property Token
+## LP Interest vs Property Token
 
-| | SAFT | Property Token (UPTRU) |
+| | LP Interest (Phase 1) | Property Token (UPTRU) |
 |---|---|---|
-| What it is | Contractual right to future $TRU utility tokens | Fractional, diversified ownership of the whole portfolio |
-| Income | No income right | Pro-rata rental distributions across the portfolio |
-| Issued in | Phase 1 (contract) / Phase 3+ (tokens) | Phase 2+ |
-| Transferable | Subject to SAFT terms | ERC-3643 whitelisted wallets |
-| Risk | Platform execution + TGE risk | Real estate + token risk |
+| What it is | A position in the Partnership, with a pre-assigned UPTRU allocation | Fractional, diversified ownership of the whole portfolio |
+| Income | Pro-rata portfolio distributions via the Partnership | Pro-rata rental distributions across the portfolio |
+| Issued in | Phase 1 (contract) | Phase 2+ (on-chain) |
+| Transferable | Subject to agreement terms | ERC-3643 whitelisted wallets |
+| Risk | Platform execution + real estate risk | Real estate + token risk |

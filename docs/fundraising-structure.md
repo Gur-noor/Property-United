@@ -13,7 +13,7 @@ United Properties TRU™ operates two parallel fundraising tracks:
 
 **Track A — LP Interest Offering:** A private placement of Limited Partnership Interests in United Properties TRU™ Limited Partnership, structured under the PPM. This is the primary capital-raising vehicle for the current phase.
 
-**Track B — Security Token / SAFT Offering:** A future security token offering with LP interests that carry conditional token conversion rights, available to investors who specifically elect token participation.
+**Track B — Security Token Offering:** A future offering of UPTRU property/security tokens, into which LP interests convert once tokenization goes live (Phase 2+).
 
 The initial raise target is **$200,000**, used to fund foundational legal setup, platform development, and Phase 1 infrastructure.
 
@@ -86,22 +86,9 @@ All early investors participate on **identical terms** using a single standard t
 
 ---
 
-## Token Warrant Side Letter
-
-Each SAFE investor receives a **token warrant side letter** in addition to the SAFE. The token warrant:
-
-- Grants each investor the right to receive future $TRU supply
-- Allocates token rights **pro-rata** to the investor's position in the Partnership (as determined at conversion)
-- Is **exercisable at the Token Generation Event (TGE)** — the point at which the platform utility token is officially launched
-- Does **not** sell or transfer any token today — no tokens are issued, transferred, or priced at the time of the SAFE closing
-
-The token warrant is a contingent right, not a present obligation. The platform utility token is not guaranteed to launch, and the token warrant becomes exercisable only if and when a TGE occurs.
-
----
-
 ## Early Investor Benefits
 
-In addition to the SAFE and token warrant, early investors receive the following non-cash benefits:
+In addition to the SAFE-style agreement and its pre-assigned UPTRU allocation, early investors receive the following non-cash benefits:
 
 | Benefit | Description |
 |---|---|
@@ -115,14 +102,12 @@ These benefits are provided at **zero cash cost** to the Partnership and are des
 
 ## Why This Structure
 
-The SAFE + token warrant structure was selected for the following reasons:
+The SAFE-style structure was selected for the following reasons:
 
 **Standard instruments** — The YC SAFE is widely understood by founders, investors, and legal counsel. It requires no novel legal drafting and can be executed quickly and cost-effectively.
 
 **No property dependency** — Investors are investing in the Partnership and its diversified portfolio — not in any single specific property. There is no requirement to have a property under contract before the raise closes.
 
-**No securities exotica** — The token warrant is a well-precedented side letter structure. No tokens are sold at this stage, avoiding securities law complexity around token sales at the pre-TGE stage.
-
 **Clean capitalisation table** — Using one template with identical terms for all investors results in a clean, simple cap table for the Partnership that will not create complications at the next priced round.
 
-**Alignment of interests** — Early investors hold a position in the Partnership (a share of the whole portfolio) and contingent $TRU token rights, aligning their interests with the long-term success of the platform rather than any single property outcome.
+**Alignment of interests** — Early investors hold a position in the Partnership (a share of the whole portfolio), aligning their interests with the long-term success of the platform rather than any single property outcome.
