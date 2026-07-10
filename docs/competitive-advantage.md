@@ -79,9 +79,12 @@ This is how institutional allocators access real estate. United Properties TRU�
 
 ---
 
-## 4. The Crypto Crossover Opportunity
+## 4. Comparative Advantages — vs. Crypto & Stablecoins
 
-The United Properties TRU™ presale is positioned as a compelling alternative for holders of Bitcoin, Tether, and other speculative cryptocurrencies who want to move from non-productive digital assets into a token backed by real income-producing property.
+> **Better than Bitcoin — because it's asset-backed.**
+> **Better than Tether — because its assets produce income.**
+
+United Properties TRU™ combines the accessibility of a digital asset with the fundamentals of real estate. For holders of Bitcoin, Tether, and other speculative cryptocurrencies, it offers a way to move from non-productive digital assets into an interest backed by real, income-producing property.
 
 ### Bitcoin: No Income, No Hard Asset Backing
 
@@ -91,9 +94,9 @@ Bitcoin is not backed by any physical or hard asset — no real estate, no gold,
 
 Tether USDT generates significant returns from the US Treasury Bills that back most of its reserves. But Tether keeps all of that yield. USDT holders earn nothing on their holdings — they are effectively lending their capital to Tether and receiving only a dollar peg in return, while Tether earns the interest income on their deposits.
 
-### $TRU: Backed by Real Property, Pays Real Income
+### United Properties TRU: Backed by Real Property, Pays Real Income
 
-| | Bitcoin | Tether (USDT) | **$TRU** |
+| | Bitcoin | Tether (USDT) | **United Properties TRU** |
 |---|---|---|---|
 | Backed by hard asset | ❌ Nothing | US Treasury Bills | ✅ Real residential property |
 | Income paid to holders | ❌ Zero | ❌ Zero — Tether keeps it | ✅ Rental income distributions |
@@ -101,7 +104,11 @@ Tether USDT generates significant returns from the US Treasury Bills that back m
 | Supply | Approaching maximum | Unlimited, centralized | ✅ Fixed 1 billion |
 | Regulatory clarity | Uncertain | Counterparty + freeze risk | ✅ Reg D compliant |
 
-For a Bitcoin or Tether holder who wants to hold a crypto-native asset that actually earns income, is backed by tangible property, has a clear regulatory structure, and can eventually be traded on a compliant secondary market — the United Properties TRU™ presale offers the exchange pathway with a **bonus allocation available only before public launch**.
+For a Bitcoin or Tether holder who wants an asset that actually earns income, is backed by tangible property, and sits within a clear regulatory structure, United Properties TRU™ offers exactly that: a real-estate-backed interest that pays rental income and participates in appreciation.
+
+:::note Legal review
+This comparison names specific assets (Bitcoin, Tether) for context. Final wording — including whether to name specific assets by brand or use general terms such as "unbacked cryptocurrencies" and "non-yielding stablecoins" — is subject to review by U.S. securities counsel.
+:::
 
 ---
 
