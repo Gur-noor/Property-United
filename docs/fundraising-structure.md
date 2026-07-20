@@ -47,7 +47,7 @@ LP investors receive:
 
 ### Conversion to Tokens
 
-LP interests come with a **pre-assigned property-token (UPTRU) allocation** that becomes real tokens once tokenization goes live (Phase 2+), so investors can participate in the current fundraising stage today and move on-chain when tokens become available — without completing a second subscription. Those tokens represent a diversified interest across the whole portfolio. The exact conversion mechanics (ratio, timing, and eligibility) are set out in the definitive offering documents (PPM) and finalized with U.S. securities counsel.
+LP interests come with a **contractual right to future property tokens (UPTRU)** that become real tokens once tokenization goes live and the required securities licence is obtained (Phase 2+), so investors can participate in the current fundraising stage today and move on-chain when tokens become available — without completing a second subscription. No tokens are minted or allocated at the current stage. Those tokens represent a diversified interest across the whole portfolio. The exact conversion mechanics (ratio, timing, and eligibility) are set out in the definitive offering documents (PPM) and finalized with U.S. securities counsel.
 
 ---
 

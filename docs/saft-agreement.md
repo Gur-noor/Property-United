@@ -4,7 +4,7 @@ title: Early-Stage Agreement
 
 # Early-Stage Agreement Flow
 
-Phase 1 of United Properties TRU™ raises early capital and investor commitment through a **SAFE-style agreement** into the Partnership — a position in the whole portfolio, recorded as a pre-assigned UPTRU property-token allocation. This section explains the instrument and how the pre-assigned allocation converts to on-chain tokens.
+Phase 1 of United Properties TRU™ raises early capital and investor commitment through an early-stage agreement into the Partnership — a position in the whole portfolio, carrying a **contractual right to future UPTRU property tokens**. No tokens are minted or allocated at this stage. This section explains the instrument and how that right converts to on-chain tokens later, once tokenization goes live and the required securities licence is obtained.
 
 :::note Legal review
 Instrument names and terms (the SAFE-style agreement / LP subscription, and the future UPTRU property-token allocation) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+). The platform uses a single token — UPTRU — and there is no separate utility token.
@@ -35,12 +35,12 @@ The SAFE-style agreement carries a **pre-assigned UPTRU property-token allocatio
 |---|---|
 | Token | UPTRU property/security token |
 | Rights | Pro-rata to the investor's position in the Partnership |
-| Minted | Phase 2+ (when tokenization goes live) |
-| No tokens issued now | ✓ No tokens minted in Phase 1 |
+| Minted | Phase 2+ (when tokenization goes live and the required securities licence is obtained) |
+| No tokens issued now | ✓ No tokens minted or allocated in Phase 1 |
 | Identical terms | ✓ Same for all Phase 1 investors |
 
 :::important No tokens today
-No tokens are minted in Phase 1. The pre-assigned allocation is a contractual right to receive UPTRU property tokens when tokenization goes live in Phase 2+.
+No tokens are minted or allocated in Phase 1 — the agreement is a contractual right only, to receive UPTRU property tokens when tokenization goes live in Phase 2+ (once the required securities licence is obtained).
 :::
 
 ## Why This Structure
