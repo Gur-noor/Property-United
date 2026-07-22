@@ -7,18 +7,18 @@ title: Early-Stage Agreement
 Phase 1 of United Properties TRU™ raises early capital and investor commitment through an early-stage agreement into the Partnership — a position in the whole portfolio, carrying a **contractual right to future UPTRU property tokens**. No tokens are minted or allocated at this stage. This section explains the instrument and how that right converts to on-chain tokens later, once tokenization goes live and the required securities licence is obtained.
 
 :::note Legal review
-Instrument names and terms (the SAFE-style agreement / LP subscription, and the future UPTRU property-token allocation) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+). The platform uses a single token — UPTRU — and there is no separate utility token.
+Instrument names and terms (the early-stage agreement / LP subscription, and the future UPTRU property-token allocation) are being finalized with U.S. securities counsel. What is fixed: investors buy into **United Properties TRU™ Limited Partnership** and hold a diversified interest in the **whole portfolio**; the **UPTRU** property token is the tokenized form of that interest (minted Phase 2+). The platform uses a single token — UPTRU — and there is no separate utility token.
 :::
 
 ## The Instrument
 
-### SAFE-Style Agreement — Right to a Position in the Partnership
+### Early-Stage Agreement — Right to a Position in the Partnership
 
-The **SAFE** (Simple Agreement for Future Equity) is a standard startup financing instrument developed by Y Combinator, here adapted so investors buy into **United Properties TRU™ Limited Partnership** (the Partnership) — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio. Phase 1 investors receive a post-money, SAFE-style agreement issued by the Partnership.
+The early-stage agreement is a standard startup financing instrument, here adapted so investors buy into **United Properties TRU™ Limited Partnership** (the Partnership) — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio. Phase 1 investors receive a post-money early-stage agreement issued by the Partnership.
 
 | Parameter | Value |
 |---|---|
-| Instrument | Post-money SAFE-style agreement (YC-based template) |
+| Instrument | Post-money early-stage agreement (standard template) |
 | Issuer | United Properties TRU™ Limited Partnership |
 | Valuation cap | $2–3M (to be set at close) |
 | Discount | None |
@@ -29,7 +29,7 @@ The agreement gives investors the right to convert their investment into an LP i
 
 ### Pre-Assigned UPTRU Property-Token Allocation
 
-The SAFE-style agreement carries a **pre-assigned UPTRU property-token allocation** — the tokenized form of the investor's position in the whole portfolio. This lets investors participate in the current fundraising stage today and move on-chain when tokens are minted (Phase 2+), without a second subscription.
+The early-stage agreement carries a **pre-assigned UPTRU property-token allocation** — the tokenized form of the investor's position in the whole portfolio. This lets investors participate in the current fundraising stage today and move on-chain when tokens are minted (Phase 2+), without a second subscription.
 
 | Parameter | Value |
 |---|---|
@@ -48,7 +48,7 @@ No tokens are minted or allocated in Phase 1 — the agreement is a contractual 
 This instrument is designed for compliance and simplicity:
 
 1. **One template, identical terms** — no per-investor negotiation, no securities complexity
-2. **Regulated** — SAFE is standard, understood by investors and counsel
+2. **Standard** — the early-stage agreement is standard, understood by investors and counsel
 3. **No securities exotica** — no convertible notes, no complex warrant structures
 4. **Zero cash cost perks** — investor benefits (0% origination fee, first-allocation rights, pro-rata next round) cost the platform nothing upfront
 5. **Legal clarity** — the pre-assigned allocation is contractual; no tokens are distributed today
@@ -66,7 +66,7 @@ Every Phase 1 investor also receives:
 ## The Onboarding Flow (Step by Step)
 
 1. Investor completes KYC/KYB and accreditation verification
-2. Investor reviews the SAFE-style agreement terms
+2. Investor reviews the early-stage agreement terms
 3. Investor executes the document via e-signature (DocuSign)
 4. The Partnership countersigns and delivers executed copies
 5. Investor's pre-assigned UPTRU allocation is recorded in the investor register

@@ -53,27 +53,27 @@ LP interests come with a **contractual right to future property tokens (UPTRU)**
 
 ---
 
-## The Early-Stage Instrument (SAFE-Style)
+## The Early-Stage Instrument
 
 ### Structure
 
 | Parameter | Terms |
 |---|---|
-| Instrument | Post-money SAFE-style agreement (right to a position in the Partnership) |
+| Instrument | Post-money early-stage agreement (right to a position in the Partnership) |
 | Issuing entity | United Properties TRU™ Limited Partnership |
 | Raise amount | $200,000 |
 | Valuation cap | $2–3M (to be confirmed at close) |
 | Discount | None |
-| Template | Standard YC (Y Combinator) SAFE template, adapted for the Partnership |
+| Template | Standard, widely-used early-stage template, adapted for the Partnership |
 
-### What a Post-Money SAFE-Style Agreement Means for Investors
+### What a Post-Money Early-Stage Agreement Means for Investors
 
 The agreement converts into a defined position (LP interest) in the Partnership at the next priced financing round, at a valuation calculated on the post-money cap specified in the agreement. Investors do not receive their converted position at the time of signing — they hold a contractual right to receive it at conversion.
 
 The use of a **post-money** cap (as opposed to a pre-money cap) gives investors greater certainty about the percentage they will receive upon conversion, since the cap is calculated on a basis that includes the investment itself.
 
 :::note Legal review
-The precise early-stage instrument (a SAFE-style agreement issued by the Partnership vs. a direct LP subscription) is being finalized with U.S. securities counsel. What is fixed is that investors buy into **United Properties TRU™ Limited Partnership** — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio — not a separate corporate entity.
+The precise early-stage instrument — its exact form and name (for example, a simple agreement for a future position issued by the Partnership vs. a direct LP subscription) — is being finalized with U.S. securities counsel. What is fixed is that investors buy into **United Properties TRU™ Limited Partnership** — the entity that owns the IP and holds the UPTRU tokens representing the diversified portfolio — not a separate corporate entity.
 :::
 
 ### One Template, Identical Terms
@@ -88,7 +88,7 @@ All early investors participate on **identical terms** using a single standard t
 
 ## Early Investor Benefits
 
-In addition to the SAFE-style agreement and its pre-assigned UPTRU allocation, early investors receive the following non-cash benefits:
+In addition to the early-stage agreement and its pre-assigned UPTRU allocation, early investors receive the following non-cash benefits:
 
 | Benefit | Description |
 |---|---|
@@ -102,9 +102,9 @@ These benefits are provided at **zero cash cost** to the Partnership and are des
 
 ## Why This Structure
 
-The SAFE-style structure was selected for the following reasons:
+The early-stage agreement structure was selected for the following reasons:
 
-**Standard instruments** — The YC SAFE is widely understood by founders, investors, and legal counsel. It requires no novel legal drafting and can be executed quickly and cost-effectively.
+**Standard instruments** — A standard early-stage agreement template is widely understood by founders, investors, and legal counsel. It requires no novel legal drafting and can be executed quickly and cost-effectively.
 
 **No property dependency** — Investors are investing in the Partnership and its diversified portfolio — not in any single specific property. There is no requirement to have a property under contract before the raise closes.
 

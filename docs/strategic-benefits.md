@@ -71,13 +71,13 @@ Investors and regulators can have confidence that the compliance framework is st
 
 ## 4. Standard Capital Formation Instruments
 
-The use of a standard **YC post-money SAFE** for the initial $200,000 raise has several advantages:
+The use of a standard **post-money early-stage agreement** for the initial $200,000 raise has several advantages:
 
 - **Speed** — Standard templates reduce time to close. No custom legal drafting is required.
 - **Cost** — Legal cost is minimised when using well-precedented instruments.
-- **Investor familiarity** — SAFE agreements are widely understood by sophisticated investors. There is no investor education burden associated with understanding a novel instrument.
+- **Investor familiarity** — Standard early-stage agreements are widely understood by sophisticated investors. There is no investor education burden associated with understanding a novel instrument.
 - **Clean cap table** — One template with identical terms for all investors results in a clean, manageable cap table.
-- **No securities complexity at this stage** — No tokens are sold in the SAFE round; investors hold a right to a position in the Partnership only.
+- **No securities complexity at this stage** — No tokens are sold in the early-stage round; investors hold a right to a position in the Partnership only.
 
 ---
 

@@ -11,7 +11,11 @@ sidebar_position: 5
 
 United Properties TRU™ operates as a managed platform connecting verified accredited investors to fractional ownership interests in income-producing real estate. The platform handles the full lifecycle of each property — from initial onboarding through to investor distributions and eventual disposition.
 
-The following describes the end-to-end operational flow:
+The following describes the end-to-end operational flow **at scale (Phase 2+), once tokenization is live on-chain**.
+
+:::note Phase 1 vs Phase 2
+The steps below describe the full on-chain platform at scale. **In Phase 1 (current), the platform is off-chain: no UPTRU tokens are minted or allocated.** Early investors sign the early-stage agreement and receive a **pre-assigned UPTRU allocation recorded off-chain** — a contractual right only. Wallet whitelisting and on-chain token minting and distribution begin in **Phase 2+**, once tokenization goes live and the required securities licence is obtained.
+:::
 
 ---
 
@@ -42,15 +46,15 @@ At this stage:
 Prospective investors complete identity verification (KYC) and business verification (KYB) through the platform's verification process. Accredited investor status is confirmed prior to any investment being accepted.
 
 Upon successful verification:
-- The investor's wallet is added to the on-chain whitelist for the portfolio offering
-- The investor is permitted to purchase tokens in the Regulation D 506(c) offering
-- Investment records are maintained both on-chain and in off-chain records
+- The investor is admitted to the Regulation D 506(c) offering and may subscribe
+- In Phase 1, the investor's position is recorded off-chain with a pre-assigned UPTRU allocation; the investor's wallet is added to the on-chain whitelist in Phase 2+, when tokens are minted
+- Investment records are maintained in off-chain records (and on-chain from Phase 2+)
 
 ---
 
-## Step 4 — Capital Raise and Token Distribution
+## Step 4 — Capital Raise and Allocation
 
-The Partnership conducts its Reg D 506(c) offering. Verified investors transfer capital and receive ERC-3643 UPTRU property tokens in return. Token holdings represent the investor's proportional, diversified ownership interest in the whole portfolio — not any single underlying property.
+The Partnership conducts its Reg D 506(c) offering. Verified investors transfer capital and receive a position in the Partnership representing a proportional, diversified ownership interest in the whole portfolio — not any single underlying property. In Phase 1 this position is recorded off-chain as a pre-assigned UPTRU allocation; from Phase 2+, that allocation is minted as ERC-3643 UPTRU property tokens and delivered to the investor's whitelisted wallet.
 
 ---
 
