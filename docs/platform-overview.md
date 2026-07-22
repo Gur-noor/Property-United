@@ -11,11 +11,7 @@ sidebar_position: 5
 
 United Properties TRU™ operates as a managed platform connecting verified accredited investors to fractional ownership interests in income-producing real estate. The platform handles the full lifecycle of each property — from initial onboarding through to investor distributions and eventual disposition.
 
-The following describes the end-to-end operational flow **at scale (Phase 2+), once tokenization is live on-chain**.
-
-:::note Phase 1 vs Phase 2
-The steps below describe the full on-chain platform at scale. **In Phase 1 (current), the platform is off-chain: no UPTRU tokens are minted or allocated.** Early investors sign the early-stage agreement and receive a **pre-assigned UPTRU allocation recorded off-chain** — a contractual right only. Wallet whitelisting and on-chain token minting and distribution begin in **Phase 2+**, once tokenization goes live and the required securities licence is obtained.
-:::
+The following describes the end-to-end operational flow:
 
 ---
 
